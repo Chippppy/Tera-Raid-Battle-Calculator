@@ -1,3 +1,5 @@
+
+/* ChoosePokemonForm CSS - Taken from Online (Source Not Available currently)*/
 #myInput {
   font-size: 16px; /* Increase font-size */
   padding: 12px; /* Add some padding */
@@ -12,17 +14,40 @@
   margin: 0;
 }
 
-#myUL li a {
+#myUL li div {
   border: 1px solid #ddd; /* Add a border to all links */
   margin-top: -1px; /* Prevent double borders */
   background-color: #f6f6f6; /* Grey background color */
   padding: 12px; /* Add some padding */
-  text-decoration: none; /* Remove default text underline */
   font-size: 18px; /* Increase the font-size */
   color: black; /* Add a black text color */
   display: block; /* Make it into a block element to fill the whole list */
 }
 
-#myUL li a:hover:not(.header) {
+#myUL li div:hover:not(.header) {
   background-color: #eee; /* Add a hover effect to all links, except for headers */
 }
+
+
+/* ChooseTeraTypeTable CSS */
+.grid-container-pokeType {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+
+.container-pokeTypeIcon img{
+  width: 6em;
+  padding: 1.6em;
+}
+
+
+/* Main CSS */
+
+.grid-container-selection {
+  display: grid;
+  column-gap: 20px;
+  row-gap: 20px;
+  grid-template-columns: 50% auto;
+}
+

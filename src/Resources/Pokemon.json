@@ -1,0 +1,8332 @@
+[
+  {
+    "index": 1,
+    "PokeNum": 1,
+    "PokeName": "Bulbasaur",
+    "PokeType1": "GRASS",
+    "PokeType2": "POISON"
+  },
+  {
+    "index": 2,
+    "PokeNum": 2,
+    "PokeName": "Ivysaur",
+    "PokeType1": "GRASS",
+    "PokeType2": "POISON"
+  },
+  {
+    "index": 3,
+    "PokeNum": 3,
+    "PokeName": "Venusaur",
+    "PokeType1": "GRASS",
+    "PokeType2": "POISON"
+  },
+  {
+    "index": 4,
+    "PokeNum": 3,
+    "PokeName": "Venusaur\nMega Venusaur",
+    "PokeType1": "GRASS",
+    "PokeType2": "POISON"
+  },
+  {
+    "index": 5,
+    "PokeNum": 4,
+    "PokeName": "Charmander",
+    "PokeType1": "FIRE",
+    "PokeType2": ""
+  },
+  {
+    "index": 6,
+    "PokeNum": 5,
+    "PokeName": "Charmeleon",
+    "PokeType1": "FIRE",
+    "PokeType2": ""
+  },
+  {
+    "index": 7,
+    "PokeNum": 6,
+    "PokeName": "Charizard",
+    "PokeType1": "FIRE",
+    "PokeType2": "FLYING"
+  },
+  {
+    "index": 8,
+    "PokeNum": 6,
+    "PokeName": "Charizard\nMega Charizard X",
+    "PokeType1": "FIRE",
+    "PokeType2": "DRAGON"
+  },
+  {
+    "index": 9,
+    "PokeNum": 6,
+    "PokeName": "Charizard\nMega Charizard Y",
+    "PokeType1": "FIRE",
+    "PokeType2": "FLYING"
+  },
+  {
+    "index": 10,
+    "PokeNum": 7,
+    "PokeName": "Squirtle",
+    "PokeType1": "WATER",
+    "PokeType2": ""
+  },
+  {
+    "index": 11,
+    "PokeNum": 8,
+    "PokeName": "Wartortle",
+    "PokeType1": "WATER",
+    "PokeType2": ""
+  },
+  {
+    "index": 12,
+    "PokeNum": 9,
+    "PokeName": "Blastoise",
+    "PokeType1": "WATER",
+    "PokeType2": ""
+  },
+  {
+    "index": 13,
+    "PokeNum": 9,
+    "PokeName": "Blastoise\nMega Blastoise",
+    "PokeType1": "WATER",
+    "PokeType2": ""
+  },
+  {
+    "index": 14,
+    "PokeNum": 10,
+    "PokeName": "Caterpie",
+    "PokeType1": "BUG",
+    "PokeType2": ""
+  },
+  {
+    "index": 15,
+    "PokeNum": 11,
+    "PokeName": "Metapod",
+    "PokeType1": "BUG",
+    "PokeType2": ""
+  },
+  {
+    "index": 16,
+    "PokeNum": 12,
+    "PokeName": "Butterfree",
+    "PokeType1": "BUG",
+    "PokeType2": "FLYING"
+  },
+  {
+    "index": 17,
+    "PokeNum": 13,
+    "PokeName": "Weedle",
+    "PokeType1": "BUG",
+    "PokeType2": "POISON"
+  },
+  {
+    "index": 18,
+    "PokeNum": 14,
+    "PokeName": "Kakuna",
+    "PokeType1": "BUG",
+    "PokeType2": "POISON"
+  },
+  {
+    "index": 19,
+    "PokeNum": 15,
+    "PokeName": "Beedrill",
+    "PokeType1": "BUG",
+    "PokeType2": "POISON"
+  },
+  {
+    "index": 20,
+    "PokeNum": 15,
+    "PokeName": "Beedrill\nMega Beedrill",
+    "PokeType1": "BUG",
+    "PokeType2": "POISON"
+  },
+  {
+    "index": 21,
+    "PokeNum": 16,
+    "PokeName": "Pidgey",
+    "PokeType1": "NORMAL",
+    "PokeType2": "FLYING"
+  },
+  {
+    "index": 22,
+    "PokeNum": 17,
+    "PokeName": "Pidgeotto",
+    "PokeType1": "NORMAL",
+    "PokeType2": "FLYING"
+  },
+  {
+    "index": 23,
+    "PokeNum": 18,
+    "PokeName": "Pidgeot",
+    "PokeType1": "NORMAL",
+    "PokeType2": "FLYING"
+  },
+  {
+    "index": 24,
+    "PokeNum": 18,
+    "PokeName": "Pidgeot\nMega Pidgeot",
+    "PokeType1": "NORMAL",
+    "PokeType2": "FLYING"
+  },
+  {
+    "index": 25,
+    "PokeNum": 19,
+    "PokeName": "Rattata",
+    "PokeType1": "NORMAL",
+    "PokeType2": ""
+  },
+  {
+    "index": 26,
+    "PokeNum": 19,
+    "PokeName": "Rattata\nAlolan Rattata",
+    "PokeType1": "DARK",
+    "PokeType2": "NORMAL"
+  },
+  {
+    "index": 27,
+    "PokeNum": 20,
+    "PokeName": "Raticate",
+    "PokeType1": "NORMAL",
+    "PokeType2": ""
+  },
+  {
+    "index": 28,
+    "PokeNum": 20,
+    "PokeName": "Raticate\nAlolan Raticate",
+    "PokeType1": "DARK",
+    "PokeType2": "NORMAL"
+  },
+  {
+    "index": 29,
+    "PokeNum": 21,
+    "PokeName": "Spearow",
+    "PokeType1": "NORMAL",
+    "PokeType2": "FLYING"
+  },
+  {
+    "index": 30,
+    "PokeNum": 22,
+    "PokeName": "Fearow",
+    "PokeType1": "NORMAL",
+    "PokeType2": "FLYING"
+  },
+  {
+    "index": 31,
+    "PokeNum": 23,
+    "PokeName": "Ekans",
+    "PokeType1": "POISON",
+    "PokeType2": ""
+  },
+  {
+    "index": 32,
+    "PokeNum": 24,
+    "PokeName": "Arbok",
+    "PokeType1": "POISON",
+    "PokeType2": ""
+  },
+  {
+    "index": 33,
+    "PokeNum": 25,
+    "PokeName": "Pikachu",
+    "PokeType1": "ELECTRIC",
+    "PokeType2": ""
+  },
+  {
+    "index": 34,
+    "PokeNum": 25,
+    "PokeName": "Pikachu\nPartner Pikachu",
+    "PokeType1": "ELECTRIC",
+    "PokeType2": ""
+  },
+  {
+    "index": 35,
+    "PokeNum": 26,
+    "PokeName": "Raichu",
+    "PokeType1": "ELECTRIC",
+    "PokeType2": ""
+  },
+  {
+    "index": 36,
+    "PokeNum": 26,
+    "PokeName": "Raichu\nAlolan Raichu",
+    "PokeType1": "ELECTRIC",
+    "PokeType2": "PSYCHIC"
+  },
+  {
+    "index": 37,
+    "PokeNum": 27,
+    "PokeName": "Sandshrew",
+    "PokeType1": "GROUND",
+    "PokeType2": ""
+  },
+  {
+    "index": 38,
+    "PokeNum": 27,
+    "PokeName": "Sandshrew\nAlolan Sandshrew",
+    "PokeType1": "ICE",
+    "PokeType2": "STEEL"
+  },
+  {
+    "index": 39,
+    "PokeNum": 28,
+    "PokeName": "Sandslash",
+    "PokeType1": "GROUND",
+    "PokeType2": ""
+  },
+  {
+    "index": 40,
+    "PokeNum": 28,
+    "PokeName": "Sandslash\nAlolan Sandslash",
+    "PokeType1": "ICE",
+    "PokeType2": "STEEL"
+  },
+  {
+    "index": 41,
+    "PokeNum": 29,
+    "PokeName": "Nidoran♀",
+    "PokeType1": "POISON",
+    "PokeType2": ""
+  },
+  {
+    "index": 42,
+    "PokeNum": 30,
+    "PokeName": "Nidorina",
+    "PokeType1": "POISON",
+    "PokeType2": ""
+  },
+  {
+    "index": 43,
+    "PokeNum": 31,
+    "PokeName": "Nidoqueen",
+    "PokeType1": "POISON",
+    "PokeType2": "GROUND"
+  },
+  {
+    "index": 44,
+    "PokeNum": 32,
+    "PokeName": "Nidoran♂",
+    "PokeType1": "POISON",
+    "PokeType2": ""
+  },
+  {
+    "index": 45,
+    "PokeNum": 33,
+    "PokeName": "Nidorino",
+    "PokeType1": "POISON",
+    "PokeType2": ""
+  },
+  {
+    "index": 46,
+    "PokeNum": 34,
+    "PokeName": "Nidoking",
+    "PokeType1": "POISON",
+    "PokeType2": "GROUND"
+  },
+  {
+    "index": 47,
+    "PokeNum": 35,
+    "PokeName": "Clefairy",
+    "PokeType1": "FAIRY",
+    "PokeType2": ""
+  },
+  {
+    "index": 48,
+    "PokeNum": 36,
+    "PokeName": "Clefable",
+    "PokeType1": "FAIRY",
+    "PokeType2": ""
+  },
+  {
+    "index": 49,
+    "PokeNum": 37,
+    "PokeName": "Vulpix",
+    "PokeType1": "FIRE",
+    "PokeType2": ""
+  },
+  {
+    "index": 50,
+    "PokeNum": 37,
+    "PokeName": "Vulpix\nAlolan Vulpix",
+    "PokeType1": "ICE",
+    "PokeType2": ""
+  },
+  {
+    "index": 51,
+    "PokeNum": 38,
+    "PokeName": "Ninetales",
+    "PokeType1": "FIRE",
+    "PokeType2": ""
+  },
+  {
+    "index": 52,
+    "PokeNum": 38,
+    "PokeName": "Ninetales\nAlolan Ninetales",
+    "PokeType1": "ICE",
+    "PokeType2": "FAIRY"
+  },
+  {
+    "index": 53,
+    "PokeNum": 39,
+    "PokeName": "Jigglypuff",
+    "PokeType1": "NORMAL",
+    "PokeType2": "FAIRY"
+  },
+  {
+    "index": 54,
+    "PokeNum": 40,
+    "PokeName": "Wigglytuff",
+    "PokeType1": "NORMAL",
+    "PokeType2": "FAIRY"
+  },
+  {
+    "index": 55,
+    "PokeNum": 41,
+    "PokeName": "Zubat",
+    "PokeType1": "POISON",
+    "PokeType2": "FLYING"
+  },
+  {
+    "index": 56,
+    "PokeNum": 42,
+    "PokeName": "Golbat",
+    "PokeType1": "POISON",
+    "PokeType2": "FLYING"
+  },
+  {
+    "index": 57,
+    "PokeNum": 43,
+    "PokeName": "Oddish",
+    "PokeType1": "GRASS",
+    "PokeType2": "POISON"
+  },
+  {
+    "index": 58,
+    "PokeNum": 44,
+    "PokeName": "Gloom",
+    "PokeType1": "GRASS",
+    "PokeType2": "POISON"
+  },
+  {
+    "index": 59,
+    "PokeNum": 45,
+    "PokeName": "Vileplume",
+    "PokeType1": "GRASS",
+    "PokeType2": "POISON"
+  },
+  {
+    "index": 60,
+    "PokeNum": 46,
+    "PokeName": "Paras",
+    "PokeType1": "BUG",
+    "PokeType2": "GRASS"
+  },
+  {
+    "index": 61,
+    "PokeNum": 47,
+    "PokeName": "Parasect",
+    "PokeType1": "BUG",
+    "PokeType2": "GRASS"
+  },
+  {
+    "index": 62,
+    "PokeNum": 48,
+    "PokeName": "Venonat",
+    "PokeType1": "BUG",
+    "PokeType2": "POISON"
+  },
+  {
+    "index": 63,
+    "PokeNum": 49,
+    "PokeName": "Venomoth",
+    "PokeType1": "BUG",
+    "PokeType2": "POISON"
+  },
+  {
+    "index": 64,
+    "PokeNum": 50,
+    "PokeName": "Diglett",
+    "PokeType1": "GROUND",
+    "PokeType2": ""
+  },
+  {
+    "index": 65,
+    "PokeNum": 50,
+    "PokeName": "Diglett\nAlolan Diglett",
+    "PokeType1": "GROUND",
+    "PokeType2": "STEEL"
+  },
+  {
+    "index": 66,
+    "PokeNum": 51,
+    "PokeName": "Dugtrio",
+    "PokeType1": "GROUND",
+    "PokeType2": ""
+  },
+  {
+    "index": 67,
+    "PokeNum": 51,
+    "PokeName": "Dugtrio\nAlolan Dugtrio",
+    "PokeType1": "GROUND",
+    "PokeType2": "STEEL"
+  },
+  {
+    "index": 68,
+    "PokeNum": 52,
+    "PokeName": "Meowth",
+    "PokeType1": "NORMAL",
+    "PokeType2": ""
+  },
+  {
+    "index": 69,
+    "PokeNum": 52,
+    "PokeName": "Meowth\nAlolan Meowth",
+    "PokeType1": "DARK",
+    "PokeType2": ""
+  },
+  {
+    "index": 70,
+    "PokeNum": 52,
+    "PokeName": "Meowth\nGalarian Meowth",
+    "PokeType1": "STEEL",
+    "PokeType2": ""
+  },
+  {
+    "index": 71,
+    "PokeNum": 53,
+    "PokeName": "Persian",
+    "PokeType1": "NORMAL",
+    "PokeType2": ""
+  },
+  {
+    "index": 72,
+    "PokeNum": 53,
+    "PokeName": "Persian\nAlolan Persian",
+    "PokeType1": "DARK",
+    "PokeType2": ""
+  },
+  {
+    "index": 73,
+    "PokeNum": 54,
+    "PokeName": "Psyduck",
+    "PokeType1": "WATER",
+    "PokeType2": ""
+  },
+  {
+    "index": 74,
+    "PokeNum": 55,
+    "PokeName": "Golduck",
+    "PokeType1": "WATER",
+    "PokeType2": ""
+  },
+  {
+    "index": 75,
+    "PokeNum": 56,
+    "PokeName": "Mankey",
+    "PokeType1": "FIGHTING",
+    "PokeType2": ""
+  },
+  {
+    "index": 76,
+    "PokeNum": 57,
+    "PokeName": "Primeape",
+    "PokeType1": "FIGHTING",
+    "PokeType2": ""
+  },
+  {
+    "index": 77,
+    "PokeNum": 58,
+    "PokeName": "Growlithe",
+    "PokeType1": "FIRE",
+    "PokeType2": ""
+  },
+  {
+    "index": 78,
+    "PokeNum": 58,
+    "PokeName": "Growlithe\nHisuian Growlithe",
+    "PokeType1": "FIRE",
+    "PokeType2": "ROCK"
+  },
+  {
+    "index": 79,
+    "PokeNum": 59,
+    "PokeName": "Arcanine",
+    "PokeType1": "FIRE",
+    "PokeType2": ""
+  },
+  {
+    "index": 80,
+    "PokeNum": 59,
+    "PokeName": "Arcanine\nHisuian Arcanine",
+    "PokeType1": "FIRE",
+    "PokeType2": "ROCK"
+  },
+  {
+    "index": 81,
+    "PokeNum": 60,
+    "PokeName": "Poliwag",
+    "PokeType1": "WATER",
+    "PokeType2": ""
+  },
+  {
+    "index": 82,
+    "PokeNum": 61,
+    "PokeName": "Poliwhirl",
+    "PokeType1": "WATER",
+    "PokeType2": ""
+  },
+  {
+    "index": 83,
+    "PokeNum": 62,
+    "PokeName": "Poliwrath",
+    "PokeType1": "WATER",
+    "PokeType2": "FIGHTING"
+  },
+  {
+    "index": 84,
+    "PokeNum": 63,
+    "PokeName": "Abra",
+    "PokeType1": "PSYCHIC",
+    "PokeType2": ""
+  },
+  {
+    "index": 85,
+    "PokeNum": 64,
+    "PokeName": "Kadabra",
+    "PokeType1": "PSYCHIC",
+    "PokeType2": ""
+  },
+  {
+    "index": 86,
+    "PokeNum": 65,
+    "PokeName": "Alakazam",
+    "PokeType1": "PSYCHIC",
+    "PokeType2": ""
+  },
+  {
+    "index": 87,
+    "PokeNum": 65,
+    "PokeName": "Alakazam\nMega Alakazam",
+    "PokeType1": "PSYCHIC",
+    "PokeType2": ""
+  },
+  {
+    "index": 88,
+    "PokeNum": 66,
+    "PokeName": "Machop",
+    "PokeType1": "FIGHTING",
+    "PokeType2": ""
+  },
+  {
+    "index": 89,
+    "PokeNum": 67,
+    "PokeName": "Machoke",
+    "PokeType1": "FIGHTING",
+    "PokeType2": ""
+  },
+  {
+    "index": 90,
+    "PokeNum": 68,
+    "PokeName": "Machamp",
+    "PokeType1": "FIGHTING",
+    "PokeType2": ""
+  },
+  {
+    "index": 91,
+    "PokeNum": 69,
+    "PokeName": "Bellsprout",
+    "PokeType1": "GRASS",
+    "PokeType2": "POISON"
+  },
+  {
+    "index": 92,
+    "PokeNum": 70,
+    "PokeName": "Weepinbell",
+    "PokeType1": "GRASS",
+    "PokeType2": "POISON"
+  },
+  {
+    "index": 93,
+    "PokeNum": 71,
+    "PokeName": "Victreebel",
+    "PokeType1": "GRASS",
+    "PokeType2": "POISON"
+  },
+  {
+    "index": 94,
+    "PokeNum": 72,
+    "PokeName": "Tentacool",
+    "PokeType1": "WATER",
+    "PokeType2": "POISON"
+  },
+  {
+    "index": 95,
+    "PokeNum": 73,
+    "PokeName": "Tentacruel",
+    "PokeType1": "WATER",
+    "PokeType2": "POISON"
+  },
+  {
+    "index": 96,
+    "PokeNum": 74,
+    "PokeName": "Geodude",
+    "PokeType1": "ROCK",
+    "PokeType2": "GROUND"
+  },
+  {
+    "index": 97,
+    "PokeNum": 74,
+    "PokeName": "Geodude\nAlolan Geodude",
+    "PokeType1": "ROCK",
+    "PokeType2": "ELECTRIC"
+  },
+  {
+    "index": 98,
+    "PokeNum": 75,
+    "PokeName": "Graveler",
+    "PokeType1": "ROCK",
+    "PokeType2": "GROUND"
+  },
+  {
+    "index": 99,
+    "PokeNum": 75,
+    "PokeName": "Graveler\nAlolan Graveler",
+    "PokeType1": "ROCK",
+    "PokeType2": "ELECTRIC"
+  },
+  {
+    "index": 100,
+    "PokeNum": 76,
+    "PokeName": "Golem",
+    "PokeType1": "ROCK",
+    "PokeType2": "GROUND"
+  },
+  {
+    "index": 101,
+    "PokeNum": 76,
+    "PokeName": "Golem\nAlolan Golem",
+    "PokeType1": "ROCK",
+    "PokeType2": "ELECTRIC"
+  },
+  {
+    "index": 102,
+    "PokeNum": 77,
+    "PokeName": "Ponyta",
+    "PokeType1": "FIRE",
+    "PokeType2": ""
+  },
+  {
+    "index": 103,
+    "PokeNum": 77,
+    "PokeName": "Ponyta\nGalarian Ponyta",
+    "PokeType1": "PSYCHIC",
+    "PokeType2": ""
+  },
+  {
+    "index": 104,
+    "PokeNum": 78,
+    "PokeName": "Rapidash",
+    "PokeType1": "FIRE",
+    "PokeType2": ""
+  },
+  {
+    "index": 105,
+    "PokeNum": 78,
+    "PokeName": "Rapidash\nGalarian Rapidash",
+    "PokeType1": "PSYCHIC",
+    "PokeType2": "FAIRY"
+  },
+  {
+    "index": 106,
+    "PokeNum": 79,
+    "PokeName": "Slowpoke",
+    "PokeType1": "WATER",
+    "PokeType2": "PSYCHIC"
+  },
+  {
+    "index": 107,
+    "PokeNum": 79,
+    "PokeName": "Slowpoke\nGalarian Slowpoke",
+    "PokeType1": "PSYCHIC",
+    "PokeType2": ""
+  },
+  {
+    "index": 108,
+    "PokeNum": 80,
+    "PokeName": "Slowbro",
+    "PokeType1": "WATER",
+    "PokeType2": "PSYCHIC"
+  },
+  {
+    "index": 109,
+    "PokeNum": 80,
+    "PokeName": "Slowbro\nMega Slowbro",
+    "PokeType1": "WATER",
+    "PokeType2": "PSYCHIC"
+  },
+  {
+    "index": 110,
+    "PokeNum": 80,
+    "PokeName": "Slowbro\nGalarian Slowbro",
+    "PokeType1": "POISON",
+    "PokeType2": "PSYCHIC"
+  },
+  {
+    "index": 111,
+    "PokeNum": 81,
+    "PokeName": "Magnemite",
+    "PokeType1": "ELECTRIC",
+    "PokeType2": "STEEL"
+  },
+  {
+    "index": 112,
+    "PokeNum": 82,
+    "PokeName": "Magneton",
+    "PokeType1": "ELECTRIC",
+    "PokeType2": "STEEL"
+  },
+  {
+    "index": 113,
+    "PokeNum": 83,
+    "PokeName": "Farfetch'd",
+    "PokeType1": "NORMAL",
+    "PokeType2": "FLYING"
+  },
+  {
+    "index": 114,
+    "PokeNum": 83,
+    "PokeName": "Farfetch'd\nGalarian Farfetch'd",
+    "PokeType1": "FIGHTING",
+    "PokeType2": ""
+  },
+  {
+    "index": 115,
+    "PokeNum": 84,
+    "PokeName": "Doduo",
+    "PokeType1": "NORMAL",
+    "PokeType2": "FLYING"
+  },
+  {
+    "index": 116,
+    "PokeNum": 85,
+    "PokeName": "Dodrio",
+    "PokeType1": "NORMAL",
+    "PokeType2": "FLYING"
+  },
+  {
+    "index": 117,
+    "PokeNum": 86,
+    "PokeName": "Seel",
+    "PokeType1": "WATER",
+    "PokeType2": ""
+  },
+  {
+    "index": 118,
+    "PokeNum": 87,
+    "PokeName": "Dewgong",
+    "PokeType1": "WATER",
+    "PokeType2": "ICE"
+  },
+  {
+    "index": 119,
+    "PokeNum": 88,
+    "PokeName": "Grimer",
+    "PokeType1": "POISON",
+    "PokeType2": ""
+  },
+  {
+    "index": 120,
+    "PokeNum": 88,
+    "PokeName": "Grimer\nAlolan Grimer",
+    "PokeType1": "POISON",
+    "PokeType2": "DARK"
+  },
+  {
+    "index": 121,
+    "PokeNum": 89,
+    "PokeName": "Muk",
+    "PokeType1": "POISON",
+    "PokeType2": ""
+  },
+  {
+    "index": 122,
+    "PokeNum": 89,
+    "PokeName": "Muk\nAlolan Muk",
+    "PokeType1": "POISON",
+    "PokeType2": "DARK"
+  },
+  {
+    "index": 123,
+    "PokeNum": 90,
+    "PokeName": "Shellder",
+    "PokeType1": "WATER",
+    "PokeType2": ""
+  },
+  {
+    "index": 124,
+    "PokeNum": 91,
+    "PokeName": "Cloyster",
+    "PokeType1": "WATER",
+    "PokeType2": "ICE"
+  },
+  {
+    "index": 125,
+    "PokeNum": 92,
+    "PokeName": "Gastly",
+    "PokeType1": "GHOST",
+    "PokeType2": "POISON"
+  },
+  {
+    "index": 126,
+    "PokeNum": 93,
+    "PokeName": "Haunter",
+    "PokeType1": "GHOST",
+    "PokeType2": "POISON"
+  },
+  {
+    "index": 127,
+    "PokeNum": 94,
+    "PokeName": "Gengar",
+    "PokeType1": "GHOST",
+    "PokeType2": "POISON"
+  },
+  {
+    "index": 128,
+    "PokeNum": 94,
+    "PokeName": "Gengar\nMega Gengar",
+    "PokeType1": "GHOST",
+    "PokeType2": "POISON"
+  },
+  {
+    "index": 129,
+    "PokeNum": 95,
+    "PokeName": "Onix",
+    "PokeType1": "ROCK",
+    "PokeType2": "GROUND"
+  },
+  {
+    "index": 130,
+    "PokeNum": 96,
+    "PokeName": "Drowzee",
+    "PokeType1": "PSYCHIC",
+    "PokeType2": ""
+  },
+  {
+    "index": 131,
+    "PokeNum": 97,
+    "PokeName": "Hypno",
+    "PokeType1": "PSYCHIC",
+    "PokeType2": ""
+  },
+  {
+    "index": 132,
+    "PokeNum": 98,
+    "PokeName": "Krabby",
+    "PokeType1": "WATER",
+    "PokeType2": ""
+  },
+  {
+    "index": 133,
+    "PokeNum": 99,
+    "PokeName": "Kingler",
+    "PokeType1": "WATER",
+    "PokeType2": ""
+  },
+  {
+    "index": 134,
+    "PokeNum": 100,
+    "PokeName": "Voltorb",
+    "PokeType1": "ELECTRIC",
+    "PokeType2": ""
+  },
+  {
+    "index": 135,
+    "PokeNum": 100,
+    "PokeName": "Voltorb\nHisuian Voltorb",
+    "PokeType1": "ELECTRIC",
+    "PokeType2": "GRASS"
+  },
+  {
+    "index": 136,
+    "PokeNum": 101,
+    "PokeName": "Electrode",
+    "PokeType1": "ELECTRIC",
+    "PokeType2": ""
+  },
+  {
+    "index": 137,
+    "PokeNum": 101,
+    "PokeName": "Electrode\nHisuian Electrode",
+    "PokeType1": "ELECTRIC",
+    "PokeType2": "GRASS"
+  },
+  {
+    "index": 138,
+    "PokeNum": 102,
+    "PokeName": "Exeggcute",
+    "PokeType1": "GRASS",
+    "PokeType2": "PSYCHIC"
+  },
+  {
+    "index": 139,
+    "PokeNum": 103,
+    "PokeName": "Exeggutor",
+    "PokeType1": "GRASS",
+    "PokeType2": "PSYCHIC"
+  },
+  {
+    "index": 140,
+    "PokeNum": 103,
+    "PokeName": "Exeggutor\nAlolan Exeggutor",
+    "PokeType1": "GRASS",
+    "PokeType2": "DRAGON"
+  },
+  {
+    "index": 141,
+    "PokeNum": 104,
+    "PokeName": "Cubone",
+    "PokeType1": "GROUND",
+    "PokeType2": ""
+  },
+  {
+    "index": 142,
+    "PokeNum": 105,
+    "PokeName": "Marowak",
+    "PokeType1": "GROUND",
+    "PokeType2": ""
+  },
+  {
+    "index": 143,
+    "PokeNum": 105,
+    "PokeName": "Marowak\nAlolan Marowak",
+    "PokeType1": "FIRE",
+    "PokeType2": "GHOST"
+  },
+  {
+    "index": 144,
+    "PokeNum": 106,
+    "PokeName": "Hitmonlee",
+    "PokeType1": "FIGHTING",
+    "PokeType2": ""
+  },
+  {
+    "index": 145,
+    "PokeNum": 107,
+    "PokeName": "Hitmonchan",
+    "PokeType1": "FIGHTING",
+    "PokeType2": ""
+  },
+  {
+    "index": 146,
+    "PokeNum": 108,
+    "PokeName": "Lickitung",
+    "PokeType1": "NORMAL",
+    "PokeType2": ""
+  },
+  {
+    "index": 147,
+    "PokeNum": 109,
+    "PokeName": "Koffing",
+    "PokeType1": "POISON",
+    "PokeType2": ""
+  },
+  {
+    "index": 148,
+    "PokeNum": 110,
+    "PokeName": "Weezing",
+    "PokeType1": "POISON",
+    "PokeType2": ""
+  },
+  {
+    "index": 149,
+    "PokeNum": 110,
+    "PokeName": "Weezing\nGalarian Weezing",
+    "PokeType1": "POISON",
+    "PokeType2": "FAIRY"
+  },
+  {
+    "index": 150,
+    "PokeNum": 111,
+    "PokeName": "Rhyhorn",
+    "PokeType1": "GROUND",
+    "PokeType2": "ROCK"
+  },
+  {
+    "index": 151,
+    "PokeNum": 112,
+    "PokeName": "Rhydon",
+    "PokeType1": "GROUND",
+    "PokeType2": "ROCK"
+  },
+  {
+    "index": 152,
+    "PokeNum": 113,
+    "PokeName": "Chansey",
+    "PokeType1": "NORMAL",
+    "PokeType2": ""
+  },
+  {
+    "index": 153,
+    "PokeNum": 114,
+    "PokeName": "Tangela",
+    "PokeType1": "GRASS",
+    "PokeType2": ""
+  },
+  {
+    "index": 154,
+    "PokeNum": 115,
+    "PokeName": "Kangaskhan",
+    "PokeType1": "NORMAL",
+    "PokeType2": ""
+  },
+  {
+    "index": 155,
+    "PokeNum": 115,
+    "PokeName": "Kangaskhan\nMega Kangaskhan",
+    "PokeType1": "NORMAL",
+    "PokeType2": ""
+  },
+  {
+    "index": 156,
+    "PokeNum": 116,
+    "PokeName": "Horsea",
+    "PokeType1": "WATER",
+    "PokeType2": ""
+  },
+  {
+    "index": 157,
+    "PokeNum": 117,
+    "PokeName": "Seadra",
+    "PokeType1": "WATER",
+    "PokeType2": ""
+  },
+  {
+    "index": 158,
+    "PokeNum": 118,
+    "PokeName": "Goldeen",
+    "PokeType1": "WATER",
+    "PokeType2": ""
+  },
+  {
+    "index": 159,
+    "PokeNum": 119,
+    "PokeName": "Seaking",
+    "PokeType1": "WATER",
+    "PokeType2": ""
+  },
+  {
+    "index": 160,
+    "PokeNum": 120,
+    "PokeName": "Staryu",
+    "PokeType1": "WATER",
+    "PokeType2": ""
+  },
+  {
+    "index": 161,
+    "PokeNum": 121,
+    "PokeName": "Starmie",
+    "PokeType1": "WATER",
+    "PokeType2": "PSYCHIC"
+  },
+  {
+    "index": 162,
+    "PokeNum": 122,
+    "PokeName": "Mr. Mime",
+    "PokeType1": "PSYCHIC",
+    "PokeType2": "FAIRY"
+  },
+  {
+    "index": 163,
+    "PokeNum": 122,
+    "PokeName": "Mr. Mime\nGalarian Mr. Mime",
+    "PokeType1": "ICE",
+    "PokeType2": "PSYCHIC"
+  },
+  {
+    "index": 164,
+    "PokeNum": 123,
+    "PokeName": "Scyther",
+    "PokeType1": "BUG",
+    "PokeType2": "FLYING"
+  },
+  {
+    "index": 165,
+    "PokeNum": 124,
+    "PokeName": "Jynx",
+    "PokeType1": "ICE",
+    "PokeType2": "PSYCHIC"
+  },
+  {
+    "index": 166,
+    "PokeNum": 125,
+    "PokeName": "Electabuzz",
+    "PokeType1": "ELECTRIC",
+    "PokeType2": ""
+  },
+  {
+    "index": 167,
+    "PokeNum": 126,
+    "PokeName": "Magmar",
+    "PokeType1": "FIRE",
+    "PokeType2": ""
+  },
+  {
+    "index": 168,
+    "PokeNum": 127,
+    "PokeName": "Pinsir",
+    "PokeType1": "BUG",
+    "PokeType2": ""
+  },
+  {
+    "index": 169,
+    "PokeNum": 127,
+    "PokeName": "Pinsir\nMega Pinsir",
+    "PokeType1": "BUG",
+    "PokeType2": "FLYING"
+  },
+  {
+    "index": 170,
+    "PokeNum": 128,
+    "PokeName": "Tauros",
+    "PokeType1": "NORMAL",
+    "PokeType2": ""
+  },
+  {
+    "index": 171,
+    "PokeNum": 128,
+    "PokeName": "Tauros\nCombat Breed",
+    "PokeType1": "FIGHTING",
+    "PokeType2": ""
+  },
+  {
+    "index": 172,
+    "PokeNum": 128,
+    "PokeName": "Tauros\nBlaze Breed",
+    "PokeType1": "FIGHTING",
+    "PokeType2": "FIRE"
+  },
+  {
+    "index": 173,
+    "PokeNum": 128,
+    "PokeName": "Tauros\nAqua Breed",
+    "PokeType1": "FIGHTING",
+    "PokeType2": "WATER"
+  },
+  {
+    "index": 174,
+    "PokeNum": 129,
+    "PokeName": "Magikarp",
+    "PokeType1": "WATER",
+    "PokeType2": ""
+  },
+  {
+    "index": 175,
+    "PokeNum": 130,
+    "PokeName": "Gyarados",
+    "PokeType1": "WATER",
+    "PokeType2": "FLYING"
+  },
+  {
+    "index": 176,
+    "PokeNum": 130,
+    "PokeName": "Gyarados\nMega Gyarados",
+    "PokeType1": "WATER",
+    "PokeType2": "DARK"
+  },
+  {
+    "index": 177,
+    "PokeNum": 131,
+    "PokeName": "Lapras",
+    "PokeType1": "WATER",
+    "PokeType2": "ICE"
+  },
+  {
+    "index": 178,
+    "PokeNum": 132,
+    "PokeName": "Ditto",
+    "PokeType1": "NORMAL",
+    "PokeType2": ""
+  },
+  {
+    "index": 179,
+    "PokeNum": 133,
+    "PokeName": "Eevee",
+    "PokeType1": "NORMAL",
+    "PokeType2": ""
+  },
+  {
+    "index": 180,
+    "PokeNum": 133,
+    "PokeName": "Eevee\nPartner Eevee",
+    "PokeType1": "NORMAL",
+    "PokeType2": ""
+  },
+  {
+    "index": 181,
+    "PokeNum": 134,
+    "PokeName": "Vaporeon",
+    "PokeType1": "WATER",
+    "PokeType2": ""
+  },
+  {
+    "index": 182,
+    "PokeNum": 135,
+    "PokeName": "Jolteon",
+    "PokeType1": "ELECTRIC",
+    "PokeType2": ""
+  },
+  {
+    "index": 183,
+    "PokeNum": 136,
+    "PokeName": "Flareon",
+    "PokeType1": "FIRE",
+    "PokeType2": ""
+  },
+  {
+    "index": 184,
+    "PokeNum": 137,
+    "PokeName": "Porygon",
+    "PokeType1": "NORMAL",
+    "PokeType2": ""
+  },
+  {
+    "index": 185,
+    "PokeNum": 138,
+    "PokeName": "Omanyte",
+    "PokeType1": "ROCK",
+    "PokeType2": "WATER"
+  },
+  {
+    "index": 186,
+    "PokeNum": 139,
+    "PokeName": "Omastar",
+    "PokeType1": "ROCK",
+    "PokeType2": "WATER"
+  },
+  {
+    "index": 187,
+    "PokeNum": 140,
+    "PokeName": "Kabuto",
+    "PokeType1": "ROCK",
+    "PokeType2": "WATER"
+  },
+  {
+    "index": 188,
+    "PokeNum": 141,
+    "PokeName": "Kabutops",
+    "PokeType1": "ROCK",
+    "PokeType2": "WATER"
+  },
+  {
+    "index": 189,
+    "PokeNum": 142,
+    "PokeName": "Aerodactyl",
+    "PokeType1": "ROCK",
+    "PokeType2": "FLYING"
+  },
+  {
+    "index": 190,
+    "PokeNum": 142,
+    "PokeName": "Aerodactyl\nMega Aerodactyl",
+    "PokeType1": "ROCK",
+    "PokeType2": "FLYING"
+  },
+  {
+    "index": 191,
+    "PokeNum": 143,
+    "PokeName": "Snorlax",
+    "PokeType1": "NORMAL",
+    "PokeType2": ""
+  },
+  {
+    "index": 192,
+    "PokeNum": 144,
+    "PokeName": "Articuno",
+    "PokeType1": "ICE",
+    "PokeType2": "FLYING"
+  },
+  {
+    "index": 193,
+    "PokeNum": 144,
+    "PokeName": "Articuno\nGalarian Articuno",
+    "PokeType1": "PSYCHIC",
+    "PokeType2": "FLYING"
+  },
+  {
+    "index": 194,
+    "PokeNum": 145,
+    "PokeName": "Zapdos",
+    "PokeType1": "ELECTRIC",
+    "PokeType2": "FLYING"
+  },
+  {
+    "index": 195,
+    "PokeNum": 145,
+    "PokeName": "Zapdos\nGalarian Zapdos",
+    "PokeType1": "FIGHTING",
+    "PokeType2": "FLYING"
+  },
+  {
+    "index": 196,
+    "PokeNum": 146,
+    "PokeName": "Moltres",
+    "PokeType1": "FIRE",
+    "PokeType2": "FLYING"
+  },
+  {
+    "index": 197,
+    "PokeNum": 146,
+    "PokeName": "Moltres\nGalarian Moltres",
+    "PokeType1": "DARK",
+    "PokeType2": "FLYING"
+  },
+  {
+    "index": 198,
+    "PokeNum": 147,
+    "PokeName": "Dratini",
+    "PokeType1": "DRAGON",
+    "PokeType2": ""
+  },
+  {
+    "index": 199,
+    "PokeNum": 148,
+    "PokeName": "Dragonair",
+    "PokeType1": "DRAGON",
+    "PokeType2": ""
+  },
+  {
+    "index": 200,
+    "PokeNum": 149,
+    "PokeName": "Dragonite",
+    "PokeType1": "DRAGON",
+    "PokeType2": "FLYING"
+  },
+  {
+    "index": 201,
+    "PokeNum": 150,
+    "PokeName": "Mewtwo",
+    "PokeType1": "PSYCHIC",
+    "PokeType2": ""
+  },
+  {
+    "index": 202,
+    "PokeNum": 150,
+    "PokeName": "Mewtwo\nMega Mewtwo X",
+    "PokeType1": "PSYCHIC",
+    "PokeType2": "FIGHTING"
+  },
+  {
+    "index": 203,
+    "PokeNum": 150,
+    "PokeName": "Mewtwo\nMega Mewtwo Y",
+    "PokeType1": "PSYCHIC",
+    "PokeType2": ""
+  },
+  {
+    "index": 204,
+    "PokeNum": 151,
+    "PokeName": "Mew",
+    "PokeType1": "PSYCHIC",
+    "PokeType2": ""
+  },
+  {
+    "index": 205,
+    "PokeNum": 152,
+    "PokeName": "Chikorita",
+    "PokeType1": "GRASS",
+    "PokeType2": ""
+  },
+  {
+    "index": 206,
+    "PokeNum": 153,
+    "PokeName": "Bayleef",
+    "PokeType1": "GRASS",
+    "PokeType2": ""
+  },
+  {
+    "index": 207,
+    "PokeNum": 154,
+    "PokeName": "Meganium",
+    "PokeType1": "GRASS",
+    "PokeType2": ""
+  },
+  {
+    "index": 208,
+    "PokeNum": 155,
+    "PokeName": "Cyndaquil",
+    "PokeType1": "FIRE",
+    "PokeType2": ""
+  },
+  {
+    "index": 209,
+    "PokeNum": 156,
+    "PokeName": "Quilava",
+    "PokeType1": "FIRE",
+    "PokeType2": ""
+  },
+  {
+    "index": 210,
+    "PokeNum": 157,
+    "PokeName": "Typhlosion",
+    "PokeType1": "FIRE",
+    "PokeType2": ""
+  },
+  {
+    "index": 211,
+    "PokeNum": 157,
+    "PokeName": "Typhlosion\nHisuian Typhlosion",
+    "PokeType1": "FIRE",
+    "PokeType2": "GHOST"
+  },
+  {
+    "index": 212,
+    "PokeNum": 158,
+    "PokeName": "Totodile",
+    "PokeType1": "WATER",
+    "PokeType2": ""
+  },
+  {
+    "index": 213,
+    "PokeNum": 159,
+    "PokeName": "Croconaw",
+    "PokeType1": "WATER",
+    "PokeType2": ""
+  },
+  {
+    "index": 214,
+    "PokeNum": 160,
+    "PokeName": "Feraligatr",
+    "PokeType1": "WATER",
+    "PokeType2": ""
+  },
+  {
+    "index": 215,
+    "PokeNum": 161,
+    "PokeName": "Sentret",
+    "PokeType1": "NORMAL",
+    "PokeType2": ""
+  },
+  {
+    "index": 216,
+    "PokeNum": 162,
+    "PokeName": "Furret",
+    "PokeType1": "NORMAL",
+    "PokeType2": ""
+  },
+  {
+    "index": 217,
+    "PokeNum": 163,
+    "PokeName": "Hoothoot",
+    "PokeType1": "NORMAL",
+    "PokeType2": "FLYING"
+  },
+  {
+    "index": 218,
+    "PokeNum": 164,
+    "PokeName": "Noctowl",
+    "PokeType1": "NORMAL",
+    "PokeType2": "FLYING"
+  },
+  {
+    "index": 219,
+    "PokeNum": 165,
+    "PokeName": "Ledyba",
+    "PokeType1": "BUG",
+    "PokeType2": "FLYING"
+  },
+  {
+    "index": 220,
+    "PokeNum": 166,
+    "PokeName": "Ledian",
+    "PokeType1": "BUG",
+    "PokeType2": "FLYING"
+  },
+  {
+    "index": 221,
+    "PokeNum": 167,
+    "PokeName": "Spinarak",
+    "PokeType1": "BUG",
+    "PokeType2": "POISON"
+  },
+  {
+    "index": 222,
+    "PokeNum": 168,
+    "PokeName": "Ariados",
+    "PokeType1": "BUG",
+    "PokeType2": "POISON"
+  },
+  {
+    "index": 223,
+    "PokeNum": 169,
+    "PokeName": "Crobat",
+    "PokeType1": "POISON",
+    "PokeType2": "FLYING"
+  },
+  {
+    "index": 224,
+    "PokeNum": 170,
+    "PokeName": "Chinchou",
+    "PokeType1": "WATER",
+    "PokeType2": "ELECTRIC"
+  },
+  {
+    "index": 225,
+    "PokeNum": 171,
+    "PokeName": "Lanturn",
+    "PokeType1": "WATER",
+    "PokeType2": "ELECTRIC"
+  },
+  {
+    "index": 226,
+    "PokeNum": 172,
+    "PokeName": "Pichu",
+    "PokeType1": "ELECTRIC",
+    "PokeType2": ""
+  },
+  {
+    "index": 227,
+    "PokeNum": 173,
+    "PokeName": "Cleffa",
+    "PokeType1": "FAIRY",
+    "PokeType2": ""
+  },
+  {
+    "index": 228,
+    "PokeNum": 174,
+    "PokeName": "Igglybuff",
+    "PokeType1": "NORMAL",
+    "PokeType2": "FAIRY"
+  },
+  {
+    "index": 229,
+    "PokeNum": 175,
+    "PokeName": "Togepi",
+    "PokeType1": "FAIRY",
+    "PokeType2": ""
+  },
+  {
+    "index": 230,
+    "PokeNum": 176,
+    "PokeName": "Togetic",
+    "PokeType1": "FAIRY",
+    "PokeType2": "FLYING"
+  },
+  {
+    "index": 231,
+    "PokeNum": 177,
+    "PokeName": "Natu",
+    "PokeType1": "PSYCHIC",
+    "PokeType2": "FLYING"
+  },
+  {
+    "index": 232,
+    "PokeNum": 178,
+    "PokeName": "Xatu",
+    "PokeType1": "PSYCHIC",
+    "PokeType2": "FLYING"
+  },
+  {
+    "index": 233,
+    "PokeNum": 179,
+    "PokeName": "Mareep",
+    "PokeType1": "ELECTRIC",
+    "PokeType2": ""
+  },
+  {
+    "index": 234,
+    "PokeNum": 180,
+    "PokeName": "Flaaffy",
+    "PokeType1": "ELECTRIC",
+    "PokeType2": ""
+  },
+  {
+    "index": 235,
+    "PokeNum": 181,
+    "PokeName": "Ampharos",
+    "PokeType1": "ELECTRIC",
+    "PokeType2": ""
+  },
+  {
+    "index": 236,
+    "PokeNum": 181,
+    "PokeName": "Ampharos\nMega Ampharos",
+    "PokeType1": "ELECTRIC",
+    "PokeType2": "DRAGON"
+  },
+  {
+    "index": 237,
+    "PokeNum": 182,
+    "PokeName": "Bellossom",
+    "PokeType1": "GRASS",
+    "PokeType2": ""
+  },
+  {
+    "index": 238,
+    "PokeNum": 183,
+    "PokeName": "Marill",
+    "PokeType1": "WATER",
+    "PokeType2": "FAIRY"
+  },
+  {
+    "index": 239,
+    "PokeNum": 184,
+    "PokeName": "Azumarill",
+    "PokeType1": "WATER",
+    "PokeType2": "FAIRY"
+  },
+  {
+    "index": 240,
+    "PokeNum": 185,
+    "PokeName": "Sudowoodo",
+    "PokeType1": "ROCK",
+    "PokeType2": ""
+  },
+  {
+    "index": 241,
+    "PokeNum": 186,
+    "PokeName": "Politoed",
+    "PokeType1": "WATER",
+    "PokeType2": ""
+  },
+  {
+    "index": 242,
+    "PokeNum": 187,
+    "PokeName": "Hoppip",
+    "PokeType1": "GRASS",
+    "PokeType2": "FLYING"
+  },
+  {
+    "index": 243,
+    "PokeNum": 188,
+    "PokeName": "Skiploom",
+    "PokeType1": "GRASS",
+    "PokeType2": "FLYING"
+  },
+  {
+    "index": 244,
+    "PokeNum": 189,
+    "PokeName": "Jumpluff",
+    "PokeType1": "GRASS",
+    "PokeType2": "FLYING"
+  },
+  {
+    "index": 245,
+    "PokeNum": 190,
+    "PokeName": "Aipom",
+    "PokeType1": "NORMAL",
+    "PokeType2": ""
+  },
+  {
+    "index": 246,
+    "PokeNum": 191,
+    "PokeName": "Sunkern",
+    "PokeType1": "GRASS",
+    "PokeType2": ""
+  },
+  {
+    "index": 247,
+    "PokeNum": 192,
+    "PokeName": "Sunflora",
+    "PokeType1": "GRASS",
+    "PokeType2": ""
+  },
+  {
+    "index": 248,
+    "PokeNum": 193,
+    "PokeName": "Yanma",
+    "PokeType1": "BUG",
+    "PokeType2": "FLYING"
+  },
+  {
+    "index": 249,
+    "PokeNum": 194,
+    "PokeName": "Wooper",
+    "PokeType1": "WATER",
+    "PokeType2": "GROUND"
+  },
+  {
+    "index": 250,
+    "PokeNum": 194,
+    "PokeName": "Wooper\nPaldean Wooper",
+    "PokeType1": "POISON",
+    "PokeType2": "GROUND"
+  },
+  {
+    "index": 251,
+    "PokeNum": 195,
+    "PokeName": "Quagsire",
+    "PokeType1": "WATER",
+    "PokeType2": "GROUND"
+  },
+  {
+    "index": 252,
+    "PokeNum": 196,
+    "PokeName": "Espeon",
+    "PokeType1": "PSYCHIC",
+    "PokeType2": ""
+  },
+  {
+    "index": 253,
+    "PokeNum": 197,
+    "PokeName": "Umbreon",
+    "PokeType1": "DARK",
+    "PokeType2": ""
+  },
+  {
+    "index": 254,
+    "PokeNum": 198,
+    "PokeName": "Murkrow",
+    "PokeType1": "DARK",
+    "PokeType2": "FLYING"
+  },
+  {
+    "index": 255,
+    "PokeNum": 199,
+    "PokeName": "Slowking",
+    "PokeType1": "WATER",
+    "PokeType2": "PSYCHIC"
+  },
+  {
+    "index": 256,
+    "PokeNum": 199,
+    "PokeName": "Slowking\nGalarian Slowking",
+    "PokeType1": "POISON",
+    "PokeType2": "PSYCHIC"
+  },
+  {
+    "index": 257,
+    "PokeNum": 200,
+    "PokeName": "Misdreavus",
+    "PokeType1": "GHOST",
+    "PokeType2": ""
+  },
+  {
+    "index": 258,
+    "PokeNum": 201,
+    "PokeName": "Unown",
+    "PokeType1": "PSYCHIC",
+    "PokeType2": ""
+  },
+  {
+    "index": 259,
+    "PokeNum": 202,
+    "PokeName": "Wobbuffet",
+    "PokeType1": "PSYCHIC",
+    "PokeType2": ""
+  },
+  {
+    "index": 260,
+    "PokeNum": 203,
+    "PokeName": "Girafarig",
+    "PokeType1": "NORMAL",
+    "PokeType2": "PSYCHIC"
+  },
+  {
+    "index": 261,
+    "PokeNum": 204,
+    "PokeName": "Pineco",
+    "PokeType1": "BUG",
+    "PokeType2": ""
+  },
+  {
+    "index": 262,
+    "PokeNum": 205,
+    "PokeName": "Forretress",
+    "PokeType1": "BUG",
+    "PokeType2": "STEEL"
+  },
+  {
+    "index": 263,
+    "PokeNum": 206,
+    "PokeName": "Dunsparce",
+    "PokeType1": "NORMAL",
+    "PokeType2": ""
+  },
+  {
+    "index": 264,
+    "PokeNum": 207,
+    "PokeName": "Gligar",
+    "PokeType1": "GROUND",
+    "PokeType2": "FLYING"
+  },
+  {
+    "index": 265,
+    "PokeNum": 208,
+    "PokeName": "Steelix",
+    "PokeType1": "STEEL",
+    "PokeType2": "GROUND"
+  },
+  {
+    "index": 266,
+    "PokeNum": 208,
+    "PokeName": "Steelix\nMega Steelix",
+    "PokeType1": "STEEL",
+    "PokeType2": "GROUND"
+  },
+  {
+    "index": 267,
+    "PokeNum": 209,
+    "PokeName": "Snubbull",
+    "PokeType1": "FAIRY",
+    "PokeType2": ""
+  },
+  {
+    "index": 268,
+    "PokeNum": 210,
+    "PokeName": "Granbull",
+    "PokeType1": "FAIRY",
+    "PokeType2": ""
+  },
+  {
+    "index": 269,
+    "PokeNum": 211,
+    "PokeName": "Qwilfish",
+    "PokeType1": "WATER",
+    "PokeType2": "POISON"
+  },
+  {
+    "index": 270,
+    "PokeNum": 211,
+    "PokeName": "Qwilfish\nHisuian Qwilfish",
+    "PokeType1": "DARK",
+    "PokeType2": "POISON"
+  },
+  {
+    "index": 271,
+    "PokeNum": 212,
+    "PokeName": "Scizor",
+    "PokeType1": "BUG",
+    "PokeType2": "STEEL"
+  },
+  {
+    "index": 272,
+    "PokeNum": 212,
+    "PokeName": "Scizor\nMega Scizor",
+    "PokeType1": "BUG",
+    "PokeType2": "STEEL"
+  },
+  {
+    "index": 273,
+    "PokeNum": 213,
+    "PokeName": "Shuckle",
+    "PokeType1": "BUG",
+    "PokeType2": "ROCK"
+  },
+  {
+    "index": 274,
+    "PokeNum": 214,
+    "PokeName": "Heracross",
+    "PokeType1": "BUG",
+    "PokeType2": "FIGHTING"
+  },
+  {
+    "index": 275,
+    "PokeNum": 214,
+    "PokeName": "Heracross\nMega Heracross",
+    "PokeType1": "BUG",
+    "PokeType2": "FIGHTING"
+  },
+  {
+    "index": 276,
+    "PokeNum": 215,
+    "PokeName": "Sneasel",
+    "PokeType1": "DARK",
+    "PokeType2": "ICE"
+  },
+  {
+    "index": 277,
+    "PokeNum": 215,
+    "PokeName": "Sneasel\nHisuian Sneasel",
+    "PokeType1": "FIGHTING",
+    "PokeType2": "POISON"
+  },
+  {
+    "index": 278,
+    "PokeNum": 216,
+    "PokeName": "Teddiursa",
+    "PokeType1": "NORMAL",
+    "PokeType2": ""
+  },
+  {
+    "index": 279,
+    "PokeNum": 217,
+    "PokeName": "Ursaring",
+    "PokeType1": "NORMAL",
+    "PokeType2": ""
+  },
+  {
+    "index": 280,
+    "PokeNum": 218,
+    "PokeName": "Slugma",
+    "PokeType1": "FIRE",
+    "PokeType2": ""
+  },
+  {
+    "index": 281,
+    "PokeNum": 219,
+    "PokeName": "Magcargo",
+    "PokeType1": "FIRE",
+    "PokeType2": "ROCK"
+  },
+  {
+    "index": 282,
+    "PokeNum": 220,
+    "PokeName": "Swinub",
+    "PokeType1": "ICE",
+    "PokeType2": "GROUND"
+  },
+  {
+    "index": 283,
+    "PokeNum": 221,
+    "PokeName": "Piloswine",
+    "PokeType1": "ICE",
+    "PokeType2": "GROUND"
+  },
+  {
+    "index": 284,
+    "PokeNum": 222,
+    "PokeName": "Corsola",
+    "PokeType1": "WATER",
+    "PokeType2": "ROCK"
+  },
+  {
+    "index": 285,
+    "PokeNum": 222,
+    "PokeName": "Corsola\nGalarian Corsola",
+    "PokeType1": "GHOST",
+    "PokeType2": ""
+  },
+  {
+    "index": 286,
+    "PokeNum": 223,
+    "PokeName": "Remoraid",
+    "PokeType1": "WATER",
+    "PokeType2": ""
+  },
+  {
+    "index": 287,
+    "PokeNum": 224,
+    "PokeName": "Octillery",
+    "PokeType1": "WATER",
+    "PokeType2": ""
+  },
+  {
+    "index": 288,
+    "PokeNum": 225,
+    "PokeName": "Delibird",
+    "PokeType1": "ICE",
+    "PokeType2": "FLYING"
+  },
+  {
+    "index": 289,
+    "PokeNum": 226,
+    "PokeName": "Mantine",
+    "PokeType1": "WATER",
+    "PokeType2": "FLYING"
+  },
+  {
+    "index": 290,
+    "PokeNum": 227,
+    "PokeName": "Skarmory",
+    "PokeType1": "STEEL",
+    "PokeType2": "FLYING"
+  },
+  {
+    "index": 291,
+    "PokeNum": 228,
+    "PokeName": "Houndour",
+    "PokeType1": "DARK",
+    "PokeType2": "FIRE"
+  },
+  {
+    "index": 292,
+    "PokeNum": 229,
+    "PokeName": "Houndoom",
+    "PokeType1": "DARK",
+    "PokeType2": "FIRE"
+  },
+  {
+    "index": 293,
+    "PokeNum": 229,
+    "PokeName": "Houndoom\nMega Houndoom",
+    "PokeType1": "DARK",
+    "PokeType2": "FIRE"
+  },
+  {
+    "index": 294,
+    "PokeNum": 230,
+    "PokeName": "Kingdra",
+    "PokeType1": "WATER",
+    "PokeType2": "DRAGON"
+  },
+  {
+    "index": 295,
+    "PokeNum": 231,
+    "PokeName": "Phanpy",
+    "PokeType1": "GROUND",
+    "PokeType2": ""
+  },
+  {
+    "index": 296,
+    "PokeNum": 232,
+    "PokeName": "Donphan",
+    "PokeType1": "GROUND",
+    "PokeType2": ""
+  },
+  {
+    "index": 297,
+    "PokeNum": 233,
+    "PokeName": "Porygon2",
+    "PokeType1": "NORMAL",
+    "PokeType2": ""
+  },
+  {
+    "index": 298,
+    "PokeNum": 234,
+    "PokeName": "Stantler",
+    "PokeType1": "NORMAL",
+    "PokeType2": ""
+  },
+  {
+    "index": 299,
+    "PokeNum": 235,
+    "PokeName": "Smeargle",
+    "PokeType1": "NORMAL",
+    "PokeType2": ""
+  },
+  {
+    "index": 300,
+    "PokeNum": 236,
+    "PokeName": "Tyrogue",
+    "PokeType1": "FIGHTING",
+    "PokeType2": ""
+  },
+  {
+    "index": 301,
+    "PokeNum": 237,
+    "PokeName": "Hitmontop",
+    "PokeType1": "FIGHTING",
+    "PokeType2": ""
+  },
+  {
+    "index": 302,
+    "PokeNum": 238,
+    "PokeName": "Smoochum",
+    "PokeType1": "ICE",
+    "PokeType2": "PSYCHIC"
+  },
+  {
+    "index": 303,
+    "PokeNum": 239,
+    "PokeName": "Elekid",
+    "PokeType1": "ELECTRIC",
+    "PokeType2": ""
+  },
+  {
+    "index": 304,
+    "PokeNum": 240,
+    "PokeName": "Magby",
+    "PokeType1": "FIRE",
+    "PokeType2": ""
+  },
+  {
+    "index": 305,
+    "PokeNum": 241,
+    "PokeName": "Miltank",
+    "PokeType1": "NORMAL",
+    "PokeType2": ""
+  },
+  {
+    "index": 306,
+    "PokeNum": 242,
+    "PokeName": "Blissey",
+    "PokeType1": "NORMAL",
+    "PokeType2": ""
+  },
+  {
+    "index": 307,
+    "PokeNum": 243,
+    "PokeName": "Raikou",
+    "PokeType1": "ELECTRIC",
+    "PokeType2": ""
+  },
+  {
+    "index": 308,
+    "PokeNum": 244,
+    "PokeName": "Entei",
+    "PokeType1": "FIRE",
+    "PokeType2": ""
+  },
+  {
+    "index": 309,
+    "PokeNum": 245,
+    "PokeName": "Suicune",
+    "PokeType1": "WATER",
+    "PokeType2": ""
+  },
+  {
+    "index": 310,
+    "PokeNum": 246,
+    "PokeName": "Larvitar",
+    "PokeType1": "ROCK",
+    "PokeType2": "GROUND"
+  },
+  {
+    "index": 311,
+    "PokeNum": 247,
+    "PokeName": "Pupitar",
+    "PokeType1": "ROCK",
+    "PokeType2": "GROUND"
+  },
+  {
+    "index": 312,
+    "PokeNum": 248,
+    "PokeName": "Tyranitar",
+    "PokeType1": "ROCK",
+    "PokeType2": "DARK"
+  },
+  {
+    "index": 313,
+    "PokeNum": 248,
+    "PokeName": "Tyranitar\nMega Tyranitar",
+    "PokeType1": "ROCK",
+    "PokeType2": "DARK"
+  },
+  {
+    "index": 314,
+    "PokeNum": 249,
+    "PokeName": "Lugia",
+    "PokeType1": "PSYCHIC",
+    "PokeType2": "FLYING"
+  },
+  {
+    "index": 315,
+    "PokeNum": 250,
+    "PokeName": "Ho-oh",
+    "PokeType1": "FIRE",
+    "PokeType2": "FLYING"
+  },
+  {
+    "index": 316,
+    "PokeNum": 251,
+    "PokeName": "Celebi",
+    "PokeType1": "PSYCHIC",
+    "PokeType2": "GRASS"
+  },
+  {
+    "index": 317,
+    "PokeNum": 252,
+    "PokeName": "Treecko",
+    "PokeType1": "GRASS",
+    "PokeType2": ""
+  },
+  {
+    "index": 318,
+    "PokeNum": 253,
+    "PokeName": "Grovyle",
+    "PokeType1": "GRASS",
+    "PokeType2": ""
+  },
+  {
+    "index": 319,
+    "PokeNum": 254,
+    "PokeName": "Sceptile",
+    "PokeType1": "GRASS",
+    "PokeType2": ""
+  },
+  {
+    "index": 320,
+    "PokeNum": 254,
+    "PokeName": "Sceptile\nMega Sceptile",
+    "PokeType1": "GRASS",
+    "PokeType2": "DRAGON"
+  },
+  {
+    "index": 321,
+    "PokeNum": 255,
+    "PokeName": "Torchic",
+    "PokeType1": "FIRE",
+    "PokeType2": ""
+  },
+  {
+    "index": 322,
+    "PokeNum": 256,
+    "PokeName": "Combusken",
+    "PokeType1": "FIRE",
+    "PokeType2": "FIGHTING"
+  },
+  {
+    "index": 323,
+    "PokeNum": 257,
+    "PokeName": "Blaziken",
+    "PokeType1": "FIRE",
+    "PokeType2": "FIGHTING"
+  },
+  {
+    "index": 324,
+    "PokeNum": 257,
+    "PokeName": "Blaziken\nMega Blaziken",
+    "PokeType1": "FIRE",
+    "PokeType2": "FIGHTING"
+  },
+  {
+    "index": 325,
+    "PokeNum": 258,
+    "PokeName": "Mudkip",
+    "PokeType1": "WATER",
+    "PokeType2": ""
+  },
+  {
+    "index": 326,
+    "PokeNum": 259,
+    "PokeName": "Marshtomp",
+    "PokeType1": "WATER",
+    "PokeType2": "GROUND"
+  },
+  {
+    "index": 327,
+    "PokeNum": 260,
+    "PokeName": "Swampert",
+    "PokeType1": "WATER",
+    "PokeType2": "GROUND"
+  },
+  {
+    "index": 328,
+    "PokeNum": 260,
+    "PokeName": "Swampert\nMega Swampert",
+    "PokeType1": "WATER",
+    "PokeType2": "GROUND"
+  },
+  {
+    "index": 329,
+    "PokeNum": 261,
+    "PokeName": "Poochyena",
+    "PokeType1": "DARK",
+    "PokeType2": ""
+  },
+  {
+    "index": 330,
+    "PokeNum": 262,
+    "PokeName": "Mightyena",
+    "PokeType1": "DARK",
+    "PokeType2": ""
+  },
+  {
+    "index": 331,
+    "PokeNum": 263,
+    "PokeName": "Zigzagoon",
+    "PokeType1": "NORMAL",
+    "PokeType2": ""
+  },
+  {
+    "index": 332,
+    "PokeNum": 263,
+    "PokeName": "Zigzagoon\nGalarian Zigzagoon",
+    "PokeType1": "DARK",
+    "PokeType2": "NORMAL"
+  },
+  {
+    "index": 333,
+    "PokeNum": 264,
+    "PokeName": "Linoone",
+    "PokeType1": "NORMAL",
+    "PokeType2": ""
+  },
+  {
+    "index": 334,
+    "PokeNum": 264,
+    "PokeName": "Linoone\nGalarian Linoone",
+    "PokeType1": "DARK",
+    "PokeType2": "NORMAL"
+  },
+  {
+    "index": 335,
+    "PokeNum": 265,
+    "PokeName": "Wurmple",
+    "PokeType1": "BUG",
+    "PokeType2": ""
+  },
+  {
+    "index": 336,
+    "PokeNum": 266,
+    "PokeName": "Silcoon",
+    "PokeType1": "BUG",
+    "PokeType2": ""
+  },
+  {
+    "index": 337,
+    "PokeNum": 267,
+    "PokeName": "Beautifly",
+    "PokeType1": "BUG",
+    "PokeType2": "FLYING"
+  },
+  {
+    "index": 338,
+    "PokeNum": 268,
+    "PokeName": "Cascoon",
+    "PokeType1": "BUG",
+    "PokeType2": ""
+  },
+  {
+    "index": 339,
+    "PokeNum": 269,
+    "PokeName": "Dustox",
+    "PokeType1": "BUG",
+    "PokeType2": "POISON"
+  },
+  {
+    "index": 340,
+    "PokeNum": 270,
+    "PokeName": "Lotad",
+    "PokeType1": "WATER",
+    "PokeType2": "GRASS"
+  },
+  {
+    "index": 341,
+    "PokeNum": 271,
+    "PokeName": "Lombre",
+    "PokeType1": "WATER",
+    "PokeType2": "GRASS"
+  },
+  {
+    "index": 342,
+    "PokeNum": 272,
+    "PokeName": "Ludicolo",
+    "PokeType1": "WATER",
+    "PokeType2": "GRASS"
+  },
+  {
+    "index": 343,
+    "PokeNum": 273,
+    "PokeName": "Seedot",
+    "PokeType1": "GRASS",
+    "PokeType2": ""
+  },
+  {
+    "index": 344,
+    "PokeNum": 274,
+    "PokeName": "Nuzleaf",
+    "PokeType1": "GRASS",
+    "PokeType2": "DARK"
+  },
+  {
+    "index": 345,
+    "PokeNum": 275,
+    "PokeName": "Shiftry",
+    "PokeType1": "GRASS",
+    "PokeType2": "DARK"
+  },
+  {
+    "index": 346,
+    "PokeNum": 276,
+    "PokeName": "Taillow",
+    "PokeType1": "NORMAL",
+    "PokeType2": "FLYING"
+  },
+  {
+    "index": 347,
+    "PokeNum": 277,
+    "PokeName": "Swellow",
+    "PokeType1": "NORMAL",
+    "PokeType2": "FLYING"
+  },
+  {
+    "index": 348,
+    "PokeNum": 278,
+    "PokeName": "Wingull",
+    "PokeType1": "WATER",
+    "PokeType2": "FLYING"
+  },
+  {
+    "index": 349,
+    "PokeNum": 279,
+    "PokeName": "Pelipper",
+    "PokeType1": "WATER",
+    "PokeType2": "FLYING"
+  },
+  {
+    "index": 350,
+    "PokeNum": 280,
+    "PokeName": "Ralts",
+    "PokeType1": "PSYCHIC",
+    "PokeType2": "FAIRY"
+  },
+  {
+    "index": 351,
+    "PokeNum": 281,
+    "PokeName": "Kirlia",
+    "PokeType1": "PSYCHIC",
+    "PokeType2": "FAIRY"
+  },
+  {
+    "index": 352,
+    "PokeNum": 282,
+    "PokeName": "Gardevoir",
+    "PokeType1": "PSYCHIC",
+    "PokeType2": "FAIRY"
+  },
+  {
+    "index": 353,
+    "PokeNum": 282,
+    "PokeName": "Gardevoir\nMega Gardevoir",
+    "PokeType1": "PSYCHIC",
+    "PokeType2": "FAIRY"
+  },
+  {
+    "index": 354,
+    "PokeNum": 283,
+    "PokeName": "Surskit",
+    "PokeType1": "BUG",
+    "PokeType2": "WATER"
+  },
+  {
+    "index": 355,
+    "PokeNum": 284,
+    "PokeName": "Masquerain",
+    "PokeType1": "BUG",
+    "PokeType2": "FLYING"
+  },
+  {
+    "index": 356,
+    "PokeNum": 285,
+    "PokeName": "Shroomish",
+    "PokeType1": "GRASS",
+    "PokeType2": ""
+  },
+  {
+    "index": 357,
+    "PokeNum": 286,
+    "PokeName": "Breloom",
+    "PokeType1": "GRASS",
+    "PokeType2": "FIGHTING"
+  },
+  {
+    "index": 358,
+    "PokeNum": 287,
+    "PokeName": "Slakoth",
+    "PokeType1": "NORMAL",
+    "PokeType2": ""
+  },
+  {
+    "index": 359,
+    "PokeNum": 288,
+    "PokeName": "Vigoroth",
+    "PokeType1": "NORMAL",
+    "PokeType2": ""
+  },
+  {
+    "index": 360,
+    "PokeNum": 289,
+    "PokeName": "Slaking",
+    "PokeType1": "NORMAL",
+    "PokeType2": ""
+  },
+  {
+    "index": 361,
+    "PokeNum": 290,
+    "PokeName": "Nincada",
+    "PokeType1": "BUG",
+    "PokeType2": "GROUND"
+  },
+  {
+    "index": 362,
+    "PokeNum": 291,
+    "PokeName": "Ninjask",
+    "PokeType1": "BUG",
+    "PokeType2": "FLYING"
+  },
+  {
+    "index": 363,
+    "PokeNum": 292,
+    "PokeName": "Shedinja",
+    "PokeType1": "BUG",
+    "PokeType2": "GHOST"
+  },
+  {
+    "index": 364,
+    "PokeNum": 293,
+    "PokeName": "Whismur",
+    "PokeType1": "NORMAL",
+    "PokeType2": ""
+  },
+  {
+    "index": 365,
+    "PokeNum": 294,
+    "PokeName": "Loudred",
+    "PokeType1": "NORMAL",
+    "PokeType2": ""
+  },
+  {
+    "index": 366,
+    "PokeNum": 295,
+    "PokeName": "Exploud",
+    "PokeType1": "NORMAL",
+    "PokeType2": ""
+  },
+  {
+    "index": 367,
+    "PokeNum": 296,
+    "PokeName": "Makuhita",
+    "PokeType1": "FIGHTING",
+    "PokeType2": ""
+  },
+  {
+    "index": 368,
+    "PokeNum": 297,
+    "PokeName": "Hariyama",
+    "PokeType1": "FIGHTING",
+    "PokeType2": ""
+  },
+  {
+    "index": 369,
+    "PokeNum": 298,
+    "PokeName": "Azurill",
+    "PokeType1": "NORMAL",
+    "PokeType2": "FAIRY"
+  },
+  {
+    "index": 370,
+    "PokeNum": 299,
+    "PokeName": "Nosepass",
+    "PokeType1": "ROCK",
+    "PokeType2": ""
+  },
+  {
+    "index": 371,
+    "PokeNum": 300,
+    "PokeName": "Skitty",
+    "PokeType1": "NORMAL",
+    "PokeType2": ""
+  },
+  {
+    "index": 372,
+    "PokeNum": 301,
+    "PokeName": "Delcatty",
+    "PokeType1": "NORMAL",
+    "PokeType2": ""
+  },
+  {
+    "index": 373,
+    "PokeNum": 302,
+    "PokeName": "Sableye",
+    "PokeType1": "DARK",
+    "PokeType2": "GHOST"
+  },
+  {
+    "index": 374,
+    "PokeNum": 302,
+    "PokeName": "Sableye\nMega Sableye",
+    "PokeType1": "DARK",
+    "PokeType2": "GHOST"
+  },
+  {
+    "index": 375,
+    "PokeNum": 303,
+    "PokeName": "Mawile",
+    "PokeType1": "STEEL",
+    "PokeType2": "FAIRY"
+  },
+  {
+    "index": 376,
+    "PokeNum": 303,
+    "PokeName": "Mawile\nMega Mawile",
+    "PokeType1": "STEEL",
+    "PokeType2": "FAIRY"
+  },
+  {
+    "index": 377,
+    "PokeNum": 304,
+    "PokeName": "Aron",
+    "PokeType1": "STEEL",
+    "PokeType2": "ROCK"
+  },
+  {
+    "index": 378,
+    "PokeNum": 305,
+    "PokeName": "Lairon",
+    "PokeType1": "STEEL",
+    "PokeType2": "ROCK"
+  },
+  {
+    "index": 379,
+    "PokeNum": 306,
+    "PokeName": "Aggron",
+    "PokeType1": "STEEL",
+    "PokeType2": "ROCK"
+  },
+  {
+    "index": 380,
+    "PokeNum": 306,
+    "PokeName": "Aggron\nMega Aggron",
+    "PokeType1": "STEEL",
+    "PokeType2": ""
+  },
+  {
+    "index": 381,
+    "PokeNum": 307,
+    "PokeName": "Meditite",
+    "PokeType1": "FIGHTING",
+    "PokeType2": "PSYCHIC"
+  },
+  {
+    "index": 382,
+    "PokeNum": 308,
+    "PokeName": "Medicham",
+    "PokeType1": "FIGHTING",
+    "PokeType2": "PSYCHIC"
+  },
+  {
+    "index": 383,
+    "PokeNum": 308,
+    "PokeName": "Medicham\nMega Medicham",
+    "PokeType1": "FIGHTING",
+    "PokeType2": "PSYCHIC"
+  },
+  {
+    "index": 384,
+    "PokeNum": 309,
+    "PokeName": "Electrike",
+    "PokeType1": "ELECTRIC",
+    "PokeType2": ""
+  },
+  {
+    "index": 385,
+    "PokeNum": 310,
+    "PokeName": "Manectric",
+    "PokeType1": "ELECTRIC",
+    "PokeType2": ""
+  },
+  {
+    "index": 386,
+    "PokeNum": 310,
+    "PokeName": "Manectric\nMega Manectric",
+    "PokeType1": "ELECTRIC",
+    "PokeType2": ""
+  },
+  {
+    "index": 387,
+    "PokeNum": 311,
+    "PokeName": "Plusle",
+    "PokeType1": "ELECTRIC",
+    "PokeType2": ""
+  },
+  {
+    "index": 388,
+    "PokeNum": 312,
+    "PokeName": "Minun",
+    "PokeType1": "ELECTRIC",
+    "PokeType2": ""
+  },
+  {
+    "index": 389,
+    "PokeNum": 313,
+    "PokeName": "Volbeat",
+    "PokeType1": "BUG",
+    "PokeType2": ""
+  },
+  {
+    "index": 390,
+    "PokeNum": 314,
+    "PokeName": "Illumise",
+    "PokeType1": "BUG",
+    "PokeType2": ""
+  },
+  {
+    "index": 391,
+    "PokeNum": 315,
+    "PokeName": "Roselia",
+    "PokeType1": "GRASS",
+    "PokeType2": "POISON"
+  },
+  {
+    "index": 392,
+    "PokeNum": 316,
+    "PokeName": "Gulpin",
+    "PokeType1": "POISON",
+    "PokeType2": ""
+  },
+  {
+    "index": 393,
+    "PokeNum": 317,
+    "PokeName": "Swalot",
+    "PokeType1": "POISON",
+    "PokeType2": ""
+  },
+  {
+    "index": 394,
+    "PokeNum": 318,
+    "PokeName": "Carvanha",
+    "PokeType1": "WATER",
+    "PokeType2": "DARK"
+  },
+  {
+    "index": 395,
+    "PokeNum": 319,
+    "PokeName": "Sharpedo",
+    "PokeType1": "WATER",
+    "PokeType2": "DARK"
+  },
+  {
+    "index": 396,
+    "PokeNum": 319,
+    "PokeName": "Sharpedo\nMega Sharpedo",
+    "PokeType1": "WATER",
+    "PokeType2": "DARK"
+  },
+  {
+    "index": 397,
+    "PokeNum": 320,
+    "PokeName": "Wailmer",
+    "PokeType1": "WATER",
+    "PokeType2": ""
+  },
+  {
+    "index": 398,
+    "PokeNum": 321,
+    "PokeName": "Wailord",
+    "PokeType1": "WATER",
+    "PokeType2": ""
+  },
+  {
+    "index": 399,
+    "PokeNum": 322,
+    "PokeName": "Numel",
+    "PokeType1": "FIRE",
+    "PokeType2": "GROUND"
+  },
+  {
+    "index": 400,
+    "PokeNum": 323,
+    "PokeName": "Camerupt",
+    "PokeType1": "FIRE",
+    "PokeType2": "GROUND"
+  },
+  {
+    "index": 401,
+    "PokeNum": 323,
+    "PokeName": "Camerupt\nMega Camerupt",
+    "PokeType1": "FIRE",
+    "PokeType2": "GROUND"
+  },
+  {
+    "index": 402,
+    "PokeNum": 324,
+    "PokeName": "Torkoal",
+    "PokeType1": "FIRE",
+    "PokeType2": ""
+  },
+  {
+    "index": 403,
+    "PokeNum": 325,
+    "PokeName": "Spoink",
+    "PokeType1": "PSYCHIC",
+    "PokeType2": ""
+  },
+  {
+    "index": 404,
+    "PokeNum": 326,
+    "PokeName": "Grumpig",
+    "PokeType1": "PSYCHIC",
+    "PokeType2": ""
+  },
+  {
+    "index": 405,
+    "PokeNum": 327,
+    "PokeName": "Spinda",
+    "PokeType1": "NORMAL",
+    "PokeType2": ""
+  },
+  {
+    "index": 406,
+    "PokeNum": 328,
+    "PokeName": "Trapinch",
+    "PokeType1": "GROUND",
+    "PokeType2": ""
+  },
+  {
+    "index": 407,
+    "PokeNum": 329,
+    "PokeName": "Vibrava",
+    "PokeType1": "GROUND",
+    "PokeType2": "DRAGON"
+  },
+  {
+    "index": 408,
+    "PokeNum": 330,
+    "PokeName": "Flygon",
+    "PokeType1": "GROUND",
+    "PokeType2": "DRAGON"
+  },
+  {
+    "index": 409,
+    "PokeNum": 331,
+    "PokeName": "Cacnea",
+    "PokeType1": "GRASS",
+    "PokeType2": ""
+  },
+  {
+    "index": 410,
+    "PokeNum": 332,
+    "PokeName": "Cacturne",
+    "PokeType1": "GRASS",
+    "PokeType2": "DARK"
+  },
+  {
+    "index": 411,
+    "PokeNum": 333,
+    "PokeName": "Swablu",
+    "PokeType1": "NORMAL",
+    "PokeType2": "FLYING"
+  },
+  {
+    "index": 412,
+    "PokeNum": 334,
+    "PokeName": "Altaria",
+    "PokeType1": "DRAGON",
+    "PokeType2": "FLYING"
+  },
+  {
+    "index": 413,
+    "PokeNum": 334,
+    "PokeName": "Altaria\nMega Altaria",
+    "PokeType1": "DRAGON",
+    "PokeType2": "FAIRY"
+  },
+  {
+    "index": 414,
+    "PokeNum": 335,
+    "PokeName": "Zangoose",
+    "PokeType1": "NORMAL",
+    "PokeType2": ""
+  },
+  {
+    "index": 415,
+    "PokeNum": 336,
+    "PokeName": "Seviper",
+    "PokeType1": "POISON",
+    "PokeType2": ""
+  },
+  {
+    "index": 416,
+    "PokeNum": 337,
+    "PokeName": "Lunatone",
+    "PokeType1": "ROCK",
+    "PokeType2": "PSYCHIC"
+  },
+  {
+    "index": 417,
+    "PokeNum": 338,
+    "PokeName": "Solrock",
+    "PokeType1": "ROCK",
+    "PokeType2": "PSYCHIC"
+  },
+  {
+    "index": 418,
+    "PokeNum": 339,
+    "PokeName": "Barboach",
+    "PokeType1": "WATER",
+    "PokeType2": "GROUND"
+  },
+  {
+    "index": 419,
+    "PokeNum": 340,
+    "PokeName": "Whiscash",
+    "PokeType1": "WATER",
+    "PokeType2": "GROUND"
+  },
+  {
+    "index": 420,
+    "PokeNum": 341,
+    "PokeName": "Corphish",
+    "PokeType1": "WATER",
+    "PokeType2": ""
+  },
+  {
+    "index": 421,
+    "PokeNum": 342,
+    "PokeName": "Crawdaunt",
+    "PokeType1": "WATER",
+    "PokeType2": "DARK"
+  },
+  {
+    "index": 422,
+    "PokeNum": 343,
+    "PokeName": "Baltoy",
+    "PokeType1": "GROUND",
+    "PokeType2": "PSYCHIC"
+  },
+  {
+    "index": 423,
+    "PokeNum": 344,
+    "PokeName": "Claydol",
+    "PokeType1": "GROUND",
+    "PokeType2": "PSYCHIC"
+  },
+  {
+    "index": 424,
+    "PokeNum": 345,
+    "PokeName": "Lileep",
+    "PokeType1": "ROCK",
+    "PokeType2": "GRASS"
+  },
+  {
+    "index": 425,
+    "PokeNum": 346,
+    "PokeName": "Cradily",
+    "PokeType1": "ROCK",
+    "PokeType2": "GRASS"
+  },
+  {
+    "index": 426,
+    "PokeNum": 347,
+    "PokeName": "Anorith",
+    "PokeType1": "ROCK",
+    "PokeType2": "BUG"
+  },
+  {
+    "index": 427,
+    "PokeNum": 348,
+    "PokeName": "Armaldo",
+    "PokeType1": "ROCK",
+    "PokeType2": "BUG"
+  },
+  {
+    "index": 428,
+    "PokeNum": 349,
+    "PokeName": "Feebas",
+    "PokeType1": "WATER",
+    "PokeType2": ""
+  },
+  {
+    "index": 429,
+    "PokeNum": 350,
+    "PokeName": "Milotic",
+    "PokeType1": "WATER",
+    "PokeType2": ""
+  },
+  {
+    "index": 430,
+    "PokeNum": 351,
+    "PokeName": "Castform",
+    "PokeType1": "NORMAL",
+    "PokeType2": ""
+  },
+  {
+    "index": 431,
+    "PokeNum": 351,
+    "PokeName": "Castform\nSunny Form",
+    "PokeType1": "FIRE",
+    "PokeType2": ""
+  },
+  {
+    "index": 432,
+    "PokeNum": 351,
+    "PokeName": "Castform\nRainy Form",
+    "PokeType1": "WATER",
+    "PokeType2": ""
+  },
+  {
+    "index": 433,
+    "PokeNum": 351,
+    "PokeName": "Castform\nSnowy Form",
+    "PokeType1": "ICE",
+    "PokeType2": ""
+  },
+  {
+    "index": 434,
+    "PokeNum": 352,
+    "PokeName": "Kecleon",
+    "PokeType1": "NORMAL",
+    "PokeType2": ""
+  },
+  {
+    "index": 435,
+    "PokeNum": 353,
+    "PokeName": "Shuppet",
+    "PokeType1": "GHOST",
+    "PokeType2": ""
+  },
+  {
+    "index": 436,
+    "PokeNum": 354,
+    "PokeName": "Banette",
+    "PokeType1": "GHOST",
+    "PokeType2": ""
+  },
+  {
+    "index": 437,
+    "PokeNum": 354,
+    "PokeName": "Banette\nMega Banette",
+    "PokeType1": "GHOST",
+    "PokeType2": ""
+  },
+  {
+    "index": 438,
+    "PokeNum": 355,
+    "PokeName": "Duskull",
+    "PokeType1": "GHOST",
+    "PokeType2": ""
+  },
+  {
+    "index": 439,
+    "PokeNum": 356,
+    "PokeName": "Dusclops",
+    "PokeType1": "GHOST",
+    "PokeType2": ""
+  },
+  {
+    "index": 440,
+    "PokeNum": 357,
+    "PokeName": "Tropius",
+    "PokeType1": "GRASS",
+    "PokeType2": "FLYING"
+  },
+  {
+    "index": 441,
+    "PokeNum": 358,
+    "PokeName": "Chimecho",
+    "PokeType1": "PSYCHIC",
+    "PokeType2": ""
+  },
+  {
+    "index": 442,
+    "PokeNum": 359,
+    "PokeName": "Absol",
+    "PokeType1": "DARK",
+    "PokeType2": ""
+  },
+  {
+    "index": 443,
+    "PokeNum": 359,
+    "PokeName": "Absol\nMega Absol",
+    "PokeType1": "DARK",
+    "PokeType2": ""
+  },
+  {
+    "index": 444,
+    "PokeNum": 360,
+    "PokeName": "Wynaut",
+    "PokeType1": "PSYCHIC",
+    "PokeType2": ""
+  },
+  {
+    "index": 445,
+    "PokeNum": 361,
+    "PokeName": "Snorunt",
+    "PokeType1": "ICE",
+    "PokeType2": ""
+  },
+  {
+    "index": 446,
+    "PokeNum": 362,
+    "PokeName": "Glalie",
+    "PokeType1": "ICE",
+    "PokeType2": ""
+  },
+  {
+    "index": 447,
+    "PokeNum": 362,
+    "PokeName": "Glalie\nMega Glalie",
+    "PokeType1": "ICE",
+    "PokeType2": ""
+  },
+  {
+    "index": 448,
+    "PokeNum": 363,
+    "PokeName": "Spheal",
+    "PokeType1": "ICE",
+    "PokeType2": "WATER"
+  },
+  {
+    "index": 449,
+    "PokeNum": 364,
+    "PokeName": "Sealeo",
+    "PokeType1": "ICE",
+    "PokeType2": "WATER"
+  },
+  {
+    "index": 450,
+    "PokeNum": 365,
+    "PokeName": "Walrein",
+    "PokeType1": "ICE",
+    "PokeType2": "WATER"
+  },
+  {
+    "index": 451,
+    "PokeNum": 366,
+    "PokeName": "Clamperl",
+    "PokeType1": "WATER",
+    "PokeType2": ""
+  },
+  {
+    "index": 452,
+    "PokeNum": 367,
+    "PokeName": "Huntail",
+    "PokeType1": "WATER",
+    "PokeType2": ""
+  },
+  {
+    "index": 453,
+    "PokeNum": 368,
+    "PokeName": "Gorebyss",
+    "PokeType1": "WATER",
+    "PokeType2": ""
+  },
+  {
+    "index": 454,
+    "PokeNum": 369,
+    "PokeName": "Relicanth",
+    "PokeType1": "WATER",
+    "PokeType2": "ROCK"
+  },
+  {
+    "index": 455,
+    "PokeNum": 370,
+    "PokeName": "Luvdisc",
+    "PokeType1": "WATER",
+    "PokeType2": ""
+  },
+  {
+    "index": 456,
+    "PokeNum": 371,
+    "PokeName": "Bagon",
+    "PokeType1": "DRAGON",
+    "PokeType2": ""
+  },
+  {
+    "index": 457,
+    "PokeNum": 372,
+    "PokeName": "Shelgon",
+    "PokeType1": "DRAGON",
+    "PokeType2": ""
+  },
+  {
+    "index": 458,
+    "PokeNum": 373,
+    "PokeName": "Salamence",
+    "PokeType1": "DRAGON",
+    "PokeType2": "FLYING"
+  },
+  {
+    "index": 459,
+    "PokeNum": 373,
+    "PokeName": "Salamence\nMega Salamence",
+    "PokeType1": "DRAGON",
+    "PokeType2": "FLYING"
+  },
+  {
+    "index": 460,
+    "PokeNum": 374,
+    "PokeName": "Beldum",
+    "PokeType1": "STEEL",
+    "PokeType2": "PSYCHIC"
+  },
+  {
+    "index": 461,
+    "PokeNum": 375,
+    "PokeName": "Metang",
+    "PokeType1": "STEEL",
+    "PokeType2": "PSYCHIC"
+  },
+  {
+    "index": 462,
+    "PokeNum": 376,
+    "PokeName": "Metagross",
+    "PokeType1": "STEEL",
+    "PokeType2": "PSYCHIC"
+  },
+  {
+    "index": 463,
+    "PokeNum": 376,
+    "PokeName": "Metagross\nMega Metagross",
+    "PokeType1": "STEEL",
+    "PokeType2": "PSYCHIC"
+  },
+  {
+    "index": 464,
+    "PokeNum": 377,
+    "PokeName": "Regirock",
+    "PokeType1": "ROCK",
+    "PokeType2": ""
+  },
+  {
+    "index": 465,
+    "PokeNum": 378,
+    "PokeName": "Regice",
+    "PokeType1": "ICE",
+    "PokeType2": ""
+  },
+  {
+    "index": 466,
+    "PokeNum": 379,
+    "PokeName": "Registeel",
+    "PokeType1": "STEEL",
+    "PokeType2": ""
+  },
+  {
+    "index": 467,
+    "PokeNum": 380,
+    "PokeName": "Latias",
+    "PokeType1": "DRAGON",
+    "PokeType2": "PSYCHIC"
+  },
+  {
+    "index": 468,
+    "PokeNum": 380,
+    "PokeName": "Latias\nMega Latias",
+    "PokeType1": "DRAGON",
+    "PokeType2": "PSYCHIC"
+  },
+  {
+    "index": 469,
+    "PokeNum": 381,
+    "PokeName": "Latios",
+    "PokeType1": "DRAGON",
+    "PokeType2": "PSYCHIC"
+  },
+  {
+    "index": 470,
+    "PokeNum": 381,
+    "PokeName": "Latios\nMega Latios",
+    "PokeType1": "DRAGON",
+    "PokeType2": "PSYCHIC"
+  },
+  {
+    "index": 471,
+    "PokeNum": 382,
+    "PokeName": "Kyogre",
+    "PokeType1": "WATER",
+    "PokeType2": ""
+  },
+  {
+    "index": 472,
+    "PokeNum": 382,
+    "PokeName": "Kyogre\nPrimal Kyogre",
+    "PokeType1": "WATER",
+    "PokeType2": ""
+  },
+  {
+    "index": 473,
+    "PokeNum": 383,
+    "PokeName": "Groudon",
+    "PokeType1": "GROUND",
+    "PokeType2": ""
+  },
+  {
+    "index": 474,
+    "PokeNum": 383,
+    "PokeName": "Groudon\nPrimal Groudon",
+    "PokeType1": "GROUND",
+    "PokeType2": "FIRE"
+  },
+  {
+    "index": 475,
+    "PokeNum": 384,
+    "PokeName": "Rayquaza",
+    "PokeType1": "DRAGON",
+    "PokeType2": "FLYING"
+  },
+  {
+    "index": 476,
+    "PokeNum": 384,
+    "PokeName": "Rayquaza\nMega Rayquaza",
+    "PokeType1": "DRAGON",
+    "PokeType2": "FLYING"
+  },
+  {
+    "index": 477,
+    "PokeNum": 385,
+    "PokeName": "Jirachi",
+    "PokeType1": "STEEL",
+    "PokeType2": "PSYCHIC"
+  },
+  {
+    "index": 478,
+    "PokeNum": 386,
+    "PokeName": "Deoxys\nNormal Forme",
+    "PokeType1": "PSYCHIC",
+    "PokeType2": ""
+  },
+  {
+    "index": 479,
+    "PokeNum": 386,
+    "PokeName": "Deoxys\nAttack Forme",
+    "PokeType1": "PSYCHIC",
+    "PokeType2": ""
+  },
+  {
+    "index": 480,
+    "PokeNum": 386,
+    "PokeName": "Deoxys\nDefense Forme",
+    "PokeType1": "PSYCHIC",
+    "PokeType2": ""
+  },
+  {
+    "index": 481,
+    "PokeNum": 386,
+    "PokeName": "Deoxys\nSpeed Forme",
+    "PokeType1": "PSYCHIC",
+    "PokeType2": ""
+  },
+  {
+    "index": 482,
+    "PokeNum": 387,
+    "PokeName": "Turtwig",
+    "PokeType1": "GRASS",
+    "PokeType2": ""
+  },
+  {
+    "index": 483,
+    "PokeNum": 388,
+    "PokeName": "Grotle",
+    "PokeType1": "GRASS",
+    "PokeType2": ""
+  },
+  {
+    "index": 484,
+    "PokeNum": 389,
+    "PokeName": "Torterra",
+    "PokeType1": "GRASS",
+    "PokeType2": "GROUND"
+  },
+  {
+    "index": 485,
+    "PokeNum": 390,
+    "PokeName": "Chimchar",
+    "PokeType1": "FIRE",
+    "PokeType2": ""
+  },
+  {
+    "index": 486,
+    "PokeNum": 391,
+    "PokeName": "Monferno",
+    "PokeType1": "FIRE",
+    "PokeType2": "FIGHTING"
+  },
+  {
+    "index": 487,
+    "PokeNum": 392,
+    "PokeName": "Infernape",
+    "PokeType1": "FIRE",
+    "PokeType2": "FIGHTING"
+  },
+  {
+    "index": 488,
+    "PokeNum": 393,
+    "PokeName": "Piplup",
+    "PokeType1": "WATER",
+    "PokeType2": ""
+  },
+  {
+    "index": 489,
+    "PokeNum": 394,
+    "PokeName": "Prinplup",
+    "PokeType1": "WATER",
+    "PokeType2": ""
+  },
+  {
+    "index": 490,
+    "PokeNum": 395,
+    "PokeName": "Empoleon",
+    "PokeType1": "WATER",
+    "PokeType2": "STEEL"
+  },
+  {
+    "index": 491,
+    "PokeNum": 396,
+    "PokeName": "Starly",
+    "PokeType1": "NORMAL",
+    "PokeType2": "FLYING"
+  },
+  {
+    "index": 492,
+    "PokeNum": 397,
+    "PokeName": "Staravia",
+    "PokeType1": "NORMAL",
+    "PokeType2": "FLYING"
+  },
+  {
+    "index": 493,
+    "PokeNum": 398,
+    "PokeName": "Staraptor",
+    "PokeType1": "NORMAL",
+    "PokeType2": "FLYING"
+  },
+  {
+    "index": 494,
+    "PokeNum": 399,
+    "PokeName": "Bidoof",
+    "PokeType1": "NORMAL",
+    "PokeType2": ""
+  },
+  {
+    "index": 495,
+    "PokeNum": 400,
+    "PokeName": "Bibarel",
+    "PokeType1": "NORMAL",
+    "PokeType2": "WATER"
+  },
+  {
+    "index": 496,
+    "PokeNum": 401,
+    "PokeName": "Kricketot",
+    "PokeType1": "BUG",
+    "PokeType2": ""
+  },
+  {
+    "index": 497,
+    "PokeNum": 402,
+    "PokeName": "Kricketune",
+    "PokeType1": "BUG",
+    "PokeType2": ""
+  },
+  {
+    "index": 498,
+    "PokeNum": 403,
+    "PokeName": "Shinx",
+    "PokeType1": "ELECTRIC",
+    "PokeType2": ""
+  },
+  {
+    "index": 499,
+    "PokeNum": 404,
+    "PokeName": "Luxio",
+    "PokeType1": "ELECTRIC",
+    "PokeType2": ""
+  },
+  {
+    "index": 500,
+    "PokeNum": 405,
+    "PokeName": "Luxray",
+    "PokeType1": "ELECTRIC",
+    "PokeType2": ""
+  },
+  {
+    "index": 501,
+    "PokeNum": 406,
+    "PokeName": "Budew",
+    "PokeType1": "GRASS",
+    "PokeType2": "POISON"
+  },
+  {
+    "index": 502,
+    "PokeNum": 407,
+    "PokeName": "Roserade",
+    "PokeType1": "GRASS",
+    "PokeType2": "POISON"
+  },
+  {
+    "index": 503,
+    "PokeNum": 408,
+    "PokeName": "Cranidos",
+    "PokeType1": "ROCK",
+    "PokeType2": ""
+  },
+  {
+    "index": 504,
+    "PokeNum": 409,
+    "PokeName": "Rampardos",
+    "PokeType1": "ROCK",
+    "PokeType2": ""
+  },
+  {
+    "index": 505,
+    "PokeNum": 410,
+    "PokeName": "Shieldon",
+    "PokeType1": "ROCK",
+    "PokeType2": "STEEL"
+  },
+  {
+    "index": 506,
+    "PokeNum": 411,
+    "PokeName": "Bastiodon",
+    "PokeType1": "ROCK",
+    "PokeType2": "STEEL"
+  },
+  {
+    "index": 507,
+    "PokeNum": 412,
+    "PokeName": "Burmy\nPlant Cloak",
+    "PokeType1": "BUG",
+    "PokeType2": ""
+  },
+  {
+    "index": 508,
+    "PokeNum": 412,
+    "PokeName": "Burmy\nSandy Cloak",
+    "PokeType1": "BUG",
+    "PokeType2": ""
+  },
+  {
+    "index": 509,
+    "PokeNum": 412,
+    "PokeName": "Burmy\nTrash Cloak",
+    "PokeType1": "BUG",
+    "PokeType2": ""
+  },
+  {
+    "index": 510,
+    "PokeNum": 413,
+    "PokeName": "Wormadam\nPlant Cloak",
+    "PokeType1": "BUG",
+    "PokeType2": "GRASS"
+  },
+  {
+    "index": 511,
+    "PokeNum": 413,
+    "PokeName": "Wormadam\nSandy Cloak",
+    "PokeType1": "BUG",
+    "PokeType2": "GROUND"
+  },
+  {
+    "index": 512,
+    "PokeNum": 413,
+    "PokeName": "Wormadam\nTrash Cloak",
+    "PokeType1": "BUG",
+    "PokeType2": "STEEL"
+  },
+  {
+    "index": 513,
+    "PokeNum": 414,
+    "PokeName": "Mothim",
+    "PokeType1": "BUG",
+    "PokeType2": "FLYING"
+  },
+  {
+    "index": 514,
+    "PokeNum": 415,
+    "PokeName": "Combee",
+    "PokeType1": "BUG",
+    "PokeType2": "FLYING"
+  },
+  {
+    "index": 515,
+    "PokeNum": 416,
+    "PokeName": "Vespiquen",
+    "PokeType1": "BUG",
+    "PokeType2": "FLYING"
+  },
+  {
+    "index": 516,
+    "PokeNum": 417,
+    "PokeName": "Pachirisu",
+    "PokeType1": "ELECTRIC",
+    "PokeType2": ""
+  },
+  {
+    "index": 517,
+    "PokeNum": 418,
+    "PokeName": "Buizel",
+    "PokeType1": "WATER",
+    "PokeType2": ""
+  },
+  {
+    "index": 518,
+    "PokeNum": 419,
+    "PokeName": "Floatzel",
+    "PokeType1": "WATER",
+    "PokeType2": ""
+  },
+  {
+    "index": 519,
+    "PokeNum": 420,
+    "PokeName": "Cherubi",
+    "PokeType1": "GRASS",
+    "PokeType2": ""
+  },
+  {
+    "index": 520,
+    "PokeNum": 421,
+    "PokeName": "Cherrim",
+    "PokeType1": "GRASS",
+    "PokeType2": ""
+  },
+  {
+    "index": 521,
+    "PokeNum": 422,
+    "PokeName": "Shellos",
+    "PokeType1": "WATER",
+    "PokeType2": ""
+  },
+  {
+    "index": 522,
+    "PokeNum": 423,
+    "PokeName": "Gastrodon",
+    "PokeType1": "WATER",
+    "PokeType2": "GROUND"
+  },
+  {
+    "index": 523,
+    "PokeNum": 424,
+    "PokeName": "Ambipom",
+    "PokeType1": "NORMAL",
+    "PokeType2": ""
+  },
+  {
+    "index": 524,
+    "PokeNum": 425,
+    "PokeName": "Drifloon",
+    "PokeType1": "GHOST",
+    "PokeType2": "FLYING"
+  },
+  {
+    "index": 525,
+    "PokeNum": 426,
+    "PokeName": "Drifblim",
+    "PokeType1": "GHOST",
+    "PokeType2": "FLYING"
+  },
+  {
+    "index": 526,
+    "PokeNum": 427,
+    "PokeName": "Buneary",
+    "PokeType1": "NORMAL",
+    "PokeType2": ""
+  },
+  {
+    "index": 527,
+    "PokeNum": 428,
+    "PokeName": "Lopunny",
+    "PokeType1": "NORMAL",
+    "PokeType2": ""
+  },
+  {
+    "index": 528,
+    "PokeNum": 428,
+    "PokeName": "Lopunny\nMega Lopunny",
+    "PokeType1": "NORMAL",
+    "PokeType2": "FIGHTING"
+  },
+  {
+    "index": 529,
+    "PokeNum": 429,
+    "PokeName": "Mismagius",
+    "PokeType1": "GHOST",
+    "PokeType2": ""
+  },
+  {
+    "index": 530,
+    "PokeNum": 430,
+    "PokeName": "Honchkrow",
+    "PokeType1": "DARK",
+    "PokeType2": "FLYING"
+  },
+  {
+    "index": 531,
+    "PokeNum": 431,
+    "PokeName": "Glameow",
+    "PokeType1": "NORMAL",
+    "PokeType2": ""
+  },
+  {
+    "index": 532,
+    "PokeNum": 432,
+    "PokeName": "Purugly",
+    "PokeType1": "NORMAL",
+    "PokeType2": ""
+  },
+  {
+    "index": 533,
+    "PokeNum": 433,
+    "PokeName": "Chingling",
+    "PokeType1": "PSYCHIC",
+    "PokeType2": ""
+  },
+  {
+    "index": 534,
+    "PokeNum": 434,
+    "PokeName": "Stunky",
+    "PokeType1": "POISON",
+    "PokeType2": "DARK"
+  },
+  {
+    "index": 535,
+    "PokeNum": 435,
+    "PokeName": "Skuntank",
+    "PokeType1": "POISON",
+    "PokeType2": "DARK"
+  },
+  {
+    "index": 536,
+    "PokeNum": 436,
+    "PokeName": "Bronzor",
+    "PokeType1": "STEEL",
+    "PokeType2": "PSYCHIC"
+  },
+  {
+    "index": 537,
+    "PokeNum": 437,
+    "PokeName": "Bronzong",
+    "PokeType1": "STEEL",
+    "PokeType2": "PSYCHIC"
+  },
+  {
+    "index": 538,
+    "PokeNum": 438,
+    "PokeName": "Bonsly",
+    "PokeType1": "ROCK",
+    "PokeType2": ""
+  },
+  {
+    "index": 539,
+    "PokeNum": 439,
+    "PokeName": "Mime Jr.",
+    "PokeType1": "PSYCHIC",
+    "PokeType2": "FAIRY"
+  },
+  {
+    "index": 540,
+    "PokeNum": 440,
+    "PokeName": "Happiny",
+    "PokeType1": "NORMAL",
+    "PokeType2": ""
+  },
+  {
+    "index": 541,
+    "PokeNum": 441,
+    "PokeName": "Chatot",
+    "PokeType1": "NORMAL",
+    "PokeType2": "FLYING"
+  },
+  {
+    "index": 542,
+    "PokeNum": 442,
+    "PokeName": "Spiritomb",
+    "PokeType1": "GHOST",
+    "PokeType2": "DARK"
+  },
+  {
+    "index": 543,
+    "PokeNum": 443,
+    "PokeName": "Gible",
+    "PokeType1": "DRAGON",
+    "PokeType2": "GROUND"
+  },
+  {
+    "index": 544,
+    "PokeNum": 444,
+    "PokeName": "Gabite",
+    "PokeType1": "DRAGON",
+    "PokeType2": "GROUND"
+  },
+  {
+    "index": 545,
+    "PokeNum": 445,
+    "PokeName": "Garchomp",
+    "PokeType1": "DRAGON",
+    "PokeType2": "GROUND"
+  },
+  {
+    "index": 546,
+    "PokeNum": 445,
+    "PokeName": "Garchomp\nMega Garchomp",
+    "PokeType1": "DRAGON",
+    "PokeType2": "GROUND"
+  },
+  {
+    "index": 547,
+    "PokeNum": 446,
+    "PokeName": "Munchlax",
+    "PokeType1": "NORMAL",
+    "PokeType2": ""
+  },
+  {
+    "index": 548,
+    "PokeNum": 447,
+    "PokeName": "Riolu",
+    "PokeType1": "FIGHTING",
+    "PokeType2": ""
+  },
+  {
+    "index": 549,
+    "PokeNum": 448,
+    "PokeName": "Lucario",
+    "PokeType1": "FIGHTING",
+    "PokeType2": "STEEL"
+  },
+  {
+    "index": 550,
+    "PokeNum": 448,
+    "PokeName": "Lucario\nMega Lucario",
+    "PokeType1": "FIGHTING",
+    "PokeType2": "STEEL"
+  },
+  {
+    "index": 551,
+    "PokeNum": 449,
+    "PokeName": "Hippopotas",
+    "PokeType1": "GROUND",
+    "PokeType2": ""
+  },
+  {
+    "index": 552,
+    "PokeNum": 450,
+    "PokeName": "Hippowdon",
+    "PokeType1": "GROUND",
+    "PokeType2": ""
+  },
+  {
+    "index": 553,
+    "PokeNum": 451,
+    "PokeName": "Skorupi",
+    "PokeType1": "POISON",
+    "PokeType2": "BUG"
+  },
+  {
+    "index": 554,
+    "PokeNum": 452,
+    "PokeName": "Drapion",
+    "PokeType1": "POISON",
+    "PokeType2": "DARK"
+  },
+  {
+    "index": 555,
+    "PokeNum": 453,
+    "PokeName": "Croagunk",
+    "PokeType1": "POISON",
+    "PokeType2": "FIGHTING"
+  },
+  {
+    "index": 556,
+    "PokeNum": 454,
+    "PokeName": "Toxicroak",
+    "PokeType1": "POISON",
+    "PokeType2": "FIGHTING"
+  },
+  {
+    "index": 557,
+    "PokeNum": 455,
+    "PokeName": "Carnivine",
+    "PokeType1": "GRASS",
+    "PokeType2": ""
+  },
+  {
+    "index": 558,
+    "PokeNum": 456,
+    "PokeName": "Finneon",
+    "PokeType1": "WATER",
+    "PokeType2": ""
+  },
+  {
+    "index": 559,
+    "PokeNum": 457,
+    "PokeName": "Lumineon",
+    "PokeType1": "WATER",
+    "PokeType2": ""
+  },
+  {
+    "index": 560,
+    "PokeNum": 458,
+    "PokeName": "Mantyke",
+    "PokeType1": "WATER",
+    "PokeType2": "FLYING"
+  },
+  {
+    "index": 561,
+    "PokeNum": 459,
+    "PokeName": "Snover",
+    "PokeType1": "GRASS",
+    "PokeType2": "ICE"
+  },
+  {
+    "index": 562,
+    "PokeNum": 460,
+    "PokeName": "Abomasnow",
+    "PokeType1": "GRASS",
+    "PokeType2": "ICE"
+  },
+  {
+    "index": 563,
+    "PokeNum": 460,
+    "PokeName": "Abomasnow\nMega Abomasnow",
+    "PokeType1": "GRASS",
+    "PokeType2": "ICE"
+  },
+  {
+    "index": 564,
+    "PokeNum": 461,
+    "PokeName": "Weavile",
+    "PokeType1": "DARK",
+    "PokeType2": "ICE"
+  },
+  {
+    "index": 565,
+    "PokeNum": 462,
+    "PokeName": "Magnezone",
+    "PokeType1": "ELECTRIC",
+    "PokeType2": "STEEL"
+  },
+  {
+    "index": 566,
+    "PokeNum": 463,
+    "PokeName": "Lickilicky",
+    "PokeType1": "NORMAL",
+    "PokeType2": ""
+  },
+  {
+    "index": 567,
+    "PokeNum": 464,
+    "PokeName": "Rhyperior",
+    "PokeType1": "GROUND",
+    "PokeType2": "ROCK"
+  },
+  {
+    "index": 568,
+    "PokeNum": 465,
+    "PokeName": "Tangrowth",
+    "PokeType1": "GRASS",
+    "PokeType2": ""
+  },
+  {
+    "index": 569,
+    "PokeNum": 466,
+    "PokeName": "Electivire",
+    "PokeType1": "ELECTRIC",
+    "PokeType2": ""
+  },
+  {
+    "index": 570,
+    "PokeNum": 467,
+    "PokeName": "Magmortar",
+    "PokeType1": "FIRE",
+    "PokeType2": ""
+  },
+  {
+    "index": 571,
+    "PokeNum": 468,
+    "PokeName": "Togekiss",
+    "PokeType1": "FAIRY",
+    "PokeType2": "FLYING"
+  },
+  {
+    "index": 572,
+    "PokeNum": 469,
+    "PokeName": "Yanmega",
+    "PokeType1": "BUG",
+    "PokeType2": "FLYING"
+  },
+  {
+    "index": 573,
+    "PokeNum": 470,
+    "PokeName": "Leafeon",
+    "PokeType1": "GRASS",
+    "PokeType2": ""
+  },
+  {
+    "index": 574,
+    "PokeNum": 471,
+    "PokeName": "Glaceon",
+    "PokeType1": "ICE",
+    "PokeType2": ""
+  },
+  {
+    "index": 575,
+    "PokeNum": 472,
+    "PokeName": "Gliscor",
+    "PokeType1": "GROUND",
+    "PokeType2": "FLYING"
+  },
+  {
+    "index": 576,
+    "PokeNum": 473,
+    "PokeName": "Mamoswine",
+    "PokeType1": "ICE",
+    "PokeType2": "GROUND"
+  },
+  {
+    "index": 577,
+    "PokeNum": 474,
+    "PokeName": "Porygon-Z",
+    "PokeType1": "NORMAL",
+    "PokeType2": ""
+  },
+  {
+    "index": 578,
+    "PokeNum": 475,
+    "PokeName": "Gallade",
+    "PokeType1": "PSYCHIC",
+    "PokeType2": "FIGHTING"
+  },
+  {
+    "index": 579,
+    "PokeNum": 475,
+    "PokeName": "Gallade\nMega Gallade",
+    "PokeType1": "PSYCHIC",
+    "PokeType2": "FIGHTING"
+  },
+  {
+    "index": 580,
+    "PokeNum": 476,
+    "PokeName": "Probopass",
+    "PokeType1": "ROCK",
+    "PokeType2": "STEEL"
+  },
+  {
+    "index": 581,
+    "PokeNum": 477,
+    "PokeName": "Dusknoir",
+    "PokeType1": "GHOST",
+    "PokeType2": ""
+  },
+  {
+    "index": 582,
+    "PokeNum": 478,
+    "PokeName": "Froslass",
+    "PokeType1": "ICE",
+    "PokeType2": "GHOST"
+  },
+  {
+    "index": 583,
+    "PokeNum": 479,
+    "PokeName": "Rotom",
+    "PokeType1": "ELECTRIC",
+    "PokeType2": "GHOST"
+  },
+  {
+    "index": 584,
+    "PokeNum": 479,
+    "PokeName": "Rotom\nHeat Rotom",
+    "PokeType1": "ELECTRIC",
+    "PokeType2": "FIRE"
+  },
+  {
+    "index": 585,
+    "PokeNum": 479,
+    "PokeName": "Rotom\nWash Rotom",
+    "PokeType1": "ELECTRIC",
+    "PokeType2": "WATER"
+  },
+  {
+    "index": 586,
+    "PokeNum": 479,
+    "PokeName": "Rotom\nFrost Rotom",
+    "PokeType1": "ELECTRIC",
+    "PokeType2": "ICE"
+  },
+  {
+    "index": 587,
+    "PokeNum": 479,
+    "PokeName": "Rotom\nFan Rotom",
+    "PokeType1": "ELECTRIC",
+    "PokeType2": "FLYING"
+  },
+  {
+    "index": 588,
+    "PokeNum": 479,
+    "PokeName": "Rotom\nMow Rotom",
+    "PokeType1": "ELECTRIC",
+    "PokeType2": "GRASS"
+  },
+  {
+    "index": 589,
+    "PokeNum": 480,
+    "PokeName": "Uxie",
+    "PokeType1": "PSYCHIC",
+    "PokeType2": ""
+  },
+  {
+    "index": 590,
+    "PokeNum": 481,
+    "PokeName": "Mesprit",
+    "PokeType1": "PSYCHIC",
+    "PokeType2": ""
+  },
+  {
+    "index": 591,
+    "PokeNum": 482,
+    "PokeName": "Azelf",
+    "PokeType1": "PSYCHIC",
+    "PokeType2": ""
+  },
+  {
+    "index": 592,
+    "PokeNum": 483,
+    "PokeName": "Dialga",
+    "PokeType1": "STEEL",
+    "PokeType2": "DRAGON"
+  },
+  {
+    "index": 593,
+    "PokeNum": 483,
+    "PokeName": "Dialga\nOrigin Forme",
+    "PokeType1": "STEEL",
+    "PokeType2": "DRAGON"
+  },
+  {
+    "index": 594,
+    "PokeNum": 484,
+    "PokeName": "Palkia",
+    "PokeType1": "WATER",
+    "PokeType2": "DRAGON"
+  },
+  {
+    "index": 595,
+    "PokeNum": 484,
+    "PokeName": "Palkia\nOrigin Forme",
+    "PokeType1": "WATER",
+    "PokeType2": "DRAGON"
+  },
+  {
+    "index": 596,
+    "PokeNum": 485,
+    "PokeName": "Heatran",
+    "PokeType1": "FIRE",
+    "PokeType2": "STEEL"
+  },
+  {
+    "index": 597,
+    "PokeNum": 486,
+    "PokeName": "Regigigas",
+    "PokeType1": "NORMAL",
+    "PokeType2": ""
+  },
+  {
+    "index": 598,
+    "PokeNum": 487,
+    "PokeName": "Giratina\nAltered Forme",
+    "PokeType1": "GHOST",
+    "PokeType2": "DRAGON"
+  },
+  {
+    "index": 599,
+    "PokeNum": 487,
+    "PokeName": "Giratina\nOrigin Forme",
+    "PokeType1": "GHOST",
+    "PokeType2": "DRAGON"
+  },
+  {
+    "index": 600,
+    "PokeNum": 488,
+    "PokeName": "Cresselia",
+    "PokeType1": "PSYCHIC",
+    "PokeType2": ""
+  },
+  {
+    "index": 601,
+    "PokeNum": 489,
+    "PokeName": "Phione",
+    "PokeType1": "WATER",
+    "PokeType2": ""
+  },
+  {
+    "index": 602,
+    "PokeNum": 490,
+    "PokeName": "Manaphy",
+    "PokeType1": "WATER",
+    "PokeType2": ""
+  },
+  {
+    "index": 603,
+    "PokeNum": 491,
+    "PokeName": "Darkrai",
+    "PokeType1": "DARK",
+    "PokeType2": ""
+  },
+  {
+    "index": 604,
+    "PokeNum": 492,
+    "PokeName": "Shaymin\nLand Forme",
+    "PokeType1": "GRASS",
+    "PokeType2": ""
+  },
+  {
+    "index": 605,
+    "PokeNum": 492,
+    "PokeName": "Shaymin\nSky Forme",
+    "PokeType1": "GRASS",
+    "PokeType2": "FLYING"
+  },
+  {
+    "index": 606,
+    "PokeNum": 493,
+    "PokeName": "Arceus",
+    "PokeType1": "NORMAL",
+    "PokeType2": ""
+  },
+  {
+    "index": 607,
+    "PokeNum": 494,
+    "PokeName": "Victini",
+    "PokeType1": "PSYCHIC",
+    "PokeType2": "FIRE"
+  },
+  {
+    "index": 608,
+    "PokeNum": 495,
+    "PokeName": "Snivy",
+    "PokeType1": "GRASS",
+    "PokeType2": ""
+  },
+  {
+    "index": 609,
+    "PokeNum": 496,
+    "PokeName": "Servine",
+    "PokeType1": "GRASS",
+    "PokeType2": ""
+  },
+  {
+    "index": 610,
+    "PokeNum": 497,
+    "PokeName": "Serperior",
+    "PokeType1": "GRASS",
+    "PokeType2": ""
+  },
+  {
+    "index": 611,
+    "PokeNum": 498,
+    "PokeName": "Tepig",
+    "PokeType1": "FIRE",
+    "PokeType2": ""
+  },
+  {
+    "index": 612,
+    "PokeNum": 499,
+    "PokeName": "Pignite",
+    "PokeType1": "FIRE",
+    "PokeType2": "FIGHTING"
+  },
+  {
+    "index": 613,
+    "PokeNum": 500,
+    "PokeName": "Emboar",
+    "PokeType1": "FIRE",
+    "PokeType2": "FIGHTING"
+  },
+  {
+    "index": 614,
+    "PokeNum": 501,
+    "PokeName": "Oshawott",
+    "PokeType1": "WATER",
+    "PokeType2": ""
+  },
+  {
+    "index": 615,
+    "PokeNum": 502,
+    "PokeName": "Dewott",
+    "PokeType1": "WATER",
+    "PokeType2": ""
+  },
+  {
+    "index": 616,
+    "PokeNum": 503,
+    "PokeName": "Samurott",
+    "PokeType1": "WATER",
+    "PokeType2": ""
+  },
+  {
+    "index": 617,
+    "PokeNum": 503,
+    "PokeName": "Samurott\nHisuian Samurott",
+    "PokeType1": "WATER",
+    "PokeType2": "DARK"
+  },
+  {
+    "index": 618,
+    "PokeNum": 504,
+    "PokeName": "Patrat",
+    "PokeType1": "NORMAL",
+    "PokeType2": ""
+  },
+  {
+    "index": 619,
+    "PokeNum": 505,
+    "PokeName": "Watchog",
+    "PokeType1": "NORMAL",
+    "PokeType2": ""
+  },
+  {
+    "index": 620,
+    "PokeNum": 506,
+    "PokeName": "Lillipup",
+    "PokeType1": "NORMAL",
+    "PokeType2": ""
+  },
+  {
+    "index": 621,
+    "PokeNum": 507,
+    "PokeName": "Herdier",
+    "PokeType1": "NORMAL",
+    "PokeType2": ""
+  },
+  {
+    "index": 622,
+    "PokeNum": 508,
+    "PokeName": "Stoutland",
+    "PokeType1": "NORMAL",
+    "PokeType2": ""
+  },
+  {
+    "index": 623,
+    "PokeNum": 509,
+    "PokeName": "Purrloin",
+    "PokeType1": "DARK",
+    "PokeType2": ""
+  },
+  {
+    "index": 624,
+    "PokeNum": 510,
+    "PokeName": "Liepard",
+    "PokeType1": "DARK",
+    "PokeType2": ""
+  },
+  {
+    "index": 625,
+    "PokeNum": 511,
+    "PokeName": "Pansage",
+    "PokeType1": "GRASS",
+    "PokeType2": ""
+  },
+  {
+    "index": 626,
+    "PokeNum": 512,
+    "PokeName": "Simisage",
+    "PokeType1": "GRASS",
+    "PokeType2": ""
+  },
+  {
+    "index": 627,
+    "PokeNum": 513,
+    "PokeName": "Pansear",
+    "PokeType1": "FIRE",
+    "PokeType2": ""
+  },
+  {
+    "index": 628,
+    "PokeNum": 514,
+    "PokeName": "Simisear",
+    "PokeType1": "FIRE",
+    "PokeType2": ""
+  },
+  {
+    "index": 629,
+    "PokeNum": 515,
+    "PokeName": "Panpour",
+    "PokeType1": "WATER",
+    "PokeType2": ""
+  },
+  {
+    "index": 630,
+    "PokeNum": 516,
+    "PokeName": "Simipour",
+    "PokeType1": "WATER",
+    "PokeType2": ""
+  },
+  {
+    "index": 631,
+    "PokeNum": 517,
+    "PokeName": "Munna",
+    "PokeType1": "PSYCHIC",
+    "PokeType2": ""
+  },
+  {
+    "index": 632,
+    "PokeNum": 518,
+    "PokeName": "Musharna",
+    "PokeType1": "PSYCHIC",
+    "PokeType2": ""
+  },
+  {
+    "index": 633,
+    "PokeNum": 519,
+    "PokeName": "Pidove",
+    "PokeType1": "NORMAL",
+    "PokeType2": "FLYING"
+  },
+  {
+    "index": 634,
+    "PokeNum": 520,
+    "PokeName": "Tranquill",
+    "PokeType1": "NORMAL",
+    "PokeType2": "FLYING"
+  },
+  {
+    "index": 635,
+    "PokeNum": 521,
+    "PokeName": "Unfezant",
+    "PokeType1": "NORMAL",
+    "PokeType2": "FLYING"
+  },
+  {
+    "index": 636,
+    "PokeNum": 522,
+    "PokeName": "Blitzle",
+    "PokeType1": "ELECTRIC",
+    "PokeType2": ""
+  },
+  {
+    "index": 637,
+    "PokeNum": 523,
+    "PokeName": "Zebstrika",
+    "PokeType1": "ELECTRIC",
+    "PokeType2": ""
+  },
+  {
+    "index": 638,
+    "PokeNum": 524,
+    "PokeName": "Roggenrola",
+    "PokeType1": "ROCK",
+    "PokeType2": ""
+  },
+  {
+    "index": 639,
+    "PokeNum": 525,
+    "PokeName": "Boldore",
+    "PokeType1": "ROCK",
+    "PokeType2": ""
+  },
+  {
+    "index": 640,
+    "PokeNum": 526,
+    "PokeName": "Gigalith",
+    "PokeType1": "ROCK",
+    "PokeType2": ""
+  },
+  {
+    "index": 641,
+    "PokeNum": 527,
+    "PokeName": "Woobat",
+    "PokeType1": "PSYCHIC",
+    "PokeType2": "FLYING"
+  },
+  {
+    "index": 642,
+    "PokeNum": 528,
+    "PokeName": "Swoobat",
+    "PokeType1": "PSYCHIC",
+    "PokeType2": "FLYING"
+  },
+  {
+    "index": 643,
+    "PokeNum": 529,
+    "PokeName": "Drilbur",
+    "PokeType1": "GROUND",
+    "PokeType2": ""
+  },
+  {
+    "index": 644,
+    "PokeNum": 530,
+    "PokeName": "Excadrill",
+    "PokeType1": "GROUND",
+    "PokeType2": "STEEL"
+  },
+  {
+    "index": 645,
+    "PokeNum": 531,
+    "PokeName": "Audino",
+    "PokeType1": "NORMAL",
+    "PokeType2": ""
+  },
+  {
+    "index": 646,
+    "PokeNum": 531,
+    "PokeName": "Audino\nMega Audino",
+    "PokeType1": "NORMAL",
+    "PokeType2": "FAIRY"
+  },
+  {
+    "index": 647,
+    "PokeNum": 532,
+    "PokeName": "Timburr",
+    "PokeType1": "FIGHTING",
+    "PokeType2": ""
+  },
+  {
+    "index": 648,
+    "PokeNum": 533,
+    "PokeName": "Gurdurr",
+    "PokeType1": "FIGHTING",
+    "PokeType2": ""
+  },
+  {
+    "index": 649,
+    "PokeNum": 534,
+    "PokeName": "Conkeldurr",
+    "PokeType1": "FIGHTING",
+    "PokeType2": ""
+  },
+  {
+    "index": 650,
+    "PokeNum": 535,
+    "PokeName": "Tympole",
+    "PokeType1": "WATER",
+    "PokeType2": ""
+  },
+  {
+    "index": 651,
+    "PokeNum": 536,
+    "PokeName": "Palpitoad",
+    "PokeType1": "WATER",
+    "PokeType2": "GROUND"
+  },
+  {
+    "index": 652,
+    "PokeNum": 537,
+    "PokeName": "Seismitoad",
+    "PokeType1": "WATER",
+    "PokeType2": "GROUND"
+  },
+  {
+    "index": 653,
+    "PokeNum": 538,
+    "PokeName": "Throh",
+    "PokeType1": "FIGHTING",
+    "PokeType2": ""
+  },
+  {
+    "index": 654,
+    "PokeNum": 539,
+    "PokeName": "Sawk",
+    "PokeType1": "FIGHTING",
+    "PokeType2": ""
+  },
+  {
+    "index": 655,
+    "PokeNum": 540,
+    "PokeName": "Sewaddle",
+    "PokeType1": "BUG",
+    "PokeType2": "GRASS"
+  },
+  {
+    "index": 656,
+    "PokeNum": 541,
+    "PokeName": "Swadloon",
+    "PokeType1": "BUG",
+    "PokeType2": "GRASS"
+  },
+  {
+    "index": 657,
+    "PokeNum": 542,
+    "PokeName": "Leavanny",
+    "PokeType1": "BUG",
+    "PokeType2": "GRASS"
+  },
+  {
+    "index": 658,
+    "PokeNum": 543,
+    "PokeName": "Venipede",
+    "PokeType1": "BUG",
+    "PokeType2": "POISON"
+  },
+  {
+    "index": 659,
+    "PokeNum": 544,
+    "PokeName": "Whirlipede",
+    "PokeType1": "BUG",
+    "PokeType2": "POISON"
+  },
+  {
+    "index": 660,
+    "PokeNum": 545,
+    "PokeName": "Scolipede",
+    "PokeType1": "BUG",
+    "PokeType2": "POISON"
+  },
+  {
+    "index": 661,
+    "PokeNum": 546,
+    "PokeName": "Cottonee",
+    "PokeType1": "GRASS",
+    "PokeType2": "FAIRY"
+  },
+  {
+    "index": 662,
+    "PokeNum": 547,
+    "PokeName": "Whimsicott",
+    "PokeType1": "GRASS",
+    "PokeType2": "FAIRY"
+  },
+  {
+    "index": 663,
+    "PokeNum": 548,
+    "PokeName": "Petilil",
+    "PokeType1": "GRASS",
+    "PokeType2": ""
+  },
+  {
+    "index": 664,
+    "PokeNum": 549,
+    "PokeName": "Lilligant",
+    "PokeType1": "GRASS",
+    "PokeType2": ""
+  },
+  {
+    "index": 665,
+    "PokeNum": 549,
+    "PokeName": "Lilligant\nHisuian Lilligant",
+    "PokeType1": "GRASS",
+    "PokeType2": "FIGHTING"
+  },
+  {
+    "index": 666,
+    "PokeNum": 550,
+    "PokeName": "Basculin\nRed-Striped Form",
+    "PokeType1": "WATER",
+    "PokeType2": ""
+  },
+  {
+    "index": 667,
+    "PokeNum": 550,
+    "PokeName": "Basculin\nBlue-Striped Form",
+    "PokeType1": "WATER",
+    "PokeType2": ""
+  },
+  {
+    "index": 668,
+    "PokeNum": 550,
+    "PokeName": "Basculin\nWhite-Striped Form",
+    "PokeType1": "WATER",
+    "PokeType2": ""
+  },
+  {
+    "index": 669,
+    "PokeNum": 551,
+    "PokeName": "Sandile",
+    "PokeType1": "GROUND",
+    "PokeType2": "DARK"
+  },
+  {
+    "index": 670,
+    "PokeNum": 552,
+    "PokeName": "Krokorok",
+    "PokeType1": "GROUND",
+    "PokeType2": "DARK"
+  },
+  {
+    "index": 671,
+    "PokeNum": 553,
+    "PokeName": "Krookodile",
+    "PokeType1": "GROUND",
+    "PokeType2": "DARK"
+  },
+  {
+    "index": 672,
+    "PokeNum": 554,
+    "PokeName": "Darumaka",
+    "PokeType1": "FIRE",
+    "PokeType2": ""
+  },
+  {
+    "index": 673,
+    "PokeNum": 554,
+    "PokeName": "Darumaka\nGalarian Darumaka",
+    "PokeType1": "ICE",
+    "PokeType2": ""
+  },
+  {
+    "index": 674,
+    "PokeNum": 555,
+    "PokeName": "Darmanitan\nStandard Mode",
+    "PokeType1": "FIRE",
+    "PokeType2": ""
+  },
+  {
+    "index": 675,
+    "PokeNum": 555,
+    "PokeName": "Darmanitan\nZen Mode",
+    "PokeType1": "FIRE",
+    "PokeType2": "PSYCHIC"
+  },
+  {
+    "index": 676,
+    "PokeNum": 555,
+    "PokeName": "Darmanitan\nGalarian Standard Mode",
+    "PokeType1": "ICE",
+    "PokeType2": ""
+  },
+  {
+    "index": 677,
+    "PokeNum": 555,
+    "PokeName": "Darmanitan\nGalarian Zen Mode",
+    "PokeType1": "ICE",
+    "PokeType2": "FIRE"
+  },
+  {
+    "index": 678,
+    "PokeNum": 556,
+    "PokeName": "Maractus",
+    "PokeType1": "GRASS",
+    "PokeType2": ""
+  },
+  {
+    "index": 679,
+    "PokeNum": 557,
+    "PokeName": "Dwebble",
+    "PokeType1": "BUG",
+    "PokeType2": "ROCK"
+  },
+  {
+    "index": 680,
+    "PokeNum": 558,
+    "PokeName": "Crustle",
+    "PokeType1": "BUG",
+    "PokeType2": "ROCK"
+  },
+  {
+    "index": 681,
+    "PokeNum": 559,
+    "PokeName": "Scraggy",
+    "PokeType1": "DARK",
+    "PokeType2": "FIGHTING"
+  },
+  {
+    "index": 682,
+    "PokeNum": 560,
+    "PokeName": "Scrafty",
+    "PokeType1": "DARK",
+    "PokeType2": "FIGHTING"
+  },
+  {
+    "index": 683,
+    "PokeNum": 561,
+    "PokeName": "Sigilyph",
+    "PokeType1": "PSYCHIC",
+    "PokeType2": "FLYING"
+  },
+  {
+    "index": 684,
+    "PokeNum": 562,
+    "PokeName": "Yamask",
+    "PokeType1": "GHOST",
+    "PokeType2": ""
+  },
+  {
+    "index": 685,
+    "PokeNum": 562,
+    "PokeName": "Yamask\nGalarian Yamask",
+    "PokeType1": "GROUND",
+    "PokeType2": "GHOST"
+  },
+  {
+    "index": 686,
+    "PokeNum": 563,
+    "PokeName": "Cofagrigus",
+    "PokeType1": "GHOST",
+    "PokeType2": ""
+  },
+  {
+    "index": 687,
+    "PokeNum": 564,
+    "PokeName": "Tirtouga",
+    "PokeType1": "WATER",
+    "PokeType2": "ROCK"
+  },
+  {
+    "index": 688,
+    "PokeNum": 565,
+    "PokeName": "Carracosta",
+    "PokeType1": "WATER",
+    "PokeType2": "ROCK"
+  },
+  {
+    "index": 689,
+    "PokeNum": 566,
+    "PokeName": "Archen",
+    "PokeType1": "ROCK",
+    "PokeType2": "FLYING"
+  },
+  {
+    "index": 690,
+    "PokeNum": 567,
+    "PokeName": "Archeops",
+    "PokeType1": "ROCK",
+    "PokeType2": "FLYING"
+  },
+  {
+    "index": 691,
+    "PokeNum": 568,
+    "PokeName": "Trubbish",
+    "PokeType1": "POISON",
+    "PokeType2": ""
+  },
+  {
+    "index": 692,
+    "PokeNum": 569,
+    "PokeName": "Garbodor",
+    "PokeType1": "POISON",
+    "PokeType2": ""
+  },
+  {
+    "index": 693,
+    "PokeNum": 570,
+    "PokeName": "Zorua",
+    "PokeType1": "DARK",
+    "PokeType2": ""
+  },
+  {
+    "index": 694,
+    "PokeNum": 570,
+    "PokeName": "Zorua\nHisuian Zorua",
+    "PokeType1": "NORMAL",
+    "PokeType2": "GHOST"
+  },
+  {
+    "index": 695,
+    "PokeNum": 571,
+    "PokeName": "Zoroark",
+    "PokeType1": "DARK",
+    "PokeType2": ""
+  },
+  {
+    "index": 696,
+    "PokeNum": 571,
+    "PokeName": "Zoroark\nHisuian Zoroark",
+    "PokeType1": "NORMAL",
+    "PokeType2": "GHOST"
+  },
+  {
+    "index": 697,
+    "PokeNum": 572,
+    "PokeName": "Minccino",
+    "PokeType1": "NORMAL",
+    "PokeType2": ""
+  },
+  {
+    "index": 698,
+    "PokeNum": 573,
+    "PokeName": "Cinccino",
+    "PokeType1": "NORMAL",
+    "PokeType2": ""
+  },
+  {
+    "index": 699,
+    "PokeNum": 574,
+    "PokeName": "Gothita",
+    "PokeType1": "PSYCHIC",
+    "PokeType2": ""
+  },
+  {
+    "index": 700,
+    "PokeNum": 575,
+    "PokeName": "Gothorita",
+    "PokeType1": "PSYCHIC",
+    "PokeType2": ""
+  },
+  {
+    "index": 701,
+    "PokeNum": 576,
+    "PokeName": "Gothitelle",
+    "PokeType1": "PSYCHIC",
+    "PokeType2": ""
+  },
+  {
+    "index": 702,
+    "PokeNum": 577,
+    "PokeName": "Solosis",
+    "PokeType1": "PSYCHIC",
+    "PokeType2": ""
+  },
+  {
+    "index": 703,
+    "PokeNum": 578,
+    "PokeName": "Duosion",
+    "PokeType1": "PSYCHIC",
+    "PokeType2": ""
+  },
+  {
+    "index": 704,
+    "PokeNum": 579,
+    "PokeName": "Reuniclus",
+    "PokeType1": "PSYCHIC",
+    "PokeType2": ""
+  },
+  {
+    "index": 705,
+    "PokeNum": 580,
+    "PokeName": "Ducklett",
+    "PokeType1": "WATER",
+    "PokeType2": "FLYING"
+  },
+  {
+    "index": 706,
+    "PokeNum": 581,
+    "PokeName": "Swanna",
+    "PokeType1": "WATER",
+    "PokeType2": "FLYING"
+  },
+  {
+    "index": 707,
+    "PokeNum": 582,
+    "PokeName": "Vanillite",
+    "PokeType1": "ICE",
+    "PokeType2": ""
+  },
+  {
+    "index": 708,
+    "PokeNum": 583,
+    "PokeName": "Vanillish",
+    "PokeType1": "ICE",
+    "PokeType2": ""
+  },
+  {
+    "index": 709,
+    "PokeNum": 584,
+    "PokeName": "Vanilluxe",
+    "PokeType1": "ICE",
+    "PokeType2": ""
+  },
+  {
+    "index": 710,
+    "PokeNum": 585,
+    "PokeName": "Deerling",
+    "PokeType1": "NORMAL",
+    "PokeType2": "GRASS"
+  },
+  {
+    "index": 711,
+    "PokeNum": 586,
+    "PokeName": "Sawsbuck",
+    "PokeType1": "NORMAL",
+    "PokeType2": "GRASS"
+  },
+  {
+    "index": 712,
+    "PokeNum": 587,
+    "PokeName": "Emolga",
+    "PokeType1": "ELECTRIC",
+    "PokeType2": "FLYING"
+  },
+  {
+    "index": 713,
+    "PokeNum": 588,
+    "PokeName": "Karrablast",
+    "PokeType1": "BUG",
+    "PokeType2": ""
+  },
+  {
+    "index": 714,
+    "PokeNum": 589,
+    "PokeName": "Escavalier",
+    "PokeType1": "BUG",
+    "PokeType2": "STEEL"
+  },
+  {
+    "index": 715,
+    "PokeNum": 590,
+    "PokeName": "Foongus",
+    "PokeType1": "GRASS",
+    "PokeType2": "POISON"
+  },
+  {
+    "index": 716,
+    "PokeNum": 591,
+    "PokeName": "Amoonguss",
+    "PokeType1": "GRASS",
+    "PokeType2": "POISON"
+  },
+  {
+    "index": 717,
+    "PokeNum": 592,
+    "PokeName": "Frillish",
+    "PokeType1": "WATER",
+    "PokeType2": "GHOST"
+  },
+  {
+    "index": 718,
+    "PokeNum": 593,
+    "PokeName": "Jellicent",
+    "PokeType1": "WATER",
+    "PokeType2": "GHOST"
+  },
+  {
+    "index": 719,
+    "PokeNum": 594,
+    "PokeName": "Alomomola",
+    "PokeType1": "WATER",
+    "PokeType2": ""
+  },
+  {
+    "index": 720,
+    "PokeNum": 595,
+    "PokeName": "Joltik",
+    "PokeType1": "BUG",
+    "PokeType2": "ELECTRIC"
+  },
+  {
+    "index": 721,
+    "PokeNum": 596,
+    "PokeName": "Galvantula",
+    "PokeType1": "BUG",
+    "PokeType2": "ELECTRIC"
+  },
+  {
+    "index": 722,
+    "PokeNum": 597,
+    "PokeName": "Ferroseed",
+    "PokeType1": "GRASS",
+    "PokeType2": "STEEL"
+  },
+  {
+    "index": 723,
+    "PokeNum": 598,
+    "PokeName": "Ferrothorn",
+    "PokeType1": "GRASS",
+    "PokeType2": "STEEL"
+  },
+  {
+    "index": 724,
+    "PokeNum": 599,
+    "PokeName": "Klink",
+    "PokeType1": "STEEL",
+    "PokeType2": ""
+  },
+  {
+    "index": 725,
+    "PokeNum": 600,
+    "PokeName": "Klang",
+    "PokeType1": "STEEL",
+    "PokeType2": ""
+  },
+  {
+    "index": 726,
+    "PokeNum": 601,
+    "PokeName": "Klinklang",
+    "PokeType1": "STEEL",
+    "PokeType2": ""
+  },
+  {
+    "index": 727,
+    "PokeNum": 602,
+    "PokeName": "Tynamo",
+    "PokeType1": "ELECTRIC",
+    "PokeType2": ""
+  },
+  {
+    "index": 728,
+    "PokeNum": 603,
+    "PokeName": "Eelektrik",
+    "PokeType1": "ELECTRIC",
+    "PokeType2": ""
+  },
+  {
+    "index": 729,
+    "PokeNum": 604,
+    "PokeName": "Eelektross",
+    "PokeType1": "ELECTRIC",
+    "PokeType2": ""
+  },
+  {
+    "index": 730,
+    "PokeNum": 605,
+    "PokeName": "Elgyem",
+    "PokeType1": "PSYCHIC",
+    "PokeType2": ""
+  },
+  {
+    "index": 731,
+    "PokeNum": 606,
+    "PokeName": "Beheeyem",
+    "PokeType1": "PSYCHIC",
+    "PokeType2": ""
+  },
+  {
+    "index": 732,
+    "PokeNum": 607,
+    "PokeName": "Litwick",
+    "PokeType1": "GHOST",
+    "PokeType2": "FIRE"
+  },
+  {
+    "index": 733,
+    "PokeNum": 608,
+    "PokeName": "Lampent",
+    "PokeType1": "GHOST",
+    "PokeType2": "FIRE"
+  },
+  {
+    "index": 734,
+    "PokeNum": 609,
+    "PokeName": "Chandelure",
+    "PokeType1": "GHOST",
+    "PokeType2": "FIRE"
+  },
+  {
+    "index": 735,
+    "PokeNum": 610,
+    "PokeName": "Axew",
+    "PokeType1": "DRAGON",
+    "PokeType2": ""
+  },
+  {
+    "index": 736,
+    "PokeNum": 611,
+    "PokeName": "Fraxure",
+    "PokeType1": "DRAGON",
+    "PokeType2": ""
+  },
+  {
+    "index": 737,
+    "PokeNum": 612,
+    "PokeName": "Haxorus",
+    "PokeType1": "DRAGON",
+    "PokeType2": ""
+  },
+  {
+    "index": 738,
+    "PokeNum": 613,
+    "PokeName": "Cubchoo",
+    "PokeType1": "ICE",
+    "PokeType2": ""
+  },
+  {
+    "index": 739,
+    "PokeNum": 614,
+    "PokeName": "Beartic",
+    "PokeType1": "ICE",
+    "PokeType2": ""
+  },
+  {
+    "index": 740,
+    "PokeNum": 615,
+    "PokeName": "Cryogonal",
+    "PokeType1": "ICE",
+    "PokeType2": ""
+  },
+  {
+    "index": 741,
+    "PokeNum": 616,
+    "PokeName": "Shelmet",
+    "PokeType1": "BUG",
+    "PokeType2": ""
+  },
+  {
+    "index": 742,
+    "PokeNum": 617,
+    "PokeName": "Accelgor",
+    "PokeType1": "BUG",
+    "PokeType2": ""
+  },
+  {
+    "index": 743,
+    "PokeNum": 618,
+    "PokeName": "Stunfisk",
+    "PokeType1": "GROUND",
+    "PokeType2": "ELECTRIC"
+  },
+  {
+    "index": 744,
+    "PokeNum": 618,
+    "PokeName": "Stunfisk\nGalarian Stunfisk",
+    "PokeType1": "GROUND",
+    "PokeType2": "STEEL"
+  },
+  {
+    "index": 745,
+    "PokeNum": 619,
+    "PokeName": "Mienfoo",
+    "PokeType1": "FIGHTING",
+    "PokeType2": ""
+  },
+  {
+    "index": 746,
+    "PokeNum": 620,
+    "PokeName": "Mienshao",
+    "PokeType1": "FIGHTING",
+    "PokeType2": ""
+  },
+  {
+    "index": 747,
+    "PokeNum": 621,
+    "PokeName": "Druddigon",
+    "PokeType1": "DRAGON",
+    "PokeType2": ""
+  },
+  {
+    "index": 748,
+    "PokeNum": 622,
+    "PokeName": "Golett",
+    "PokeType1": "GROUND",
+    "PokeType2": "GHOST"
+  },
+  {
+    "index": 749,
+    "PokeNum": 623,
+    "PokeName": "Golurk",
+    "PokeType1": "GROUND",
+    "PokeType2": "GHOST"
+  },
+  {
+    "index": 750,
+    "PokeNum": 624,
+    "PokeName": "Pawniard",
+    "PokeType1": "DARK",
+    "PokeType2": "STEEL"
+  },
+  {
+    "index": 751,
+    "PokeNum": 625,
+    "PokeName": "Bisharp",
+    "PokeType1": "DARK",
+    "PokeType2": "STEEL"
+  },
+  {
+    "index": 752,
+    "PokeNum": 626,
+    "PokeName": "Bouffalant",
+    "PokeType1": "NORMAL",
+    "PokeType2": ""
+  },
+  {
+    "index": 753,
+    "PokeNum": 627,
+    "PokeName": "Rufflet",
+    "PokeType1": "NORMAL",
+    "PokeType2": "FLYING"
+  },
+  {
+    "index": 754,
+    "PokeNum": 628,
+    "PokeName": "Braviary",
+    "PokeType1": "NORMAL",
+    "PokeType2": "FLYING"
+  },
+  {
+    "index": 755,
+    "PokeNum": 628,
+    "PokeName": "Braviary\nHisuian Braviary",
+    "PokeType1": "PSYCHIC",
+    "PokeType2": "FLYING"
+  },
+  {
+    "index": 756,
+    "PokeNum": 629,
+    "PokeName": "Vullaby",
+    "PokeType1": "DARK",
+    "PokeType2": "FLYING"
+  },
+  {
+    "index": 757,
+    "PokeNum": 630,
+    "PokeName": "Mandibuzz",
+    "PokeType1": "DARK",
+    "PokeType2": "FLYING"
+  },
+  {
+    "index": 758,
+    "PokeNum": 631,
+    "PokeName": "Heatmor",
+    "PokeType1": "FIRE",
+    "PokeType2": ""
+  },
+  {
+    "index": 759,
+    "PokeNum": 632,
+    "PokeName": "Durant",
+    "PokeType1": "BUG",
+    "PokeType2": "STEEL"
+  },
+  {
+    "index": 760,
+    "PokeNum": 633,
+    "PokeName": "Deino",
+    "PokeType1": "DARK",
+    "PokeType2": "DRAGON"
+  },
+  {
+    "index": 761,
+    "PokeNum": 634,
+    "PokeName": "Zweilous",
+    "PokeType1": "DARK",
+    "PokeType2": "DRAGON"
+  },
+  {
+    "index": 762,
+    "PokeNum": 635,
+    "PokeName": "Hydreigon",
+    "PokeType1": "DARK",
+    "PokeType2": "DRAGON"
+  },
+  {
+    "index": 763,
+    "PokeNum": 636,
+    "PokeName": "Larvesta",
+    "PokeType1": "BUG",
+    "PokeType2": "FIRE"
+  },
+  {
+    "index": 764,
+    "PokeNum": 637,
+    "PokeName": "Volcarona",
+    "PokeType1": "BUG",
+    "PokeType2": "FIRE"
+  },
+  {
+    "index": 765,
+    "PokeNum": 638,
+    "PokeName": "Cobalion",
+    "PokeType1": "STEEL",
+    "PokeType2": "FIGHTING"
+  },
+  {
+    "index": 766,
+    "PokeNum": 639,
+    "PokeName": "Terrakion",
+    "PokeType1": "ROCK",
+    "PokeType2": "FIGHTING"
+  },
+  {
+    "index": 767,
+    "PokeNum": 640,
+    "PokeName": "Virizion",
+    "PokeType1": "GRASS",
+    "PokeType2": "FIGHTING"
+  },
+  {
+    "index": 768,
+    "PokeNum": 641,
+    "PokeName": "Tornadus\nIncarnate Forme",
+    "PokeType1": "FLYING",
+    "PokeType2": ""
+  },
+  {
+    "index": 769,
+    "PokeNum": 641,
+    "PokeName": "Tornadus\nTherian Forme",
+    "PokeType1": "FLYING",
+    "PokeType2": ""
+  },
+  {
+    "index": 770,
+    "PokeNum": 642,
+    "PokeName": "Thundurus\nIncarnate Forme",
+    "PokeType1": "ELECTRIC",
+    "PokeType2": "FLYING"
+  },
+  {
+    "index": 771,
+    "PokeNum": 642,
+    "PokeName": "Thundurus\nTherian Forme",
+    "PokeType1": "ELECTRIC",
+    "PokeType2": "FLYING"
+  },
+  {
+    "index": 772,
+    "PokeNum": 643,
+    "PokeName": "Reshiram",
+    "PokeType1": "DRAGON",
+    "PokeType2": "FIRE"
+  },
+  {
+    "index": 773,
+    "PokeNum": 644,
+    "PokeName": "Zekrom",
+    "PokeType1": "DRAGON",
+    "PokeType2": "ELECTRIC"
+  },
+  {
+    "index": 774,
+    "PokeNum": 645,
+    "PokeName": "Landorus\nIncarnate Forme",
+    "PokeType1": "GROUND",
+    "PokeType2": "FLYING"
+  },
+  {
+    "index": 775,
+    "PokeNum": 645,
+    "PokeName": "Landorus\nTherian Forme",
+    "PokeType1": "GROUND",
+    "PokeType2": "FLYING"
+  },
+  {
+    "index": 776,
+    "PokeNum": 646,
+    "PokeName": "Kyurem",
+    "PokeType1": "DRAGON",
+    "PokeType2": "ICE"
+  },
+  {
+    "index": 777,
+    "PokeNum": 646,
+    "PokeName": "Kyurem\nWhite Kyurem",
+    "PokeType1": "DRAGON",
+    "PokeType2": "ICE"
+  },
+  {
+    "index": 778,
+    "PokeNum": 646,
+    "PokeName": "Kyurem\nBlack Kyurem",
+    "PokeType1": "DRAGON",
+    "PokeType2": "ICE"
+  },
+  {
+    "index": 779,
+    "PokeNum": 647,
+    "PokeName": "Keldeo\nOrdinary Form",
+    "PokeType1": "WATER",
+    "PokeType2": "FIGHTING"
+  },
+  {
+    "index": 780,
+    "PokeNum": 647,
+    "PokeName": "Keldeo\nResolute Form",
+    "PokeType1": "WATER",
+    "PokeType2": "FIGHTING"
+  },
+  {
+    "index": 781,
+    "PokeNum": 648,
+    "PokeName": "Meloetta\nAria Forme",
+    "PokeType1": "NORMAL",
+    "PokeType2": "PSYCHIC"
+  },
+  {
+    "index": 782,
+    "PokeNum": 648,
+    "PokeName": "Meloetta\nPirouette Forme",
+    "PokeType1": "NORMAL",
+    "PokeType2": "FIGHTING"
+  },
+  {
+    "index": 783,
+    "PokeNum": 649,
+    "PokeName": "Genesect",
+    "PokeType1": "BUG",
+    "PokeType2": "STEEL"
+  },
+  {
+    "index": 784,
+    "PokeNum": 650,
+    "PokeName": "Chespin",
+    "PokeType1": "GRASS",
+    "PokeType2": ""
+  },
+  {
+    "index": 785,
+    "PokeNum": 651,
+    "PokeName": "Quilladin",
+    "PokeType1": "GRASS",
+    "PokeType2": ""
+  },
+  {
+    "index": 786,
+    "PokeNum": 652,
+    "PokeName": "Chesnaught",
+    "PokeType1": "GRASS",
+    "PokeType2": "FIGHTING"
+  },
+  {
+    "index": 787,
+    "PokeNum": 653,
+    "PokeName": "Fennekin",
+    "PokeType1": "FIRE",
+    "PokeType2": ""
+  },
+  {
+    "index": 788,
+    "PokeNum": 654,
+    "PokeName": "Braixen",
+    "PokeType1": "FIRE",
+    "PokeType2": ""
+  },
+  {
+    "index": 789,
+    "PokeNum": 655,
+    "PokeName": "Delphox",
+    "PokeType1": "FIRE",
+    "PokeType2": "PSYCHIC"
+  },
+  {
+    "index": 790,
+    "PokeNum": 656,
+    "PokeName": "Froakie",
+    "PokeType1": "WATER",
+    "PokeType2": ""
+  },
+  {
+    "index": 791,
+    "PokeNum": 657,
+    "PokeName": "Frogadier",
+    "PokeType1": "WATER",
+    "PokeType2": ""
+  },
+  {
+    "index": 792,
+    "PokeNum": 658,
+    "PokeName": "Greninja",
+    "PokeType1": "WATER",
+    "PokeType2": "DARK"
+  },
+  {
+    "index": 793,
+    "PokeNum": 658,
+    "PokeName": "Greninja\nAsh-Greninja",
+    "PokeType1": "WATER",
+    "PokeType2": "DARK"
+  },
+  {
+    "index": 794,
+    "PokeNum": 659,
+    "PokeName": "Bunnelby",
+    "PokeType1": "NORMAL",
+    "PokeType2": ""
+  },
+  {
+    "index": 795,
+    "PokeNum": 660,
+    "PokeName": "Diggersby",
+    "PokeType1": "NORMAL",
+    "PokeType2": "GROUND"
+  },
+  {
+    "index": 796,
+    "PokeNum": 661,
+    "PokeName": "Fletchling",
+    "PokeType1": "NORMAL",
+    "PokeType2": "FLYING"
+  },
+  {
+    "index": 797,
+    "PokeNum": 662,
+    "PokeName": "Fletchinder",
+    "PokeType1": "FIRE",
+    "PokeType2": "FLYING"
+  },
+  {
+    "index": 798,
+    "PokeNum": 663,
+    "PokeName": "Talonflame",
+    "PokeType1": "FIRE",
+    "PokeType2": "FLYING"
+  },
+  {
+    "index": 799,
+    "PokeNum": 664,
+    "PokeName": "Scatterbug",
+    "PokeType1": "BUG",
+    "PokeType2": ""
+  },
+  {
+    "index": 800,
+    "PokeNum": 665,
+    "PokeName": "Spewpa",
+    "PokeType1": "BUG",
+    "PokeType2": ""
+  },
+  {
+    "index": 801,
+    "PokeNum": 666,
+    "PokeName": "Vivillon",
+    "PokeType1": "BUG",
+    "PokeType2": "FLYING"
+  },
+  {
+    "index": 802,
+    "PokeNum": 667,
+    "PokeName": "Litleo",
+    "PokeType1": "FIRE",
+    "PokeType2": "NORMAL"
+  },
+  {
+    "index": 803,
+    "PokeNum": 668,
+    "PokeName": "Pyroar",
+    "PokeType1": "FIRE",
+    "PokeType2": "NORMAL"
+  },
+  {
+    "index": 804,
+    "PokeNum": 669,
+    "PokeName": "Flabébé",
+    "PokeType1": "FAIRY",
+    "PokeType2": ""
+  },
+  {
+    "index": 805,
+    "PokeNum": 670,
+    "PokeName": "Floette",
+    "PokeType1": "FAIRY",
+    "PokeType2": ""
+  },
+  {
+    "index": 806,
+    "PokeNum": 671,
+    "PokeName": "Florges",
+    "PokeType1": "FAIRY",
+    "PokeType2": ""
+  },
+  {
+    "index": 807,
+    "PokeNum": 672,
+    "PokeName": "Skiddo",
+    "PokeType1": "GRASS",
+    "PokeType2": ""
+  },
+  {
+    "index": 808,
+    "PokeNum": 673,
+    "PokeName": "Gogoat",
+    "PokeType1": "GRASS",
+    "PokeType2": ""
+  },
+  {
+    "index": 809,
+    "PokeNum": 674,
+    "PokeName": "Pancham",
+    "PokeType1": "FIGHTING",
+    "PokeType2": ""
+  },
+  {
+    "index": 810,
+    "PokeNum": 675,
+    "PokeName": "Pangoro",
+    "PokeType1": "FIGHTING",
+    "PokeType2": "DARK"
+  },
+  {
+    "index": 811,
+    "PokeNum": 676,
+    "PokeName": "Furfrou",
+    "PokeType1": "NORMAL",
+    "PokeType2": ""
+  },
+  {
+    "index": 812,
+    "PokeNum": 677,
+    "PokeName": "Espurr",
+    "PokeType1": "PSYCHIC",
+    "PokeType2": ""
+  },
+  {
+    "index": 813,
+    "PokeNum": 678,
+    "PokeName": "Meowstic\nMale",
+    "PokeType1": "PSYCHIC",
+    "PokeType2": ""
+  },
+  {
+    "index": 814,
+    "PokeNum": 678,
+    "PokeName": "Meowstic\nFemale",
+    "PokeType1": "PSYCHIC",
+    "PokeType2": ""
+  },
+  {
+    "index": 815,
+    "PokeNum": 679,
+    "PokeName": "Honedge",
+    "PokeType1": "STEEL",
+    "PokeType2": "GHOST"
+  },
+  {
+    "index": 816,
+    "PokeNum": 680,
+    "PokeName": "Doublade",
+    "PokeType1": "STEEL",
+    "PokeType2": "GHOST"
+  },
+  {
+    "index": 817,
+    "PokeNum": 681,
+    "PokeName": "Aegislash\nShield Forme",
+    "PokeType1": "STEEL",
+    "PokeType2": "GHOST"
+  },
+  {
+    "index": 818,
+    "PokeNum": 681,
+    "PokeName": "Aegislash\nBlade Forme",
+    "PokeType1": "STEEL",
+    "PokeType2": "GHOST"
+  },
+  {
+    "index": 819,
+    "PokeNum": 682,
+    "PokeName": "Spritzee",
+    "PokeType1": "FAIRY",
+    "PokeType2": ""
+  },
+  {
+    "index": 820,
+    "PokeNum": 683,
+    "PokeName": "Aromatisse",
+    "PokeType1": "FAIRY",
+    "PokeType2": ""
+  },
+  {
+    "index": 821,
+    "PokeNum": 684,
+    "PokeName": "Swirlix",
+    "PokeType1": "FAIRY",
+    "PokeType2": ""
+  },
+  {
+    "index": 822,
+    "PokeNum": 685,
+    "PokeName": "Slurpuff",
+    "PokeType1": "FAIRY",
+    "PokeType2": ""
+  },
+  {
+    "index": 823,
+    "PokeNum": 686,
+    "PokeName": "Inkay",
+    "PokeType1": "DARK",
+    "PokeType2": "PSYCHIC"
+  },
+  {
+    "index": 824,
+    "PokeNum": 687,
+    "PokeName": "Malamar",
+    "PokeType1": "DARK",
+    "PokeType2": "PSYCHIC"
+  },
+  {
+    "index": 825,
+    "PokeNum": 688,
+    "PokeName": "Binacle",
+    "PokeType1": "ROCK",
+    "PokeType2": "WATER"
+  },
+  {
+    "index": 826,
+    "PokeNum": 689,
+    "PokeName": "Barbaracle",
+    "PokeType1": "ROCK",
+    "PokeType2": "WATER"
+  },
+  {
+    "index": 827,
+    "PokeNum": 690,
+    "PokeName": "Skrelp",
+    "PokeType1": "POISON",
+    "PokeType2": "WATER"
+  },
+  {
+    "index": 828,
+    "PokeNum": 691,
+    "PokeName": "Dragalge",
+    "PokeType1": "POISON",
+    "PokeType2": "DRAGON"
+  },
+  {
+    "index": 829,
+    "PokeNum": 692,
+    "PokeName": "Clauncher",
+    "PokeType1": "WATER",
+    "PokeType2": ""
+  },
+  {
+    "index": 830,
+    "PokeNum": 693,
+    "PokeName": "Clawitzer",
+    "PokeType1": "WATER",
+    "PokeType2": ""
+  },
+  {
+    "index": 831,
+    "PokeNum": 694,
+    "PokeName": "Helioptile",
+    "PokeType1": "ELECTRIC",
+    "PokeType2": "NORMAL"
+  },
+  {
+    "index": 832,
+    "PokeNum": 695,
+    "PokeName": "Heliolisk",
+    "PokeType1": "ELECTRIC",
+    "PokeType2": "NORMAL"
+  },
+  {
+    "index": 833,
+    "PokeNum": 696,
+    "PokeName": "Tyrunt",
+    "PokeType1": "ROCK",
+    "PokeType2": "DRAGON"
+  },
+  {
+    "index": 834,
+    "PokeNum": 697,
+    "PokeName": "Tyrantrum",
+    "PokeType1": "ROCK",
+    "PokeType2": "DRAGON"
+  },
+  {
+    "index": 835,
+    "PokeNum": 698,
+    "PokeName": "Amaura",
+    "PokeType1": "ROCK",
+    "PokeType2": "ICE"
+  },
+  {
+    "index": 836,
+    "PokeNum": 699,
+    "PokeName": "Aurorus",
+    "PokeType1": "ROCK",
+    "PokeType2": "ICE"
+  },
+  {
+    "index": 837,
+    "PokeNum": 700,
+    "PokeName": "Sylveon",
+    "PokeType1": "FAIRY",
+    "PokeType2": ""
+  },
+  {
+    "index": 838,
+    "PokeNum": 701,
+    "PokeName": "Hawlucha",
+    "PokeType1": "FIGHTING",
+    "PokeType2": "FLYING"
+  },
+  {
+    "index": 839,
+    "PokeNum": 702,
+    "PokeName": "Dedenne",
+    "PokeType1": "ELECTRIC",
+    "PokeType2": "FAIRY"
+  },
+  {
+    "index": 840,
+    "PokeNum": 703,
+    "PokeName": "Carbink",
+    "PokeType1": "ROCK",
+    "PokeType2": "FAIRY"
+  },
+  {
+    "index": 841,
+    "PokeNum": 704,
+    "PokeName": "Goomy",
+    "PokeType1": "DRAGON",
+    "PokeType2": ""
+  },
+  {
+    "index": 842,
+    "PokeNum": 705,
+    "PokeName": "Sliggoo",
+    "PokeType1": "DRAGON",
+    "PokeType2": ""
+  },
+  {
+    "index": 843,
+    "PokeNum": 705,
+    "PokeName": "Sliggoo\nHisuian Sliggoo",
+    "PokeType1": "STEEL",
+    "PokeType2": "DRAGON"
+  },
+  {
+    "index": 844,
+    "PokeNum": 706,
+    "PokeName": "Goodra",
+    "PokeType1": "DRAGON",
+    "PokeType2": ""
+  },
+  {
+    "index": 845,
+    "PokeNum": 706,
+    "PokeName": "Goodra\nHisuian Goodra",
+    "PokeType1": "STEEL",
+    "PokeType2": "DRAGON"
+  },
+  {
+    "index": 846,
+    "PokeNum": 707,
+    "PokeName": "Klefki",
+    "PokeType1": "STEEL",
+    "PokeType2": "FAIRY"
+  },
+  {
+    "index": 847,
+    "PokeNum": 708,
+    "PokeName": "Phantump",
+    "PokeType1": "GHOST",
+    "PokeType2": "GRASS"
+  },
+  {
+    "index": 848,
+    "PokeNum": 709,
+    "PokeName": "Trevenant",
+    "PokeType1": "GHOST",
+    "PokeType2": "GRASS"
+  },
+  {
+    "index": 849,
+    "PokeNum": 710,
+    "PokeName": "Pumpkaboo\nAverage Size",
+    "PokeType1": "GHOST",
+    "PokeType2": "GRASS"
+  },
+  {
+    "index": 850,
+    "PokeNum": 710,
+    "PokeName": "Pumpkaboo\nSmall Size",
+    "PokeType1": "GHOST",
+    "PokeType2": "GRASS"
+  },
+  {
+    "index": 851,
+    "PokeNum": 710,
+    "PokeName": "Pumpkaboo\nLarge Size",
+    "PokeType1": "GHOST",
+    "PokeType2": "GRASS"
+  },
+  {
+    "index": 852,
+    "PokeNum": 710,
+    "PokeName": "Pumpkaboo\nSuper Size",
+    "PokeType1": "GHOST",
+    "PokeType2": "GRASS"
+  },
+  {
+    "index": 853,
+    "PokeNum": 711,
+    "PokeName": "Gourgeist\nAverage Size",
+    "PokeType1": "GHOST",
+    "PokeType2": "GRASS"
+  },
+  {
+    "index": 854,
+    "PokeNum": 711,
+    "PokeName": "Gourgeist\nSmall Size",
+    "PokeType1": "GHOST",
+    "PokeType2": "GRASS"
+  },
+  {
+    "index": 855,
+    "PokeNum": 711,
+    "PokeName": "Gourgeist\nLarge Size",
+    "PokeType1": "GHOST",
+    "PokeType2": "GRASS"
+  },
+  {
+    "index": 856,
+    "PokeNum": 711,
+    "PokeName": "Gourgeist\nSuper Size",
+    "PokeType1": "GHOST",
+    "PokeType2": "GRASS"
+  },
+  {
+    "index": 857,
+    "PokeNum": 712,
+    "PokeName": "Bergmite",
+    "PokeType1": "ICE",
+    "PokeType2": ""
+  },
+  {
+    "index": 858,
+    "PokeNum": 713,
+    "PokeName": "Avalugg",
+    "PokeType1": "ICE",
+    "PokeType2": ""
+  },
+  {
+    "index": 859,
+    "PokeNum": 713,
+    "PokeName": "Avalugg\nHisuian Avalugg",
+    "PokeType1": "ICE",
+    "PokeType2": "ROCK"
+  },
+  {
+    "index": 860,
+    "PokeNum": 714,
+    "PokeName": "Noibat",
+    "PokeType1": "FLYING",
+    "PokeType2": "DRAGON"
+  },
+  {
+    "index": 861,
+    "PokeNum": 715,
+    "PokeName": "Noivern",
+    "PokeType1": "FLYING",
+    "PokeType2": "DRAGON"
+  },
+  {
+    "index": 862,
+    "PokeNum": 716,
+    "PokeName": "Xerneas",
+    "PokeType1": "FAIRY",
+    "PokeType2": ""
+  },
+  {
+    "index": 863,
+    "PokeNum": 717,
+    "PokeName": "Yveltal",
+    "PokeType1": "DARK",
+    "PokeType2": "FLYING"
+  },
+  {
+    "index": 864,
+    "PokeNum": 718,
+    "PokeName": "Zygarde\n50% Forme",
+    "PokeType1": "DRAGON",
+    "PokeType2": "GROUND"
+  },
+  {
+    "index": 865,
+    "PokeNum": 718,
+    "PokeName": "Zygarde\n10% Forme",
+    "PokeType1": "DRAGON",
+    "PokeType2": "GROUND"
+  },
+  {
+    "index": 866,
+    "PokeNum": 718,
+    "PokeName": "Zygarde\nComplete Forme",
+    "PokeType1": "DRAGON",
+    "PokeType2": "GROUND"
+  },
+  {
+    "index": 867,
+    "PokeNum": 719,
+    "PokeName": "Diancie",
+    "PokeType1": "ROCK",
+    "PokeType2": "FAIRY"
+  },
+  {
+    "index": 868,
+    "PokeNum": 719,
+    "PokeName": "Diancie\nMega Diancie",
+    "PokeType1": "ROCK",
+    "PokeType2": "FAIRY"
+  },
+  {
+    "index": 869,
+    "PokeNum": 720,
+    "PokeName": "Hoopa\nHoopa Confined",
+    "PokeType1": "PSYCHIC",
+    "PokeType2": "GHOST"
+  },
+  {
+    "index": 870,
+    "PokeNum": 720,
+    "PokeName": "Hoopa\nHoopa Unbound",
+    "PokeType1": "PSYCHIC",
+    "PokeType2": "DARK"
+  },
+  {
+    "index": 871,
+    "PokeNum": 721,
+    "PokeName": "Volcanion",
+    "PokeType1": "FIRE",
+    "PokeType2": "WATER"
+  },
+  {
+    "index": 872,
+    "PokeNum": 722,
+    "PokeName": "Rowlet",
+    "PokeType1": "GRASS",
+    "PokeType2": "FLYING"
+  },
+  {
+    "index": 873,
+    "PokeNum": 723,
+    "PokeName": "Dartrix",
+    "PokeType1": "GRASS",
+    "PokeType2": "FLYING"
+  },
+  {
+    "index": 874,
+    "PokeNum": 724,
+    "PokeName": "Decidueye",
+    "PokeType1": "GRASS",
+    "PokeType2": "GHOST"
+  },
+  {
+    "index": 875,
+    "PokeNum": 724,
+    "PokeName": "Decidueye\nHisuian Decidueye",
+    "PokeType1": "GRASS",
+    "PokeType2": "FIGHTING"
+  },
+  {
+    "index": 876,
+    "PokeNum": 725,
+    "PokeName": "Litten",
+    "PokeType1": "FIRE",
+    "PokeType2": ""
+  },
+  {
+    "index": 877,
+    "PokeNum": 726,
+    "PokeName": "Torracat",
+    "PokeType1": "FIRE",
+    "PokeType2": ""
+  },
+  {
+    "index": 878,
+    "PokeNum": 727,
+    "PokeName": "Incineroar",
+    "PokeType1": "FIRE",
+    "PokeType2": "DARK"
+  },
+  {
+    "index": 879,
+    "PokeNum": 728,
+    "PokeName": "Popplio",
+    "PokeType1": "WATER",
+    "PokeType2": ""
+  },
+  {
+    "index": 880,
+    "PokeNum": 729,
+    "PokeName": "Brionne",
+    "PokeType1": "WATER",
+    "PokeType2": ""
+  },
+  {
+    "index": 881,
+    "PokeNum": 730,
+    "PokeName": "Primarina",
+    "PokeType1": "WATER",
+    "PokeType2": "FAIRY"
+  },
+  {
+    "index": 882,
+    "PokeNum": 731,
+    "PokeName": "Pikipek",
+    "PokeType1": "NORMAL",
+    "PokeType2": "FLYING"
+  },
+  {
+    "index": 883,
+    "PokeNum": 732,
+    "PokeName": "Trumbeak",
+    "PokeType1": "NORMAL",
+    "PokeType2": "FLYING"
+  },
+  {
+    "index": 884,
+    "PokeNum": 733,
+    "PokeName": "Toucannon",
+    "PokeType1": "NORMAL",
+    "PokeType2": "FLYING"
+  },
+  {
+    "index": 885,
+    "PokeNum": 734,
+    "PokeName": "Yungoos",
+    "PokeType1": "NORMAL",
+    "PokeType2": ""
+  },
+  {
+    "index": 886,
+    "PokeNum": 735,
+    "PokeName": "Gumshoos",
+    "PokeType1": "NORMAL",
+    "PokeType2": ""
+  },
+  {
+    "index": 887,
+    "PokeNum": 736,
+    "PokeName": "Grubbin",
+    "PokeType1": "BUG",
+    "PokeType2": ""
+  },
+  {
+    "index": 888,
+    "PokeNum": 737,
+    "PokeName": "Charjabug",
+    "PokeType1": "BUG",
+    "PokeType2": "ELECTRIC"
+  },
+  {
+    "index": 889,
+    "PokeNum": 738,
+    "PokeName": "Vikavolt",
+    "PokeType1": "BUG",
+    "PokeType2": "ELECTRIC"
+  },
+  {
+    "index": 890,
+    "PokeNum": 739,
+    "PokeName": "Crabrawler",
+    "PokeType1": "FIGHTING",
+    "PokeType2": ""
+  },
+  {
+    "index": 891,
+    "PokeNum": 740,
+    "PokeName": "Crabominable",
+    "PokeType1": "FIGHTING",
+    "PokeType2": "ICE"
+  },
+  {
+    "index": 892,
+    "PokeNum": 741,
+    "PokeName": "Oricorio\nBaile Style",
+    "PokeType1": "FIRE",
+    "PokeType2": "FLYING"
+  },
+  {
+    "index": 893,
+    "PokeNum": 741,
+    "PokeName": "Oricorio\nPom-Pom Style",
+    "PokeType1": "ELECTRIC",
+    "PokeType2": "FLYING"
+  },
+  {
+    "index": 894,
+    "PokeNum": 741,
+    "PokeName": "Oricorio\nPa'u Style",
+    "PokeType1": "PSYCHIC",
+    "PokeType2": "FLYING"
+  },
+  {
+    "index": 895,
+    "PokeNum": 741,
+    "PokeName": "Oricorio\nSensu Style",
+    "PokeType1": "GHOST",
+    "PokeType2": "FLYING"
+  },
+  {
+    "index": 896,
+    "PokeNum": 742,
+    "PokeName": "Cutiefly",
+    "PokeType1": "BUG",
+    "PokeType2": "FAIRY"
+  },
+  {
+    "index": 897,
+    "PokeNum": 743,
+    "PokeName": "Ribombee",
+    "PokeType1": "BUG",
+    "PokeType2": "FAIRY"
+  },
+  {
+    "index": 898,
+    "PokeNum": 744,
+    "PokeName": "Rockruff",
+    "PokeType1": "ROCK",
+    "PokeType2": ""
+  },
+  {
+    "index": 899,
+    "PokeNum": 744,
+    "PokeName": "Rockruff\nOwn Tempo Rockruff",
+    "PokeType1": "ROCK",
+    "PokeType2": ""
+  },
+  {
+    "index": 900,
+    "PokeNum": 745,
+    "PokeName": "Lycanroc\nMidday Form",
+    "PokeType1": "ROCK",
+    "PokeType2": ""
+  },
+  {
+    "index": 901,
+    "PokeNum": 745,
+    "PokeName": "Lycanroc\nMidnight Form",
+    "PokeType1": "ROCK",
+    "PokeType2": ""
+  },
+  {
+    "index": 902,
+    "PokeNum": 745,
+    "PokeName": "Lycanroc\nDusk Form",
+    "PokeType1": "ROCK",
+    "PokeType2": ""
+  },
+  {
+    "index": 903,
+    "PokeNum": 746,
+    "PokeName": "Wishiwashi\nSolo Form",
+    "PokeType1": "WATER",
+    "PokeType2": ""
+  },
+  {
+    "index": 904,
+    "PokeNum": 746,
+    "PokeName": "Wishiwashi\nSchool Form",
+    "PokeType1": "WATER",
+    "PokeType2": ""
+  },
+  {
+    "index": 905,
+    "PokeNum": 747,
+    "PokeName": "Mareanie",
+    "PokeType1": "POISON",
+    "PokeType2": "WATER"
+  },
+  {
+    "index": 906,
+    "PokeNum": 748,
+    "PokeName": "Toxapex",
+    "PokeType1": "POISON",
+    "PokeType2": "WATER"
+  },
+  {
+    "index": 907,
+    "PokeNum": 749,
+    "PokeName": "Mudbray",
+    "PokeType1": "GROUND",
+    "PokeType2": ""
+  },
+  {
+    "index": 908,
+    "PokeNum": 750,
+    "PokeName": "Mudsdale",
+    "PokeType1": "GROUND",
+    "PokeType2": ""
+  },
+  {
+    "index": 909,
+    "PokeNum": 751,
+    "PokeName": "Dewpider",
+    "PokeType1": "WATER",
+    "PokeType2": "BUG"
+  },
+  {
+    "index": 910,
+    "PokeNum": 752,
+    "PokeName": "Araquanid",
+    "PokeType1": "WATER",
+    "PokeType2": "BUG"
+  },
+  {
+    "index": 911,
+    "PokeNum": 753,
+    "PokeName": "Fomantis",
+    "PokeType1": "GRASS",
+    "PokeType2": ""
+  },
+  {
+    "index": 912,
+    "PokeNum": 754,
+    "PokeName": "Lurantis",
+    "PokeType1": "GRASS",
+    "PokeType2": ""
+  },
+  {
+    "index": 913,
+    "PokeNum": 755,
+    "PokeName": "Morelull",
+    "PokeType1": "GRASS",
+    "PokeType2": "FAIRY"
+  },
+  {
+    "index": 914,
+    "PokeNum": 756,
+    "PokeName": "Shiinotic",
+    "PokeType1": "GRASS",
+    "PokeType2": "FAIRY"
+  },
+  {
+    "index": 915,
+    "PokeNum": 757,
+    "PokeName": "Salandit",
+    "PokeType1": "POISON",
+    "PokeType2": "FIRE"
+  },
+  {
+    "index": 916,
+    "PokeNum": 758,
+    "PokeName": "Salazzle",
+    "PokeType1": "POISON",
+    "PokeType2": "FIRE"
+  },
+  {
+    "index": 917,
+    "PokeNum": 759,
+    "PokeName": "Stufful",
+    "PokeType1": "NORMAL",
+    "PokeType2": "FIGHTING"
+  },
+  {
+    "index": 918,
+    "PokeNum": 760,
+    "PokeName": "Bewear",
+    "PokeType1": "NORMAL",
+    "PokeType2": "FIGHTING"
+  },
+  {
+    "index": 919,
+    "PokeNum": 761,
+    "PokeName": "Bounsweet",
+    "PokeType1": "GRASS",
+    "PokeType2": ""
+  },
+  {
+    "index": 920,
+    "PokeNum": 762,
+    "PokeName": "Steenee",
+    "PokeType1": "GRASS",
+    "PokeType2": ""
+  },
+  {
+    "index": 921,
+    "PokeNum": 763,
+    "PokeName": "Tsareena",
+    "PokeType1": "GRASS",
+    "PokeType2": ""
+  },
+  {
+    "index": 922,
+    "PokeNum": 764,
+    "PokeName": "Comfey",
+    "PokeType1": "FAIRY",
+    "PokeType2": ""
+  },
+  {
+    "index": 923,
+    "PokeNum": 765,
+    "PokeName": "Oranguru",
+    "PokeType1": "NORMAL",
+    "PokeType2": "PSYCHIC"
+  },
+  {
+    "index": 924,
+    "PokeNum": 766,
+    "PokeName": "Passimian",
+    "PokeType1": "FIGHTING",
+    "PokeType2": ""
+  },
+  {
+    "index": 925,
+    "PokeNum": 767,
+    "PokeName": "Wimpod",
+    "PokeType1": "BUG",
+    "PokeType2": "WATER"
+  },
+  {
+    "index": 926,
+    "PokeNum": 768,
+    "PokeName": "Golisopod",
+    "PokeType1": "BUG",
+    "PokeType2": "WATER"
+  },
+  {
+    "index": 927,
+    "PokeNum": 769,
+    "PokeName": "Sandygast",
+    "PokeType1": "GHOST",
+    "PokeType2": "GROUND"
+  },
+  {
+    "index": 928,
+    "PokeNum": 770,
+    "PokeName": "Palossand",
+    "PokeType1": "GHOST",
+    "PokeType2": "GROUND"
+  },
+  {
+    "index": 929,
+    "PokeNum": 771,
+    "PokeName": "Pyukumuku",
+    "PokeType1": "WATER",
+    "PokeType2": ""
+  },
+  {
+    "index": 930,
+    "PokeNum": 772,
+    "PokeName": "Type: Null",
+    "PokeType1": "NORMAL",
+    "PokeType2": ""
+  },
+  {
+    "index": 931,
+    "PokeNum": 773,
+    "PokeName": "Silvally",
+    "PokeType1": "NORMAL",
+    "PokeType2": ""
+  },
+  {
+    "index": 932,
+    "PokeNum": 774,
+    "PokeName": "Minior\nMeteor Form",
+    "PokeType1": "ROCK",
+    "PokeType2": "FLYING"
+  },
+  {
+    "index": 933,
+    "PokeNum": 774,
+    "PokeName": "Minior\nCore Form",
+    "PokeType1": "ROCK",
+    "PokeType2": "FLYING"
+  },
+  {
+    "index": 934,
+    "PokeNum": 775,
+    "PokeName": "Komala",
+    "PokeType1": "NORMAL",
+    "PokeType2": ""
+  },
+  {
+    "index": 935,
+    "PokeNum": 776,
+    "PokeName": "Turtonator",
+    "PokeType1": "FIRE",
+    "PokeType2": "DRAGON"
+  },
+  {
+    "index": 936,
+    "PokeNum": 777,
+    "PokeName": "Togedemaru",
+    "PokeType1": "ELECTRIC",
+    "PokeType2": "STEEL"
+  },
+  {
+    "index": 937,
+    "PokeNum": 778,
+    "PokeName": "Mimikyu",
+    "PokeType1": "GHOST",
+    "PokeType2": "FAIRY"
+  },
+  {
+    "index": 938,
+    "PokeNum": 779,
+    "PokeName": "Bruxish",
+    "PokeType1": "WATER",
+    "PokeType2": "PSYCHIC"
+  },
+  {
+    "index": 939,
+    "PokeNum": 780,
+    "PokeName": "Drampa",
+    "PokeType1": "NORMAL",
+    "PokeType2": "DRAGON"
+  },
+  {
+    "index": 940,
+    "PokeNum": 781,
+    "PokeName": "Dhelmise",
+    "PokeType1": "GHOST",
+    "PokeType2": "GRASS"
+  },
+  {
+    "index": 941,
+    "PokeNum": 782,
+    "PokeName": "Jangmo-o",
+    "PokeType1": "DRAGON",
+    "PokeType2": ""
+  },
+  {
+    "index": 942,
+    "PokeNum": 783,
+    "PokeName": "Hakamo-o",
+    "PokeType1": "DRAGON",
+    "PokeType2": "FIGHTING"
+  },
+  {
+    "index": 943,
+    "PokeNum": 784,
+    "PokeName": "Kommo-o",
+    "PokeType1": "DRAGON",
+    "PokeType2": "FIGHTING"
+  },
+  {
+    "index": 944,
+    "PokeNum": 785,
+    "PokeName": "Tapu Koko",
+    "PokeType1": "ELECTRIC",
+    "PokeType2": "FAIRY"
+  },
+  {
+    "index": 945,
+    "PokeNum": 786,
+    "PokeName": "Tapu Lele",
+    "PokeType1": "PSYCHIC",
+    "PokeType2": "FAIRY"
+  },
+  {
+    "index": 946,
+    "PokeNum": 787,
+    "PokeName": "Tapu Bulu",
+    "PokeType1": "GRASS",
+    "PokeType2": "FAIRY"
+  },
+  {
+    "index": 947,
+    "PokeNum": 788,
+    "PokeName": "Tapu Fini",
+    "PokeType1": "WATER",
+    "PokeType2": "FAIRY"
+  },
+  {
+    "index": 948,
+    "PokeNum": 789,
+    "PokeName": "Cosmog",
+    "PokeType1": "PSYCHIC",
+    "PokeType2": ""
+  },
+  {
+    "index": 949,
+    "PokeNum": 790,
+    "PokeName": "Cosmoem",
+    "PokeType1": "PSYCHIC",
+    "PokeType2": ""
+  },
+  {
+    "index": 950,
+    "PokeNum": 791,
+    "PokeName": "Solgaleo",
+    "PokeType1": "PSYCHIC",
+    "PokeType2": "STEEL"
+  },
+  {
+    "index": 951,
+    "PokeNum": 792,
+    "PokeName": "Lunala",
+    "PokeType1": "PSYCHIC",
+    "PokeType2": "GHOST"
+  },
+  {
+    "index": 952,
+    "PokeNum": 793,
+    "PokeName": "Nihilego",
+    "PokeType1": "ROCK",
+    "PokeType2": "POISON"
+  },
+  {
+    "index": 953,
+    "PokeNum": 794,
+    "PokeName": "Buzzwole",
+    "PokeType1": "BUG",
+    "PokeType2": "FIGHTING"
+  },
+  {
+    "index": 954,
+    "PokeNum": 795,
+    "PokeName": "Pheromosa",
+    "PokeType1": "BUG",
+    "PokeType2": "FIGHTING"
+  },
+  {
+    "index": 955,
+    "PokeNum": 796,
+    "PokeName": "Xurkitree",
+    "PokeType1": "ELECTRIC",
+    "PokeType2": ""
+  },
+  {
+    "index": 956,
+    "PokeNum": 797,
+    "PokeName": "Celesteela",
+    "PokeType1": "STEEL",
+    "PokeType2": "FLYING"
+  },
+  {
+    "index": 957,
+    "PokeNum": 798,
+    "PokeName": "Kartana",
+    "PokeType1": "GRASS",
+    "PokeType2": "STEEL"
+  },
+  {
+    "index": 958,
+    "PokeNum": 799,
+    "PokeName": "Guzzlord",
+    "PokeType1": "DARK",
+    "PokeType2": "DRAGON"
+  },
+  {
+    "index": 959,
+    "PokeNum": 800,
+    "PokeName": "Necrozma",
+    "PokeType1": "PSYCHIC",
+    "PokeType2": ""
+  },
+  {
+    "index": 960,
+    "PokeNum": 800,
+    "PokeName": "Necrozma\nDusk Mane Necrozma",
+    "PokeType1": "PSYCHIC",
+    "PokeType2": "STEEL"
+  },
+  {
+    "index": 961,
+    "PokeNum": 800,
+    "PokeName": "Necrozma\nDawn Wings Necrozma",
+    "PokeType1": "PSYCHIC",
+    "PokeType2": "GHOST"
+  },
+  {
+    "index": 962,
+    "PokeNum": 800,
+    "PokeName": "Necrozma\nUltra Necrozma",
+    "PokeType1": "PSYCHIC",
+    "PokeType2": "DRAGON"
+  },
+  {
+    "index": 963,
+    "PokeNum": 801,
+    "PokeName": "Magearna",
+    "PokeType1": "STEEL",
+    "PokeType2": "FAIRY"
+  },
+  {
+    "index": 964,
+    "PokeNum": 802,
+    "PokeName": "Marshadow",
+    "PokeType1": "FIGHTING",
+    "PokeType2": "GHOST"
+  },
+  {
+    "index": 965,
+    "PokeNum": 803,
+    "PokeName": "Poipole",
+    "PokeType1": "POISON",
+    "PokeType2": ""
+  },
+  {
+    "index": 966,
+    "PokeNum": 804,
+    "PokeName": "Naganadel",
+    "PokeType1": "POISON",
+    "PokeType2": "DRAGON"
+  },
+  {
+    "index": 967,
+    "PokeNum": 805,
+    "PokeName": "Stakataka",
+    "PokeType1": "ROCK",
+    "PokeType2": "STEEL"
+  },
+  {
+    "index": 968,
+    "PokeNum": 806,
+    "PokeName": "Blacephalon",
+    "PokeType1": "FIRE",
+    "PokeType2": "GHOST"
+  },
+  {
+    "index": 969,
+    "PokeNum": 807,
+    "PokeName": "Zeraora",
+    "PokeType1": "ELECTRIC",
+    "PokeType2": ""
+  },
+  {
+    "index": 970,
+    "PokeNum": 808,
+    "PokeName": "Meltan",
+    "PokeType1": "STEEL",
+    "PokeType2": ""
+  },
+  {
+    "index": 971,
+    "PokeNum": 809,
+    "PokeName": "Melmetal",
+    "PokeType1": "STEEL",
+    "PokeType2": ""
+  },
+  {
+    "index": 972,
+    "PokeNum": 810,
+    "PokeName": "Grookey",
+    "PokeType1": "GRASS",
+    "PokeType2": ""
+  },
+  {
+    "index": 973,
+    "PokeNum": 811,
+    "PokeName": "Thwackey",
+    "PokeType1": "GRASS",
+    "PokeType2": ""
+  },
+  {
+    "index": 974,
+    "PokeNum": 812,
+    "PokeName": "Rillaboom",
+    "PokeType1": "GRASS",
+    "PokeType2": ""
+  },
+  {
+    "index": 975,
+    "PokeNum": 813,
+    "PokeName": "Scorbunny",
+    "PokeType1": "FIRE",
+    "PokeType2": ""
+  },
+  {
+    "index": 976,
+    "PokeNum": 814,
+    "PokeName": "Raboot",
+    "PokeType1": "FIRE",
+    "PokeType2": ""
+  },
+  {
+    "index": 977,
+    "PokeNum": 815,
+    "PokeName": "Cinderace",
+    "PokeType1": "FIRE",
+    "PokeType2": ""
+  },
+  {
+    "index": 978,
+    "PokeNum": 816,
+    "PokeName": "Sobble",
+    "PokeType1": "WATER",
+    "PokeType2": ""
+  },
+  {
+    "index": 979,
+    "PokeNum": 817,
+    "PokeName": "Drizzile",
+    "PokeType1": "WATER",
+    "PokeType2": ""
+  },
+  {
+    "index": 980,
+    "PokeNum": 818,
+    "PokeName": "Inteleon",
+    "PokeType1": "WATER",
+    "PokeType2": ""
+  },
+  {
+    "index": 981,
+    "PokeNum": 819,
+    "PokeName": "Skwovet",
+    "PokeType1": "NORMAL",
+    "PokeType2": ""
+  },
+  {
+    "index": 982,
+    "PokeNum": 820,
+    "PokeName": "Greedent",
+    "PokeType1": "NORMAL",
+    "PokeType2": ""
+  },
+  {
+    "index": 983,
+    "PokeNum": 821,
+    "PokeName": "Rookidee",
+    "PokeType1": "FLYING",
+    "PokeType2": ""
+  },
+  {
+    "index": 984,
+    "PokeNum": 822,
+    "PokeName": "Corvisquire",
+    "PokeType1": "FLYING",
+    "PokeType2": ""
+  },
+  {
+    "index": 985,
+    "PokeNum": 823,
+    "PokeName": "Corviknight",
+    "PokeType1": "FLYING",
+    "PokeType2": "STEEL"
+  },
+  {
+    "index": 986,
+    "PokeNum": 824,
+    "PokeName": "Blipbug",
+    "PokeType1": "BUG",
+    "PokeType2": ""
+  },
+  {
+    "index": 987,
+    "PokeNum": 825,
+    "PokeName": "Dottler",
+    "PokeType1": "BUG",
+    "PokeType2": "PSYCHIC"
+  },
+  {
+    "index": 988,
+    "PokeNum": 826,
+    "PokeName": "Orbeetle",
+    "PokeType1": "BUG",
+    "PokeType2": "PSYCHIC"
+  },
+  {
+    "index": 989,
+    "PokeNum": 827,
+    "PokeName": "Nickit",
+    "PokeType1": "DARK",
+    "PokeType2": ""
+  },
+  {
+    "index": 990,
+    "PokeNum": 828,
+    "PokeName": "Thievul",
+    "PokeType1": "DARK",
+    "PokeType2": ""
+  },
+  {
+    "index": 991,
+    "PokeNum": 829,
+    "PokeName": "Gossifleur",
+    "PokeType1": "GRASS",
+    "PokeType2": ""
+  },
+  {
+    "index": 992,
+    "PokeNum": 830,
+    "PokeName": "Eldegoss",
+    "PokeType1": "GRASS",
+    "PokeType2": ""
+  },
+  {
+    "index": 993,
+    "PokeNum": 831,
+    "PokeName": "Wooloo",
+    "PokeType1": "NORMAL",
+    "PokeType2": ""
+  },
+  {
+    "index": 994,
+    "PokeNum": 832,
+    "PokeName": "Dubwool",
+    "PokeType1": "NORMAL",
+    "PokeType2": ""
+  },
+  {
+    "index": 995,
+    "PokeNum": 833,
+    "PokeName": "Chewtle",
+    "PokeType1": "WATER",
+    "PokeType2": ""
+  },
+  {
+    "index": 996,
+    "PokeNum": 834,
+    "PokeName": "Drednaw",
+    "PokeType1": "WATER",
+    "PokeType2": "ROCK"
+  },
+  {
+    "index": 997,
+    "PokeNum": 835,
+    "PokeName": "Yamper",
+    "PokeType1": "ELECTRIC",
+    "PokeType2": ""
+  },
+  {
+    "index": 998,
+    "PokeNum": 836,
+    "PokeName": "Boltund",
+    "PokeType1": "ELECTRIC",
+    "PokeType2": ""
+  },
+  {
+    "index": 999,
+    "PokeNum": 837,
+    "PokeName": "Rolycoly",
+    "PokeType1": "ROCK",
+    "PokeType2": ""
+  },
+  {
+    "index": 1000,
+    "PokeNum": 838,
+    "PokeName": "Carkol",
+    "PokeType1": "ROCK",
+    "PokeType2": "FIRE"
+  },
+  {
+    "index": 1001,
+    "PokeNum": 839,
+    "PokeName": "Coalossal",
+    "PokeType1": "ROCK",
+    "PokeType2": "FIRE"
+  },
+  {
+    "index": 1002,
+    "PokeNum": 840,
+    "PokeName": "Applin",
+    "PokeType1": "GRASS",
+    "PokeType2": "DRAGON"
+  },
+  {
+    "index": 1003,
+    "PokeNum": 841,
+    "PokeName": "Flapple",
+    "PokeType1": "GRASS",
+    "PokeType2": "DRAGON"
+  },
+  {
+    "index": 1004,
+    "PokeNum": 842,
+    "PokeName": "Appletun",
+    "PokeType1": "GRASS",
+    "PokeType2": "DRAGON"
+  },
+  {
+    "index": 1005,
+    "PokeNum": 843,
+    "PokeName": "Silicobra",
+    "PokeType1": "GROUND",
+    "PokeType2": ""
+  },
+  {
+    "index": 1006,
+    "PokeNum": 844,
+    "PokeName": "Sandaconda",
+    "PokeType1": "GROUND",
+    "PokeType2": ""
+  },
+  {
+    "index": 1007,
+    "PokeNum": 845,
+    "PokeName": "Cramorant",
+    "PokeType1": "FLYING",
+    "PokeType2": "WATER"
+  },
+  {
+    "index": 1008,
+    "PokeNum": 846,
+    "PokeName": "Arrokuda",
+    "PokeType1": "WATER",
+    "PokeType2": ""
+  },
+  {
+    "index": 1009,
+    "PokeNum": 847,
+    "PokeName": "Barraskewda",
+    "PokeType1": "WATER",
+    "PokeType2": ""
+  },
+  {
+    "index": 1010,
+    "PokeNum": 848,
+    "PokeName": "Toxel",
+    "PokeType1": "ELECTRIC",
+    "PokeType2": "POISON"
+  },
+  {
+    "index": 1011,
+    "PokeNum": 849,
+    "PokeName": "Toxtricity\nAmped Form",
+    "PokeType1": "ELECTRIC",
+    "PokeType2": "POISON"
+  },
+  {
+    "index": 1012,
+    "PokeNum": 849,
+    "PokeName": "Toxtricity\nLow Key Form",
+    "PokeType1": "ELECTRIC",
+    "PokeType2": "POISON"
+  },
+  {
+    "index": 1013,
+    "PokeNum": 850,
+    "PokeName": "Sizzlipede",
+    "PokeType1": "FIRE",
+    "PokeType2": "BUG"
+  },
+  {
+    "index": 1014,
+    "PokeNum": 851,
+    "PokeName": "Centiskorch",
+    "PokeType1": "FIRE",
+    "PokeType2": "BUG"
+  },
+  {
+    "index": 1015,
+    "PokeNum": 852,
+    "PokeName": "Clobbopus",
+    "PokeType1": "FIGHTING",
+    "PokeType2": ""
+  },
+  {
+    "index": 1016,
+    "PokeNum": 853,
+    "PokeName": "Grapploct",
+    "PokeType1": "FIGHTING",
+    "PokeType2": ""
+  },
+  {
+    "index": 1017,
+    "PokeNum": 854,
+    "PokeName": "Sinistea",
+    "PokeType1": "GHOST",
+    "PokeType2": ""
+  },
+  {
+    "index": 1018,
+    "PokeNum": 855,
+    "PokeName": "Polteageist",
+    "PokeType1": "GHOST",
+    "PokeType2": ""
+  },
+  {
+    "index": 1019,
+    "PokeNum": 856,
+    "PokeName": "Hatenna",
+    "PokeType1": "PSYCHIC",
+    "PokeType2": ""
+  },
+  {
+    "index": 1020,
+    "PokeNum": 857,
+    "PokeName": "Hattrem",
+    "PokeType1": "PSYCHIC",
+    "PokeType2": ""
+  },
+  {
+    "index": 1021,
+    "PokeNum": 858,
+    "PokeName": "Hatterene",
+    "PokeType1": "PSYCHIC",
+    "PokeType2": "FAIRY"
+  },
+  {
+    "index": 1022,
+    "PokeNum": 859,
+    "PokeName": "Impidimp",
+    "PokeType1": "DARK",
+    "PokeType2": "FAIRY"
+  },
+  {
+    "index": 1023,
+    "PokeNum": 860,
+    "PokeName": "Morgrem",
+    "PokeType1": "DARK",
+    "PokeType2": "FAIRY"
+  },
+  {
+    "index": 1024,
+    "PokeNum": 861,
+    "PokeName": "Grimmsnarl",
+    "PokeType1": "DARK",
+    "PokeType2": "FAIRY"
+  },
+  {
+    "index": 1025,
+    "PokeNum": 862,
+    "PokeName": "Obstagoon",
+    "PokeType1": "DARK",
+    "PokeType2": "NORMAL"
+  },
+  {
+    "index": 1026,
+    "PokeNum": 863,
+    "PokeName": "Perrserker",
+    "PokeType1": "STEEL",
+    "PokeType2": ""
+  },
+  {
+    "index": 1027,
+    "PokeNum": 864,
+    "PokeName": "Cursola",
+    "PokeType1": "GHOST",
+    "PokeType2": ""
+  },
+  {
+    "index": 1028,
+    "PokeNum": 865,
+    "PokeName": "Sirfetch'd",
+    "PokeType1": "FIGHTING",
+    "PokeType2": ""
+  },
+  {
+    "index": 1029,
+    "PokeNum": 866,
+    "PokeName": "Mr. Rime",
+    "PokeType1": "ICE",
+    "PokeType2": "PSYCHIC"
+  },
+  {
+    "index": 1030,
+    "PokeNum": 867,
+    "PokeName": "Runerigus",
+    "PokeType1": "GROUND",
+    "PokeType2": "GHOST"
+  },
+  {
+    "index": 1031,
+    "PokeNum": 868,
+    "PokeName": "Milcery",
+    "PokeType1": "FAIRY",
+    "PokeType2": ""
+  },
+  {
+    "index": 1032,
+    "PokeNum": 869,
+    "PokeName": "Alcremie",
+    "PokeType1": "FAIRY",
+    "PokeType2": ""
+  },
+  {
+    "index": 1033,
+    "PokeNum": 870,
+    "PokeName": "Falinks",
+    "PokeType1": "FIGHTING",
+    "PokeType2": ""
+  },
+  {
+    "index": 1034,
+    "PokeNum": 871,
+    "PokeName": "Pincurchin",
+    "PokeType1": "ELECTRIC",
+    "PokeType2": ""
+  },
+  {
+    "index": 1035,
+    "PokeNum": 872,
+    "PokeName": "Snom",
+    "PokeType1": "ICE",
+    "PokeType2": "BUG"
+  },
+  {
+    "index": 1036,
+    "PokeNum": 873,
+    "PokeName": "Frosmoth",
+    "PokeType1": "ICE",
+    "PokeType2": "BUG"
+  },
+  {
+    "index": 1037,
+    "PokeNum": 874,
+    "PokeName": "Stonjourner",
+    "PokeType1": "ROCK",
+    "PokeType2": ""
+  },
+  {
+    "index": 1038,
+    "PokeNum": 875,
+    "PokeName": "Eiscue\nIce Face",
+    "PokeType1": "ICE",
+    "PokeType2": ""
+  },
+  {
+    "index": 1039,
+    "PokeNum": 875,
+    "PokeName": "Eiscue\nNoice Face",
+    "PokeType1": "ICE",
+    "PokeType2": ""
+  },
+  {
+    "index": 1040,
+    "PokeNum": 876,
+    "PokeName": "Indeedee\nMale",
+    "PokeType1": "PSYCHIC",
+    "PokeType2": "NORMAL"
+  },
+  {
+    "index": 1041,
+    "PokeNum": 876,
+    "PokeName": "Indeedee\nFemale",
+    "PokeType1": "PSYCHIC",
+    "PokeType2": "NORMAL"
+  },
+  {
+    "index": 1042,
+    "PokeNum": 877,
+    "PokeName": "Morpeko\nFull Belly Mode",
+    "PokeType1": "ELECTRIC",
+    "PokeType2": "DARK"
+  },
+  {
+    "index": 1043,
+    "PokeNum": 877,
+    "PokeName": "Morpeko\nHangry Mode",
+    "PokeType1": "ELECTRIC",
+    "PokeType2": "DARK"
+  },
+  {
+    "index": 1044,
+    "PokeNum": 878,
+    "PokeName": "Cufant",
+    "PokeType1": "STEEL",
+    "PokeType2": ""
+  },
+  {
+    "index": 1045,
+    "PokeNum": 879,
+    "PokeName": "Copperajah",
+    "PokeType1": "STEEL",
+    "PokeType2": ""
+  },
+  {
+    "index": 1046,
+    "PokeNum": 880,
+    "PokeName": "Dracozolt",
+    "PokeType1": "ELECTRIC",
+    "PokeType2": "DRAGON"
+  },
+  {
+    "index": 1047,
+    "PokeNum": 881,
+    "PokeName": "Arctozolt",
+    "PokeType1": "ELECTRIC",
+    "PokeType2": "ICE"
+  },
+  {
+    "index": 1048,
+    "PokeNum": 882,
+    "PokeName": "Dracovish",
+    "PokeType1": "WATER",
+    "PokeType2": "DRAGON"
+  },
+  {
+    "index": 1049,
+    "PokeNum": 883,
+    "PokeName": "Arctovish",
+    "PokeType1": "WATER",
+    "PokeType2": "ICE"
+  },
+  {
+    "index": 1050,
+    "PokeNum": 884,
+    "PokeName": "Duraludon",
+    "PokeType1": "STEEL",
+    "PokeType2": "DRAGON"
+  },
+  {
+    "index": 1051,
+    "PokeNum": 885,
+    "PokeName": "Dreepy",
+    "PokeType1": "DRAGON",
+    "PokeType2": "GHOST"
+  },
+  {
+    "index": 1052,
+    "PokeNum": 886,
+    "PokeName": "Drakloak",
+    "PokeType1": "DRAGON",
+    "PokeType2": "GHOST"
+  },
+  {
+    "index": 1053,
+    "PokeNum": 887,
+    "PokeName": "Dragapult",
+    "PokeType1": "DRAGON",
+    "PokeType2": "GHOST"
+  },
+  {
+    "index": 1054,
+    "PokeNum": 888,
+    "PokeName": "Zacian\nHero of Many Battles",
+    "PokeType1": "FAIRY",
+    "PokeType2": ""
+  },
+  {
+    "index": 1055,
+    "PokeNum": 888,
+    "PokeName": "Zacian\nCrowned Sword",
+    "PokeType1": "FAIRY",
+    "PokeType2": "STEEL"
+  },
+  {
+    "index": 1056,
+    "PokeNum": 889,
+    "PokeName": "Zamazenta\nHero of Many Battles",
+    "PokeType1": "FIGHTING",
+    "PokeType2": ""
+  },
+  {
+    "index": 1057,
+    "PokeNum": 889,
+    "PokeName": "Zamazenta\nCrowned Shield",
+    "PokeType1": "FIGHTING",
+    "PokeType2": "STEEL"
+  },
+  {
+    "index": 1058,
+    "PokeNum": 890,
+    "PokeName": "Eternatus",
+    "PokeType1": "POISON",
+    "PokeType2": "DRAGON"
+  },
+  {
+    "index": 1059,
+    "PokeNum": 890,
+    "PokeName": "Eternatus\nEternamax",
+    "PokeType1": "POISON",
+    "PokeType2": "DRAGON"
+  },
+  {
+    "index": 1060,
+    "PokeNum": 891,
+    "PokeName": "Kubfu",
+    "PokeType1": "FIGHTING",
+    "PokeType2": ""
+  },
+  {
+    "index": 1061,
+    "PokeNum": 892,
+    "PokeName": "Urshifu\nSingle Strike Style",
+    "PokeType1": "FIGHTING",
+    "PokeType2": "DARK"
+  },
+  {
+    "index": 1062,
+    "PokeNum": 892,
+    "PokeName": "Urshifu\nRapid Strike Style",
+    "PokeType1": "FIGHTING",
+    "PokeType2": "WATER"
+  },
+  {
+    "index": 1063,
+    "PokeNum": 893,
+    "PokeName": "Zarude",
+    "PokeType1": "DARK",
+    "PokeType2": "GRASS"
+  },
+  {
+    "index": 1064,
+    "PokeNum": 894,
+    "PokeName": "Regieleki",
+    "PokeType1": "ELECTRIC",
+    "PokeType2": ""
+  },
+  {
+    "index": 1065,
+    "PokeNum": 895,
+    "PokeName": "Regidrago",
+    "PokeType1": "DRAGON",
+    "PokeType2": ""
+  },
+  {
+    "index": 1066,
+    "PokeNum": 896,
+    "PokeName": "Glastrier",
+    "PokeType1": "ICE",
+    "PokeType2": ""
+  },
+  {
+    "index": 1067,
+    "PokeNum": 897,
+    "PokeName": "Spectrier",
+    "PokeType1": "GHOST",
+    "PokeType2": ""
+  },
+  {
+    "index": 1068,
+    "PokeNum": 898,
+    "PokeName": "Calyrex",
+    "PokeType1": "PSYCHIC",
+    "PokeType2": "GRASS"
+  },
+  {
+    "index": 1069,
+    "PokeNum": 898,
+    "PokeName": "Calyrex\nIce Rider",
+    "PokeType1": "PSYCHIC",
+    "PokeType2": "ICE"
+  },
+  {
+    "index": 1070,
+    "PokeNum": 898,
+    "PokeName": "Calyrex\nShadow Rider",
+    "PokeType1": "PSYCHIC",
+    "PokeType2": "GHOST"
+  },
+  {
+    "index": 1071,
+    "PokeNum": 899,
+    "PokeName": "Wyrdeer",
+    "PokeType1": "NORMAL",
+    "PokeType2": "PSYCHIC"
+  },
+  {
+    "index": 1072,
+    "PokeNum": 900,
+    "PokeName": "Kleavor",
+    "PokeType1": "BUG",
+    "PokeType2": "ROCK"
+  },
+  {
+    "index": 1073,
+    "PokeNum": 901,
+    "PokeName": "Ursaluna",
+    "PokeType1": "GROUND",
+    "PokeType2": "NORMAL"
+  },
+  {
+    "index": 1074,
+    "PokeNum": 902,
+    "PokeName": "Basculegion\nMale",
+    "PokeType1": "WATER",
+    "PokeType2": "GHOST"
+  },
+  {
+    "index": 1075,
+    "PokeNum": 902,
+    "PokeName": "Basculegion\nFemale",
+    "PokeType1": "WATER",
+    "PokeType2": "GHOST"
+  },
+  {
+    "index": 1076,
+    "PokeNum": 903,
+    "PokeName": "Sneasler",
+    "PokeType1": "POISON",
+    "PokeType2": "FIGHTING"
+  },
+  {
+    "index": 1077,
+    "PokeNum": 904,
+    "PokeName": "Overqwil",
+    "PokeType1": "DARK",
+    "PokeType2": "POISON"
+  },
+  {
+    "index": 1078,
+    "PokeNum": 905,
+    "PokeName": "Enamorus\nIncarnate Forme",
+    "PokeType1": "FAIRY",
+    "PokeType2": "FLYING"
+  },
+  {
+    "index": 1079,
+    "PokeNum": 905,
+    "PokeName": "Enamorus\nTherian Forme",
+    "PokeType1": "FAIRY",
+    "PokeType2": "FLYING"
+  },
+  {
+    "index": 1080,
+    "PokeNum": 906,
+    "PokeName": "Sprigatito",
+    "PokeType1": "GRASS",
+    "PokeType2": ""
+  },
+  {
+    "index": 1081,
+    "PokeNum": 907,
+    "PokeName": "Floragato",
+    "PokeType1": "GRASS",
+    "PokeType2": ""
+  },
+  {
+    "index": 1082,
+    "PokeNum": 908,
+    "PokeName": "Meowscarada",
+    "PokeType1": "GRASS",
+    "PokeType2": "DARK"
+  },
+  {
+    "index": 1083,
+    "PokeNum": 909,
+    "PokeName": "Fuecoco",
+    "PokeType1": "FIRE",
+    "PokeType2": ""
+  },
+  {
+    "index": 1084,
+    "PokeNum": 910,
+    "PokeName": "Crocalor",
+    "PokeType1": "FIRE",
+    "PokeType2": ""
+  },
+  {
+    "index": 1085,
+    "PokeNum": 911,
+    "PokeName": "Skeledirge",
+    "PokeType1": "FIRE",
+    "PokeType2": "GHOST"
+  },
+  {
+    "index": 1086,
+    "PokeNum": 912,
+    "PokeName": "Quaxly",
+    "PokeType1": "WATER",
+    "PokeType2": ""
+  },
+  {
+    "index": 1087,
+    "PokeNum": 913,
+    "PokeName": "Quaxwell",
+    "PokeType1": "WATER",
+    "PokeType2": ""
+  },
+  {
+    "index": 1088,
+    "PokeNum": 914,
+    "PokeName": "Quaquaval",
+    "PokeType1": "WATER",
+    "PokeType2": "FIGHTING"
+  },
+  {
+    "index": 1089,
+    "PokeNum": 915,
+    "PokeName": "Lechonk",
+    "PokeType1": "NORMAL",
+    "PokeType2": ""
+  },
+  {
+    "index": 1090,
+    "PokeNum": 916,
+    "PokeName": "Oinkologne\nMale",
+    "PokeType1": "NORMAL",
+    "PokeType2": ""
+  },
+  {
+    "index": 1091,
+    "PokeNum": 916,
+    "PokeName": "Oinkologne\nFemale",
+    "PokeType1": "NORMAL",
+    "PokeType2": ""
+  },
+  {
+    "index": 1092,
+    "PokeNum": 917,
+    "PokeName": "Tarountula",
+    "PokeType1": "BUG",
+    "PokeType2": ""
+  },
+  {
+    "index": 1093,
+    "PokeNum": 918,
+    "PokeName": "Spidops",
+    "PokeType1": "BUG",
+    "PokeType2": ""
+  },
+  {
+    "index": 1094,
+    "PokeNum": 919,
+    "PokeName": "Nymble",
+    "PokeType1": "BUG",
+    "PokeType2": ""
+  },
+  {
+    "index": 1095,
+    "PokeNum": 920,
+    "PokeName": "Lokix",
+    "PokeType1": "BUG",
+    "PokeType2": "DARK"
+  },
+  {
+    "index": 1096,
+    "PokeNum": 921,
+    "PokeName": "Pawmi",
+    "PokeType1": "ELECTRIC",
+    "PokeType2": ""
+  },
+  {
+    "index": 1097,
+    "PokeNum": 922,
+    "PokeName": "Pawmo",
+    "PokeType1": "ELECTRIC",
+    "PokeType2": "FIGHTING"
+  },
+  {
+    "index": 1098,
+    "PokeNum": 923,
+    "PokeName": "Pawmot",
+    "PokeType1": "ELECTRIC",
+    "PokeType2": "FIGHTING"
+  },
+  {
+    "index": 1099,
+    "PokeNum": 924,
+    "PokeName": "Tandemaus",
+    "PokeType1": "NORMAL",
+    "PokeType2": ""
+  },
+  {
+    "index": 1100,
+    "PokeNum": 925,
+    "PokeName": "Maushold\nFamily of Three",
+    "PokeType1": "NORMAL",
+    "PokeType2": ""
+  },
+  {
+    "index": 1101,
+    "PokeNum": 925,
+    "PokeName": "Maushold\nFamily of Four",
+    "PokeType1": "NORMAL",
+    "PokeType2": ""
+  },
+  {
+    "index": 1102,
+    "PokeNum": 926,
+    "PokeName": "Fidough",
+    "PokeType1": "FAIRY",
+    "PokeType2": ""
+  },
+  {
+    "index": 1103,
+    "PokeNum": 927,
+    "PokeName": "Dachsbun",
+    "PokeType1": "FAIRY",
+    "PokeType2": ""
+  },
+  {
+    "index": 1104,
+    "PokeNum": 928,
+    "PokeName": "Smoliv",
+    "PokeType1": "GRASS",
+    "PokeType2": "NORMAL"
+  },
+  {
+    "index": 1105,
+    "PokeNum": 929,
+    "PokeName": "Dolliv",
+    "PokeType1": "GRASS",
+    "PokeType2": "NORMAL"
+  },
+  {
+    "index": 1106,
+    "PokeNum": 930,
+    "PokeName": "Arboliva",
+    "PokeType1": "GRASS",
+    "PokeType2": "NORMAL"
+  },
+  {
+    "index": 1107,
+    "PokeNum": 931,
+    "PokeName": "Squawkabilly\nGreen Plumage",
+    "PokeType1": "NORMAL",
+    "PokeType2": "FLYING"
+  },
+  {
+    "index": 1108,
+    "PokeNum": 931,
+    "PokeName": "Squawkabilly\nBlue Plumage",
+    "PokeType1": "NORMAL",
+    "PokeType2": "FLYING"
+  },
+  {
+    "index": 1109,
+    "PokeNum": 931,
+    "PokeName": "Squawkabilly\nYellow Plumage",
+    "PokeType1": "NORMAL",
+    "PokeType2": "FLYING"
+  },
+  {
+    "index": 1110,
+    "PokeNum": 931,
+    "PokeName": "Squawkabilly\nWhite Plumage",
+    "PokeType1": "NORMAL",
+    "PokeType2": "FLYING"
+  },
+  {
+    "index": 1111,
+    "PokeNum": 932,
+    "PokeName": "Nacli",
+    "PokeType1": "ROCK",
+    "PokeType2": ""
+  },
+  {
+    "index": 1112,
+    "PokeNum": 933,
+    "PokeName": "Naclstack",
+    "PokeType1": "ROCK",
+    "PokeType2": ""
+  },
+  {
+    "index": 1113,
+    "PokeNum": 934,
+    "PokeName": "Garganacl",
+    "PokeType1": "ROCK",
+    "PokeType2": ""
+  },
+  {
+    "index": 1114,
+    "PokeNum": 935,
+    "PokeName": "Charcadet",
+    "PokeType1": "FIRE",
+    "PokeType2": ""
+  },
+  {
+    "index": 1115,
+    "PokeNum": 936,
+    "PokeName": "Armarouge",
+    "PokeType1": "FIRE",
+    "PokeType2": "PSYCHIC"
+  },
+  {
+    "index": 1116,
+    "PokeNum": 937,
+    "PokeName": "Ceruledge",
+    "PokeType1": "FIRE",
+    "PokeType2": "GHOST"
+  },
+  {
+    "index": 1117,
+    "PokeNum": 938,
+    "PokeName": "Tadbulb",
+    "PokeType1": "ELECTRIC",
+    "PokeType2": ""
+  },
+  {
+    "index": 1118,
+    "PokeNum": 939,
+    "PokeName": "Bellibolt",
+    "PokeType1": "ELECTRIC",
+    "PokeType2": ""
+  },
+  {
+    "index": 1119,
+    "PokeNum": 940,
+    "PokeName": "Wattrel",
+    "PokeType1": "ELECTRIC",
+    "PokeType2": "FLYING"
+  },
+  {
+    "index": 1120,
+    "PokeNum": 941,
+    "PokeName": "Kilowattrel",
+    "PokeType1": "ELECTRIC",
+    "PokeType2": "FLYING"
+  },
+  {
+    "index": 1121,
+    "PokeNum": 942,
+    "PokeName": "Maschiff",
+    "PokeType1": "DARK",
+    "PokeType2": ""
+  },
+  {
+    "index": 1122,
+    "PokeNum": 943,
+    "PokeName": "Mabosstiff",
+    "PokeType1": "DARK",
+    "PokeType2": ""
+  },
+  {
+    "index": 1123,
+    "PokeNum": 944,
+    "PokeName": "Shroodle",
+    "PokeType1": "POISON",
+    "PokeType2": "NORMAL"
+  },
+  {
+    "index": 1124,
+    "PokeNum": 945,
+    "PokeName": "Grafaiai",
+    "PokeType1": "POISON",
+    "PokeType2": "NORMAL"
+  },
+  {
+    "index": 1125,
+    "PokeNum": 946,
+    "PokeName": "Bramblin",
+    "PokeType1": "GRASS",
+    "PokeType2": "GHOST"
+  },
+  {
+    "index": 1126,
+    "PokeNum": 947,
+    "PokeName": "Brambleghast",
+    "PokeType1": "GRASS",
+    "PokeType2": "GHOST"
+  },
+  {
+    "index": 1127,
+    "PokeNum": 948,
+    "PokeName": "Toedscool",
+    "PokeType1": "GROUND",
+    "PokeType2": "GRASS"
+  },
+  {
+    "index": 1128,
+    "PokeNum": 949,
+    "PokeName": "Toedscruel",
+    "PokeType1": "GROUND",
+    "PokeType2": "GRASS"
+  },
+  {
+    "index": 1129,
+    "PokeNum": 950,
+    "PokeName": "Klawf",
+    "PokeType1": "ROCK",
+    "PokeType2": ""
+  },
+  {
+    "index": 1130,
+    "PokeNum": 951,
+    "PokeName": "Capsakid",
+    "PokeType1": "GRASS",
+    "PokeType2": ""
+  },
+  {
+    "index": 1131,
+    "PokeNum": 952,
+    "PokeName": "Scovillain",
+    "PokeType1": "GRASS",
+    "PokeType2": "FIRE"
+  },
+  {
+    "index": 1132,
+    "PokeNum": 953,
+    "PokeName": "Rellor",
+    "PokeType1": "BUG",
+    "PokeType2": ""
+  },
+  {
+    "index": 1133,
+    "PokeNum": 954,
+    "PokeName": "Rabsca",
+    "PokeType1": "BUG",
+    "PokeType2": "PSYCHIC"
+  },
+  {
+    "index": 1134,
+    "PokeNum": 955,
+    "PokeName": "Flittle",
+    "PokeType1": "PSYCHIC",
+    "PokeType2": ""
+  },
+  {
+    "index": 1135,
+    "PokeNum": 956,
+    "PokeName": "Espathra",
+    "PokeType1": "PSYCHIC",
+    "PokeType2": ""
+  },
+  {
+    "index": 1136,
+    "PokeNum": 957,
+    "PokeName": "Tinkatink",
+    "PokeType1": "FAIRY",
+    "PokeType2": "STEEL"
+  },
+  {
+    "index": 1137,
+    "PokeNum": 958,
+    "PokeName": "Tinkatuff",
+    "PokeType1": "FAIRY",
+    "PokeType2": "STEEL"
+  },
+  {
+    "index": 1138,
+    "PokeNum": 959,
+    "PokeName": "Tinkaton",
+    "PokeType1": "FAIRY",
+    "PokeType2": "STEEL"
+  },
+  {
+    "index": 1139,
+    "PokeNum": 960,
+    "PokeName": "Wiglett",
+    "PokeType1": "WATER",
+    "PokeType2": ""
+  },
+  {
+    "index": 1140,
+    "PokeNum": 961,
+    "PokeName": "Wugtrio",
+    "PokeType1": "WATER",
+    "PokeType2": ""
+  },
+  {
+    "index": 1141,
+    "PokeNum": 962,
+    "PokeName": "Bombirdier",
+    "PokeType1": "FLYING",
+    "PokeType2": "DARK"
+  },
+  {
+    "index": 1142,
+    "PokeNum": 963,
+    "PokeName": "Finizen",
+    "PokeType1": "WATER",
+    "PokeType2": ""
+  },
+  {
+    "index": 1143,
+    "PokeNum": 964,
+    "PokeName": "Palafin\nZero Form",
+    "PokeType1": "WATER",
+    "PokeType2": ""
+  },
+  {
+    "index": 1144,
+    "PokeNum": 964,
+    "PokeName": "Palafin\nHero Form",
+    "PokeType1": "WATER",
+    "PokeType2": ""
+  },
+  {
+    "index": 1145,
+    "PokeNum": 965,
+    "PokeName": "Varoom",
+    "PokeType1": "STEEL",
+    "PokeType2": "POISON"
+  },
+  {
+    "index": 1146,
+    "PokeNum": 966,
+    "PokeName": "Revavroom",
+    "PokeType1": "STEEL",
+    "PokeType2": "POISON"
+  },
+  {
+    "index": 1147,
+    "PokeNum": 967,
+    "PokeName": "Cyclizar",
+    "PokeType1": "DRAGON",
+    "PokeType2": "NORMAL"
+  },
+  {
+    "index": 1148,
+    "PokeNum": 968,
+    "PokeName": "Orthworm",
+    "PokeType1": "STEEL",
+    "PokeType2": ""
+  },
+  {
+    "index": 1149,
+    "PokeNum": 969,
+    "PokeName": "Glimmet",
+    "PokeType1": "ROCK",
+    "PokeType2": "POISON"
+  },
+  {
+    "index": 1150,
+    "PokeNum": 970,
+    "PokeName": "Glimmora",
+    "PokeType1": "ROCK",
+    "PokeType2": "POISON"
+  },
+  {
+    "index": 1151,
+    "PokeNum": 971,
+    "PokeName": "Greavard",
+    "PokeType1": "GHOST",
+    "PokeType2": ""
+  },
+  {
+    "index": 1152,
+    "PokeNum": 972,
+    "PokeName": "Houndstone",
+    "PokeType1": "GHOST",
+    "PokeType2": ""
+  },
+  {
+    "index": 1153,
+    "PokeNum": 973,
+    "PokeName": "Flamigo",
+    "PokeType1": "FLYING",
+    "PokeType2": "FIGHTING"
+  },
+  {
+    "index": 1154,
+    "PokeNum": 974,
+    "PokeName": "Cetoddle",
+    "PokeType1": "ICE",
+    "PokeType2": ""
+  },
+  {
+    "index": 1155,
+    "PokeNum": 975,
+    "PokeName": "Cetitan",
+    "PokeType1": "ICE",
+    "PokeType2": ""
+  },
+  {
+    "index": 1156,
+    "PokeNum": 976,
+    "PokeName": "Veluza",
+    "PokeType1": "WATER",
+    "PokeType2": "PSYCHIC"
+  },
+  {
+    "index": 1157,
+    "PokeNum": 977,
+    "PokeName": "Dondozo",
+    "PokeType1": "WATER",
+    "PokeType2": ""
+  },
+  {
+    "index": 1158,
+    "PokeNum": 978,
+    "PokeName": "Tatsugiri",
+    "PokeType1": "DRAGON",
+    "PokeType2": "WATER"
+  },
+  {
+    "index": 1159,
+    "PokeNum": 979,
+    "PokeName": "Annihilape",
+    "PokeType1": "FIGHTING",
+    "PokeType2": "GHOST"
+  },
+  {
+    "index": 1160,
+    "PokeNum": 980,
+    "PokeName": "Clodsire",
+    "PokeType1": "POISON",
+    "PokeType2": "GROUND"
+  },
+  {
+    "index": 1161,
+    "PokeNum": 981,
+    "PokeName": "Farigiraf",
+    "PokeType1": "NORMAL",
+    "PokeType2": "PSYCHIC"
+  },
+  {
+    "index": 1162,
+    "PokeNum": 982,
+    "PokeName": "Dudunsparce\nTwo-Segment Form",
+    "PokeType1": "NORMAL",
+    "PokeType2": ""
+  },
+  {
+    "index": 1163,
+    "PokeNum": 982,
+    "PokeName": "Dudunsparce\nThree-Segment Form",
+    "PokeType1": "NORMAL",
+    "PokeType2": ""
+  },
+  {
+    "index": 1164,
+    "PokeNum": 983,
+    "PokeName": "Kingambit",
+    "PokeType1": "DARK",
+    "PokeType2": "STEEL"
+  },
+  {
+    "index": 1165,
+    "PokeNum": 984,
+    "PokeName": "Great Tusk",
+    "PokeType1": "GROUND",
+    "PokeType2": "FIGHTING"
+  },
+  {
+    "index": 1166,
+    "PokeNum": 985,
+    "PokeName": "Scream Tail",
+    "PokeType1": "FAIRY",
+    "PokeType2": "PSYCHIC"
+  },
+  {
+    "index": 1167,
+    "PokeNum": 986,
+    "PokeName": "Brute Bonnet",
+    "PokeType1": "GRASS",
+    "PokeType2": "DARK"
+  },
+  {
+    "index": 1168,
+    "PokeNum": 987,
+    "PokeName": "Flutter Mane",
+    "PokeType1": "GHOST",
+    "PokeType2": "FAIRY"
+  },
+  {
+    "index": 1169,
+    "PokeNum": 988,
+    "PokeName": "Slither Wing",
+    "PokeType1": "BUG",
+    "PokeType2": "FIGHTING"
+  },
+  {
+    "index": 1170,
+    "PokeNum": 989,
+    "PokeName": "Sandy Shocks",
+    "PokeType1": "ELECTRIC",
+    "PokeType2": "GROUND"
+  },
+  {
+    "index": 1171,
+    "PokeNum": 990,
+    "PokeName": "Iron Treads",
+    "PokeType1": "GROUND",
+    "PokeType2": "STEEL"
+  },
+  {
+    "index": 1172,
+    "PokeNum": 991,
+    "PokeName": "Iron Bundle",
+    "PokeType1": "ICE",
+    "PokeType2": "WATER"
+  },
+  {
+    "index": 1173,
+    "PokeNum": 992,
+    "PokeName": "Iron Hands",
+    "PokeType1": "FIGHTING",
+    "PokeType2": "ELECTRIC"
+  },
+  {
+    "index": 1174,
+    "PokeNum": 993,
+    "PokeName": "Iron Jugulis",
+    "PokeType1": "DARK",
+    "PokeType2": "FLYING"
+  },
+  {
+    "index": 1175,
+    "PokeNum": 994,
+    "PokeName": "Iron Moth",
+    "PokeType1": "FIRE",
+    "PokeType2": "POISON"
+  },
+  {
+    "index": 1176,
+    "PokeNum": 995,
+    "PokeName": "Iron Thorns",
+    "PokeType1": "ROCK",
+    "PokeType2": "ELECTRIC"
+  },
+  {
+    "index": 1177,
+    "PokeNum": 996,
+    "PokeName": "Frigibax",
+    "PokeType1": "DRAGON",
+    "PokeType2": "ICE"
+  },
+  {
+    "index": 1178,
+    "PokeNum": 997,
+    "PokeName": "Arctibax",
+    "PokeType1": "DRAGON",
+    "PokeType2": "ICE"
+  },
+  {
+    "index": 1179,
+    "PokeNum": 998,
+    "PokeName": "Baxcalibur",
+    "PokeType1": "DRAGON",
+    "PokeType2": "ICE"
+  },
+  {
+    "index": 1180,
+    "PokeNum": 999,
+    "PokeName": "Gimmighoul\nChest Form",
+    "PokeType1": "GHOST",
+    "PokeType2": ""
+  },
+  {
+    "index": 1181,
+    "PokeNum": 999,
+    "PokeName": "Gimmighoul\nRoaming Form",
+    "PokeType1": "GHOST",
+    "PokeType2": ""
+  },
+  {
+    "index": 1182,
+    "PokeNum": 1000,
+    "PokeName": "Gholdengo",
+    "PokeType1": "STEEL",
+    "PokeType2": "GHOST"
+  },
+  {
+    "index": 1183,
+    "PokeNum": 1001,
+    "PokeName": "Wo-Chien",
+    "PokeType1": "DARK",
+    "PokeType2": "GRASS"
+  },
+  {
+    "index": 1184,
+    "PokeNum": 1002,
+    "PokeName": "Chien-Pao",
+    "PokeType1": "DARK",
+    "PokeType2": "ICE"
+  },
+  {
+    "index": 1185,
+    "PokeNum": 1003,
+    "PokeName": "Ting-Lu",
+    "PokeType1": "DARK",
+    "PokeType2": "GROUND"
+  },
+  {
+    "index": 1186,
+    "PokeNum": 1004,
+    "PokeName": "Chi-Yu",
+    "PokeType1": "DARK",
+    "PokeType2": "FIRE"
+  },
+  {
+    "index": 1187,
+    "PokeNum": 1005,
+    "PokeName": "Roaring Moon",
+    "PokeType1": "DRAGON",
+    "PokeType2": "DARK"
+  },
+  {
+    "index": 1188,
+    "PokeNum": 1006,
+    "PokeName": "Iron Valiant",
+    "PokeType1": "FAIRY",
+    "PokeType2": "FIGHTING"
+  },
+  {
+    "index": 1189,
+    "PokeNum": 1007,
+    "PokeName": "Koraidon",
+    "PokeType1": "FIGHTING",
+    "PokeType2": "DRAGON"
+  },
+  {
+    "index": 1190,
+    "PokeNum": 1008,
+    "PokeName": "Miraidon",
+    "PokeType1": "ELECTRIC",
+    "PokeType2": "DRAGON"
+  }
+]
