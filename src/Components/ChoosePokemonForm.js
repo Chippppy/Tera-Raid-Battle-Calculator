@@ -1,4 +1,4 @@
-import pokeNames from '../Resources/Pokemon.json';
+import pokeJSON from '../Resources/Pokemon.json';
 import React from 'react';
 
 const ChoosePokemonForm = () => {
@@ -20,13 +20,13 @@ const ChoosePokemonForm = () => {
 const populateForm = () => {
   const myUL = document.getElementById("myUL");
 
-  pokeNames.forEach(pokemon => {
+  pokeJSON.forEach(pokemon => {
     let htmlString = ""
 
-    if(pokemon['index'] < 10) {
-      htmlString = "<li><div class='PokemonList'>"+ pokemon['PokeName'] +"</div></li>";
+    if(pokemon['index'] < 14) {
+      htmlString = "<li><div class='PokemonList' id='"+pokemon['index']+"'>"+ pokemon['PokeNum'] + " : " + pokemon['PokeName'] +"</div></li>";
     } else {
-      htmlString = "<li style='display:none'><div class='PokemonList'>"+ pokemon['PokeName'] +"</div></li>";
+      htmlString = "<li style='display:none'><div class='PokemonList' id='"+pokemon['index']+"'>"+ pokemon['PokeNum'] + " : " + pokemon['PokeName'] +"</div></li>";
     }
 
     myUL.innerHTML = myUL.innerHTML + htmlString;
@@ -49,7 +49,7 @@ const searchMons = (e) => {
 
   if(input.value === '') {
     for (i = 0; i < li.length; i++) {
-      if(i < 9) {
+      if(i < 13) {
         li[i].style.display = "";
       } else {
         li[i].style.display = "none";
@@ -58,7 +58,7 @@ const searchMons = (e) => {
   } else {
     let screenShow = 0;
     for (i = 0; i < li.length; i++) {
-      if(screenShow === 9) break;
+      if(screenShow === 13) break;
 
       div = li[i].getElementsByTagName("div")[0];
       txtValue = div.textContent || div.innerText;
@@ -78,7 +78,10 @@ const addEvents = () => {
 
   const callBackFunc = (e) => {
     var selectedMon = e.currentTarget;
-    console.log(selectedMon.innerText);
+    console.log(selectedMon.id); 
+    console.log(selectedMon.innerText.split(' : ')[0]);
+    console.log(selectedMon.innerText.split(' : ')[1]);
+    //ADD HERE THE FUNCTION THAT PUTS THE INFORMAITON INTO THE RIGHT SPOT
   }
 
   Array.from(elements).forEach(function(element) {
@@ -86,6 +89,10 @@ const addEvents = () => {
   });
 }
 
+const populateChosenPokemon = (Obj) => {
+  var pokeSprite, pokeName, pokeType;
+}
 
+populateChosenPokemon('5')
 
 export { ChoosePokemonForm }
