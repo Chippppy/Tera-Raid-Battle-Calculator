@@ -91,7 +91,7 @@ const addEvents = () => {
 
 const populateChosenPokemon = (Obj) => {
   var pokeSprite, pokeName, pokeType;
-}
+} 
 
 populateChosenPokemon('5')
 
