@@ -1,5 +1,7 @@
-import pokeJSON from '../Resources/Pokemon.json';
 import React from 'react';
+
+import pokeJSON from '../Resources/Pokemon.json';
+import { fillResults } from './ResultsField';
 
 const ChoosePokemonForm = () => {
 
@@ -23,10 +25,10 @@ const populateForm = () => {
   pokeJSON.forEach(pokemon => {
     let htmlString = ""
 
-    if(pokemon['index'] < 14) {
-      htmlString = "<li><div class='PokemonList' id='"+pokemon['index']+"'>"+ pokemon['PokeNum'] + " : " + pokemon['PokeName'] +"</div></li>";
+    if(pokemon['Data'][0]['index'] < 14) {
+      htmlString = "<li><div class='PokemonList' id='"+pokemon['Data'][0]['index']+"'>"+ pokemon['Data'][0]['PokeNum'] + " : " + pokemon['Data'][0]['PokeName'] +"</div></li>";
     } else {
-      htmlString = "<li style='display:none'><div class='PokemonList' id='"+pokemon['index']+"'>"+ pokemon['PokeNum'] + " : " + pokemon['PokeName'] +"</div></li>";
+      htmlString = "<li style='display:none'><div class='PokemonList' id='"+pokemon['Data'][0]['index']+"'>"+ pokemon['Data'][0]['PokeNum'] + " : " + pokemon['Data'][0]['PokeName'] +"</div></li>";
     }
 
     myUL.innerHTML = myUL.innerHTML + htmlString;
@@ -78,10 +80,8 @@ const addEvents = () => {
 
   const callBackFunc = (e) => {
     var selectedMon = e.currentTarget;
-    console.log(selectedMon.id); 
-    console.log(selectedMon.innerText.split(' : ')[0]);
-    console.log(selectedMon.innerText.split(' : ')[1]);
     //ADD HERE THE FUNCTION THAT PUTS THE INFORMAITON INTO THE RIGHT SPOT
+    populateChosenPokemon(selectedMon.id);
   }
 
   Array.from(elements).forEach(function(element) {
@@ -90,9 +90,28 @@ const addEvents = () => {
 }
 
 const populateChosenPokemon = (Obj) => {
-  var pokeSprite, pokeName, pokeType;
+  var pokeSprite, pokeName, pokeType1, pokeType2;
+  
+  pokeSprite = pokeJSON[Obj]['Data'][0]['PokeSpriteUrl'];
+  pokeName = pokeJSON[Obj]['Data'][0]['PokeName'];
+  pokeType1 = pokeJSON[Obj]['Data'][0]['PokeType1'];
+  if(pokeJSON[Obj]['Data'][0]['PokeType2']) {
+    pokeType2 = pokeJSON[Obj]['Data'][0]['PokeType2'];
+  } else {
+    pokeType2 = "N/A";
+  }
+  
+  
+  const pokeObj = [
+    pokeName,
+    pokeSprite,
+    pokeType1,
+    pokeType2,
+  ];
+
+  fillResults(pokeObj);
 } 
 
-populateChosenPokemon('5')
+
 
 export { ChoosePokemonForm }
