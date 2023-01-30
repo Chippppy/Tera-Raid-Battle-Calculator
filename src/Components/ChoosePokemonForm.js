@@ -1,7 +1,7 @@
 import React from 'react';
 
 import pokeJSON from '../Resources/Pokemon.json';
-import { fillResults } from './ResultsField';
+import { fillPokeResults } from './ResultsField';
 
 const ChoosePokemonForm = () => {
 
@@ -109,9 +109,7 @@ const populateChosenPokemon = (Obj) => {
     pokeType2,
   ];
 
-  fillResults(pokeObj);
+  fillPokeResults(pokeObj);
 } 
-
-
 
 export { ChoosePokemonForm }
