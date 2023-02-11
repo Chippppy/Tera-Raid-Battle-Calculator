@@ -1,6 +1,7 @@
 import { ChoosePokemonForm } from "../Components/ChoosePokemonForm";
 import { ChooseTeraTypeTable } from "../Components/ChooseTeraTypeTable";
 import { ResultsField } from "../Components/ResultsField";
+import { CalculatedOdds } from "../Components/CalculatedOdds";
 import React from 'react';
 
 const Main = () => {
@@ -18,7 +19,10 @@ const Main = () => {
             <ChooseTeraTypeTable />
           </div>
         </div>
-        <ResultsField/>
+        <div className="grid-container-results">
+          <ResultsField />
+          <CalculatedOdds />
+        </div>
       </div>
     </>
   )
