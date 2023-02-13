@@ -1,0 +1,128 @@
+{
+  "NORMAL": {
+    "WEAK1": "FIGHTING",
+    "WEAK2": "",
+    "WEAK3": "",
+    "WEAK4": "",
+    "WEAK5": ""
+  },
+  "FIRE": {
+    "WEAK1": "WATER",
+    "WEAK2": "GROUND",
+    "WEAK3": "ROCK",
+    "WEAK4": "",
+    "WEAK5": ""
+  },
+  "WATER": {
+    "WEAK1": "ELECTRIC",
+    "WEAK2": "GRASS",
+    "WEAK3": "",
+    "WEAK4": "",
+    "WEAK5": ""
+  },
+  "ELECTRIC": {
+    "WEAK1": "GROUND",
+    "WEAK2": "",
+    "WEAK3": "",
+    "WEAK4": "",
+    "WEAK5": ""
+  },
+  "GRASS": {
+    "WEAK1": "FIRE",
+    "WEAK2": "ICE",
+    "WEAK3": "POISON",
+    "WEAK4": "BUG",
+    "WEAK5": ""
+  },
+  "ICE": {
+    "WEAK1": "FIRE",
+    "WEAK2": "FIGHTING",
+    "WEAK3": "ROCK",
+    "WEAK4": "STEEL",
+    "WEAK5": ""
+  },
+  "FIGHTING": {
+    "WEAK1": "FLYING",
+    "WEAK2": "PSYCHIC",
+    "WEAK3": "FAIRY",
+    "WEAK4": "",
+    "WEAK5": ""
+  },
+  "POISON": {
+    "WEAK1": "GROUND",
+    "WEAK2": "PSYCHIC",
+    "WEAK3": "",
+    "WEAK4": "",
+    "WEAK5": ""
+  },
+  "GROUND": {
+    "WEAK1": "WATER",
+    "WEAK2": "GRASS",
+    "WEAK3": "ICE",
+    "WEAK4": "",
+    "WEAK5": ""
+  },
+  "FLYING": {
+    "WEAK1": "ELECTRIC",
+    "WEAK2": "ICE",
+    "WEAK3": "ROCK",
+    "WEAK4": "",
+    "WEAK5": ""
+  },
+  "PSYCHIC": {
+    "WEAK1": "BUG",
+    "WEAK2": "GHOST",
+    "WEAK3": "DARK",
+    "WEAK4": "",
+    "WEAK5": ""
+  },
+  "BUG": {
+    "WEAK1": "FIRE",
+    "WEAK2": "FLYING",
+    "WEAK3": "ROCK",
+    "WEAK4": "",
+    "WEAK5": ""
+  },
+  "ROCK": {
+    "WEAK1": "ELECTRIC",
+    "WEAK2": "GRASS",
+    "WEAK3": "FIGHTING",
+    "WEAK4": "GROUND",
+    "WEAK5": "STEEL"
+  },
+  "GHOST": {
+    "WEAK1": "GHOST",
+    "WEAK2": "DARK",
+    "WEAK3": "",
+    "WEAK4": "",
+    "WEAK5": ""
+  },
+  "DRAGON": {
+    "WEAK1": "ICE",
+    "WEAK2": "DRAGON",
+    "WEAK3": "FAIRY",
+    "WEAK4": "",
+    "WEAK5": ""
+  },
+  "DARK": {
+    "WEAK1": "FIGHTING",
+    "WEAK2": "BUG",
+    "WEAK3": "FAIRY",
+    "WEAK4": "",
+    "WEAK5": ""
+  },
+  "STEEL": {
+    "WEAK1": "FIRE",
+    "WEAK2": "FIGHTING",
+    "WEAK3": "GROUND",
+    "WEAK4": "",
+    "WEAK5": ""
+  },
+  "FAIRY": {
+    "WEAK1": "POISON",
+    "WEAK2": "STEEL",
+    "WEAK3": "",
+    "WEAK4": "",
+    "WEAK5": ""
+  }
+}

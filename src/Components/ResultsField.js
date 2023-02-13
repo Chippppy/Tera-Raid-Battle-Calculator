@@ -20,6 +20,8 @@ import dragonIcon from '../Resources/TypeIcons/pokemon_type_icons_dragon.png';
 import darkIcon from '../Resources/TypeIcons/pokemon_type_icons_dark.png';
 import fairyIcon from '../Resources/TypeIcons/pokemon_type_icons_fairy.png';
 
+import { suggestionResults } from './CalculatedOdds';
+
 const ResultsField = () => {
 
   const data = (
@@ -34,7 +36,7 @@ const ResultsField = () => {
         </div>
         <div className="ChosenTeraType">
           <h2>Chosen TeraType</h2>
-          <div id='chosenTeraType'></div>
+          <div id='chosenTeraType' className='selectedType'></div>
         </div>
       </div>
     </>
@@ -44,12 +46,11 @@ const ResultsField = () => {
 }
 
 const fillTypeResults = (teraType) => {
-  document.getElementById("chosenTeraType").innerHTML = getTypeHTML(teraType.toUpperCase());
+  document.getElementById("chosenTeraType").innerHTML = getTypeHTML(teraType.toUpperCase(), true);
+  checkResultsAvailable();
 }
 
 const fillPokeResults = (pokeObj) => {
-  console.log(pokeObj);
-
   let chosenPokeSprite = document.getElementById("chosenPokeSprite");
   let chosenPokeName = document.getElementById('chosenPokeName');
   let chosenPokeType1 = document.getElementById('chosenPokeType1');
@@ -57,14 +58,15 @@ const fillPokeResults = (pokeObj) => {
 
   chosenPokeSprite.innerHTML = "<img src='" + pokeObj[1] + "'>";
 
-  chosenPokeName.innerHTML = "<h4>" + pokeObj[0] + "</h4>";
+  chosenPokeName.innerHTML = '<h4 id="chosenPokeName-name">' + pokeObj[0] + "</h4>";
 
-  chosenPokeType1.innerHTML = getTypeHTML(pokeObj[2]);
+  chosenPokeType1.innerHTML = getTypeHTML(pokeObj[2], false);
 
-  chosenPokeType2.innerHTML = getTypeHTML(pokeObj[3]);
+  chosenPokeType2.innerHTML = getTypeHTML(pokeObj[3], false);
+  checkResultsAvailable();
 }
 
-const getTypeHTML = (type) => {
+const getTypeHTML = (type, teraBool) => {
   var responseHTML;
   switch (type) {
     case 'NORMAL':
@@ -124,7 +126,29 @@ const getTypeHTML = (type) => {
     default:
       responseHTML = '<h4>N/A</h4>';
   }
+  if(teraBool) {
+    responseHTML = responseHTML.split("<h4>");
+    responseHTML = '<h4 id="chosenTeraType-name">'+responseHTML[1];
+  } else {
+    responseHTML = responseHTML.split("<h4>");
+    responseHTML = '<h4 class="chosenPokeType-name">'+responseHTML[1];
+  }
   return responseHTML;
+}
+
+const checkResultsAvailable = () => {
+  let teraTypeResult = document.getElementById("chosenTeraType-name");
+  let pokeNameResult = document.getElementById("chosenPokeName-name");
+
+  if(teraTypeResult && pokeNameResult) {
+    const mutantResults = {
+      "TeraType": teraTypeResult.innerText,
+      "pokeId": pokeNameResult.innerText.split(":")[1].split(" -")[0],
+    };
+    suggestionResults(mutantResults);
+  } else {
+    console.log("Sometihng missing...");
+  }
 }
 
 export { ResultsField, fillPokeResults, fillTypeResults }

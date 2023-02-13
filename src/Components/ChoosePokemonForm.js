@@ -80,7 +80,6 @@ const addEvents = () => {
 
   const callBackFunc = (e) => {
     var selectedMon = e.currentTarget;
-    //ADD HERE THE FUNCTION THAT PUTS THE INFORMAITON INTO THE RIGHT SPOT
     populateChosenPokemon(selectedMon.id);
   }
 
@@ -89,21 +88,20 @@ const addEvents = () => {
   });
 }
 
-const populateChosenPokemon = (Obj) => {
+const populateChosenPokemon = (pokeId) => {
   var pokeSprite, pokeName, pokeType1, pokeType2;
   
-  pokeSprite = pokeJSON[Obj]['Data'][0]['PokeSpriteUrl'];
-  pokeName = pokeJSON[Obj]['Data'][0]['PokeName'];
-  pokeType1 = pokeJSON[Obj]['Data'][0]['PokeType1'];
-  if(pokeJSON[Obj]['Data'][0]['PokeType2']) {
-    pokeType2 = pokeJSON[Obj]['Data'][0]['PokeType2'];
+  pokeSprite = pokeJSON[pokeId]['Data'][0]['PokeSpriteUrl'];
+  pokeName = pokeJSON[pokeId]['Data'][0]['PokeName'];
+  pokeType1 = pokeJSON[pokeId]['Data'][0]['PokeType1'];
+  if(pokeJSON[pokeId]['Data'][0]['PokeType2']) {
+    pokeType2 = pokeJSON[pokeId]['Data'][0]['PokeType2'];
   } else {
     pokeType2 = "N/A";
   }
   
-  
   const pokeObj = [
-    pokeName,
+    "ID:"+pokeId+" - "+pokeName,
     pokeSprite,
     pokeType1,
     pokeType2,
