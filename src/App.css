@@ -1,0 +1,154 @@
+body {
+  margin: 0;
+  padding: 0;
+  font-family: Arial, sans-serif;
+  background-color: #f2f2f2;
+}
+
+.app {
+  max-width: 80%;
+  margin: 0 auto;
+  padding: 1.25em;
+  background-color: #fff;
+  box-shadow: 0 0.125em 0.25em rgba(0, 0, 0, 0.1);
+}
+
+h2 {
+  font-size: 1.5em;
+  margin-top: 0;
+  margin-bottom: 0.625em;
+}
+
+.grid-container-selection {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  grid-gap: 1.25em;
+}
+
+.grid-item {
+  padding: 1.25em;
+  background-color: #f8f8f8;
+}
+
+#container-ChoosePokemonForm {
+  position: relative;
+}
+
+#myInput {
+  width: 100%;
+  padding: 0.625em;
+  border: none;
+  border-bottom: 0.0625em solid #ccc;
+  font-size: 1em;
+}
+
+#myUL {
+  list-style-type: none;
+  padding: 0;
+}
+
+.PokemonList {
+  cursor: pointer;
+  padding: 0.75em;
+}
+
+.grid-container-pokeType {
+  grid-template-columns: repeat(4, 1fr);
+  grid-gap: 0.625em;
+}
+
+.container-pokeTypeIcon {
+  text-align: center;
+}
+
+.container-pokeTypeIcon button {
+  border: none;
+  background-color: transparent;
+}
+
+.container-pokeTypeIcon img {
+  width: 3em;  /* Adjust the width to make the icons smaller */
+  height: 3em; /* Adjust the height to make the icons smaller */
+}
+
+.ChosenPokemon {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: #f8f8f8;
+  margin: 1em;
+  padding: 1em;
+}
+
+.ChosenPokemon > * {
+  flex: 1;
+}
+
+.container-resultsField {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.ChosenTeraType {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: #f8f8f8;
+  margin: 1em;
+  padding: 1em;
+}
+
+.ChosenTeraType > * {
+  flex: 1;
+}
+
+#chosenPokeSprite img {
+  width: 10em;  /* Adjust the width to make the icons smaller */
+  height: 10em; /* Adjust the height to make the icons smaller */
+}
+
+#chosenPokeType1 img {
+  width: 5em;  /* Adjust the width to make the icons smaller */
+  height: 5em; /* Adjust the height to make the icons smaller */
+}
+
+#chosenPokeType2 img {
+  width: 5em;  /* Adjust the width to make the icons smaller */
+  height: 5em; /* Adjust the height to make the icons smaller */
+}
+
+.selectedType img{
+  width: 6em;  /* Adjust the width to make the icons smaller */
+  height: 6em; /* Adjust the height to make the icons smaller */
+}
+
+.grid-container-suggestedMons {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.grid-container-suggestedMons > * {
+  flex: 1;
+}
+
+.suggested-mon-img {
+  width: 10em;  /* Adjust the width to make the icons smaller */
+  height: 10em; /* Adjust the height to make the icons smaller */
+}
+
+.teraTypeIconImg {
+  width: 3em;  /* Adjust the width to make the icons smaller */
+  height: 3em; /* Adjust the height to make the icons smaller */
+}
+
+.best-mon-containers {
+  background-color: #f8f8f8;
+  padding: 1em;
+  margin: 1em;
+}
+
+.best-mon-containers > * {
+  padding: 1em;
+}

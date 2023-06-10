@@ -25,7 +25,7 @@ const populateForm = () => {
   pokeJSON.forEach(pokemon => {
     let htmlString = ""
 
-    if(pokemon['Data'][0]['index'] < 14) {
+    if(pokemon['Data'][0]['index'] < 7) {
       htmlString = "<li><div class='PokemonList' id='"+pokemon['Data'][0]['index']+"'>"+ pokemon['Data'][0]['PokeNum'] + " : " + pokemon['Data'][0]['PokeName'] +"</div></li>";
     } else {
       htmlString = "<li style='display:none'><div class='PokemonList' id='"+pokemon['Data'][0]['index']+"'>"+ pokemon['Data'][0]['PokeNum'] + " : " + pokemon['Data'][0]['PokeName'] +"</div></li>";
@@ -51,7 +51,7 @@ const searchMons = (e) => {
 
   if(input.value === '') {
     for (i = 0; i < li.length; i++) {
-      if(i < 13) {
+      if(i < 6) {
         li[i].style.display = "";
       } else {
         li[i].style.display = "none";
@@ -60,7 +60,7 @@ const searchMons = (e) => {
   } else {
     let screenShow = 0;
     for (i = 0; i < li.length; i++) {
-      if(screenShow === 13) break;
+      if(screenShow === 6) break;
 
       div = li[i].getElementsByTagName("div")[0];
       txtValue = div.textContent || div.innerText;

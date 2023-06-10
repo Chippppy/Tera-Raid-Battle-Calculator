@@ -20,7 +20,8 @@ import dragonIcon from '../Resources/TypeIcons/pokemon_type_icons_dragon.png';
 import darkIcon from '../Resources/TypeIcons/pokemon_type_icons_dark.png';
 import fairyIcon from '../Resources/TypeIcons/pokemon_type_icons_fairy.png';
 
-import { suggestionResults } from './CalculatedOdds';
+import { findBestPokemons } from './CalculatedOdds';
+import { tab } from '@testing-library/user-event/dist/tab';
 
 const ResultsField = () => {
 
@@ -70,58 +71,58 @@ const getTypeHTML = (type, teraBool) => {
   var responseHTML;
   switch (type) {
     case 'NORMAL':
-      responseHTML = '<h4>NORMAL</h4><img src="' + normalIcon + '">';
+      responseHTML = '<h4>NORMAL</h4><img src="' + normalIcon + '" class="teraTypeIconImg">';
       break;
     case 'FIGHTING':
-      responseHTML = '<h4>FIGHTING</h4><img src="' + fightingIcon + '">';
+      responseHTML = '<h4>FIGHTING</h4><img src="' + fightingIcon + '" class="teraTypeIconImg">';
       break;
     case 'FLYING':
-      responseHTML = '<h4>FLYING</h4><img src="' + flyingIcon + '">';
+      responseHTML = '<h4>FLYING</h4><img src="' + flyingIcon + '" class="teraTypeIconImg">';
       break;
     case 'POISON':
-      responseHTML = '<h4>POISON</h4><img src="' + poisonIcon + '">';
+      responseHTML = '<h4>POISON</h4><img src="' + poisonIcon + '" class="teraTypeIconImg">';
       break;
     case 'GROUND':
-      responseHTML = '<h4>GROUND</h4><img src="' + groundIcon + '">';
+      responseHTML = '<h4>GROUND</h4><img src="' + groundIcon + '" class="teraTypeIconImg">';
       break;
     case 'ROCK':
-      responseHTML = '<h4>ROCK</h4><img src="' + rockIcon + '">';
+      responseHTML = '<h4>ROCK</h4><img src="' + rockIcon + '" class="teraTypeIconImg">';
       break;
     case 'BUG':
-      responseHTML = '<h4>BUG</h4><img src="' + bugIcon + '">';
+      responseHTML = '<h4>BUG</h4><img src="' + bugIcon + '" class="teraTypeIconImg">';
       break;
     case 'GHOST':
-      responseHTML = '<h4>GHOST</h4><img src="' + ghostIcon + '">';
+      responseHTML = '<h4>GHOST</h4><img src="' + ghostIcon + '" class="teraTypeIconImg">';
       break;
     case 'STEEL':
-      responseHTML = '<h4>STEEL</h4><img src="' + steelIcon + '">';
+      responseHTML = '<h4>STEEL</h4><img src="' + steelIcon + '" class="teraTypeIconImg">';
       break;
     case 'FIRE':
-      responseHTML = '<h4>FIRE</h4><img src="' + fireIcon + '">';
+      responseHTML = '<h4>FIRE</h4><img src="' + fireIcon + '" class="teraTypeIconImg">';
       break;
     case 'WATER':
-      responseHTML = '<h4>WATER</h4><img src="' + waterIcon + '">';
+      responseHTML = '<h4>WATER</h4><img src="' + waterIcon + '" class="teraTypeIconImg">';
       break;
     case 'GRASS':
-      responseHTML = '<h4>GRASS</h4><img src="' + grassIcon + '">';
+      responseHTML = '<h4>GRASS</h4><img src="' + grassIcon + '" class="teraTypeIconImg">';
       break;
     case 'ELECTRIC':
-      responseHTML = '<h4>ELECTRIC</h4><img src="' + electricIcon + '">';
+      responseHTML = '<h4>ELECTRIC</h4><img src="' + electricIcon + '" class="teraTypeIconImg">';
       break;
     case 'PSYCHIC':
-      responseHTML = '<h4>PSYCHIC</h4><img src="' + psychicIcon + '">';
+      responseHTML = '<h4>PSYCHIC</h4><img src="' + psychicIcon + '" class="teraTypeIconImg">';
       break;
     case 'ICE':
-      responseHTML = '<h4>ICE</h4><img src="' + iceIcon + '">';
+      responseHTML = '<h4>ICE</h4><img src="' + iceIcon + '" class="teraTypeIconImg">';
       break;
     case 'DRAGON':
-      responseHTML = '<h4>DRAGON</h4><img src="' + dragonIcon + '">';
+      responseHTML = '<h4>DRAGON</h4><img src="' + dragonIcon + '" class="teraTypeIconImg">';
       break;
     case 'DARK':
-      responseHTML = '<h4>DARK</h4><img src="' + darkIcon + '">';
+      responseHTML = '<h4>DARK</h4><img src="' + darkIcon + '" class="teraTypeIconImg">';
       break;
     case 'FAIRY':
-      responseHTML = '<h4>FAIRY</h4><img src="' + fairyIcon + '">';
+      responseHTML = '<h4>FAIRY</h4><img src="' + fairyIcon + '" class="teraTypeIconImg">';
       break;
     default:
       responseHTML = '<h4>N/A</h4>';
@@ -141,11 +142,37 @@ const checkResultsAvailable = () => {
   let pokeNameResult = document.getElementById("chosenPokeName-name");
 
   if(teraTypeResult && pokeNameResult) {
-    const mutantResults = {
-      "TeraType": teraTypeResult.innerText,
-      "pokeId": pokeNameResult.innerText.split(":")[1].split(" -")[0],
-    };
-    suggestionResults(mutantResults);
+    let bestMonsArray = findBestPokemons(teraTypeResult.innerText, pokeNameResult.innerText.split(":")[1].split(" -")[0]);
+    console.log(bestMonsArray);
+    let resultsField = document.getElementById("best-mons");
+
+    let tableString = "";
+    bestMonsArray.forEach(mon => {
+      let pokeName = mon.Data[0].PokeName;
+      let spriteURL = mon.Data[0].PokeSpriteUrl;
+      let type1 = mon.Data[0].PokeType1;
+      let type2 = mon.Data[0].PokeType2;
+      let defence = mon.Data[0].statsDef;
+      let spDef = mon.Data[0].statsSpDef;
+      let attack = mon.Data[0].statsAtk;
+      let spAtk = mon.Data[0].statsSpAtk;
+      let speed = mon.Data[0].statsSpd;
+      let hp = mon.Data[0].statsHP;
+
+      tableString = tableString + `
+      <tr class='best-mon-containers'>
+        <td>`+ pokeName +` <img src=`+ spriteURL +` alt="Pokemon Sprite" class='suggested-mon-img'/></td>
+        <td>`+getTypeHTML(type1,false)+getTypeHTML(type2,false)+`</td>
+        <td>`+defence+`</td>
+        <td>`+spDef+`</td>
+        <td>`+attack+`</td>
+        <td>`+spAtk+`</td>
+        <td>`+speed+`</td>
+        <td>`+hp+`</td>
+      </tr>
+      `
+    })
+    resultsField.innerHTML = tableString;
   } else {
     console.log("Sometihng missing...");
   }
