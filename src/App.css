@@ -1,154 +1,350 @@
+:root {
+  --primary-color: #2c3e50;
+  --secondary-color: #3498db;
+  --background-color: #f5f6fa;
+  --card-background: #ffffff;
+  --text-color: #2c3e50;
+  --border-radius: 12px;
+  --box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+  --transition: all 0.3s ease;
+}
+
 body {
   margin: 0;
   padding: 0;
-  font-family: Arial, sans-serif;
-  background-color: #f2f2f2;
+  font-family: 'Segoe UI', 'Roboto', sans-serif;
+  background-color: var(--background-color);
+  color: var(--text-color);
 }
 
 .app {
-  max-width: 80%;
-  margin: 0 auto;
-  padding: 1.25em;
-  background-color: #fff;
-  box-shadow: 0 0.125em 0.25em rgba(0, 0, 0, 0.1);
+  max-width: 1200px;
+  margin: 2rem auto;
+  padding: 2rem;
 }
 
-h2 {
-  font-size: 1.5em;
-  margin-top: 0;
-  margin-bottom: 0.625em;
-}
-
+/* Selection Container */
 .grid-container-selection {
   display: grid;
-  grid-template-columns: 1fr 1fr;
-  grid-gap: 1.25em;
+  grid-template-columns: 1fr 1fr 1fr;
+  gap: 1.5rem;
+  margin-bottom: 2rem;
 }
 
 .grid-item {
-  padding: 1.25em;
-  background-color: #f8f8f8;
+  background-color: var(--card-background);
+  padding: 1.5rem;
+  border-radius: var(--border-radius);
+  box-shadow: var(--box-shadow);
 }
 
+/* Pokemon Selection */
 #container-ChoosePokemonForm {
   position: relative;
 }
 
-#myInput {
-  width: 100%;
-  padding: 0.625em;
-  border: none;
-  border-bottom: 0.0625em solid #ccc;
-  font-size: 1em;
+.pokemon-search-input {
+  width: 90%;
+  padding: 1rem;
+  border: 2px solid #e0e0e0;
+  border-radius: var(--border-radius);
+  font-size: 1rem;
+  transition: var(--transition);
+  margin-bottom: 1rem;
 }
 
-#myUL {
-  list-style-type: none;
+.pokemon-search-input:focus {
+  border-color: var(--secondary-color);
+  outline: none;
+}
+
+.pokemon-list {
+  list-style: none;
   padding: 0;
+  margin: 0;
+  overflow-y: auto;
+}
+
+.blacklisted-pokemon .pokemon-list {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+  max-height: 300px;
+  overflow-y: auto;
 }
 
 .PokemonList {
+  padding: 0.75rem 1rem;
   cursor: pointer;
-  padding: 0.75em;
+  transition: var(--transition);
+  border-radius: 6px;
+  margin-bottom: 0.5rem;
+  background-color: #f8f9fa;
+  width: 85%;
 }
 
-.grid-container-pokeType {
-  grid-template-columns: repeat(4, 1fr);
-  grid-gap: 0.625em;
+.PokemonList:hover {
+  background-color: var(--secondary-color);
+  color: white;
+  transform: translateX(5px);
 }
 
-.container-pokeTypeIcon {
+/* Tera Type Grid */
+.tera-type-grid {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 1rem;
+  overflow-y: auto;
+}
+
+.tera-type-item {
+  background-color: #f8f9fa;
+  padding: 1rem;
+  border-radius: var(--border-radius);
+  cursor: pointer;
+  transition: var(--transition);
   text-align: center;
 }
 
-.container-pokeTypeIcon button {
-  border: none;
-  background-color: transparent;
-}
-
-.container-pokeTypeIcon img {
-  width: 3em;  /* Adjust the width to make the icons smaller */
-  height: 3em; /* Adjust the height to make the icons smaller */
-}
-
-.ChosenPokemon {
-  display: flex;
-  justify-content: center;
-  align-items: center;
-  background-color: #f8f8f8;
-  margin: 1em;
-  padding: 1em;
-}
-
-.ChosenPokemon > * {
-  flex: 1;
-}
-
-.container-resultsField {
-  display: flex;
-  justify-content: center;
-  align-items: center;
-}
-
-.ChosenTeraType {
-  display: flex;
-  justify-content: center;
-  align-items: center;
-  background-color: #f8f8f8;
-  margin: 1em;
-  padding: 1em;
-}
-
-.ChosenTeraType > * {
-  flex: 1;
-}
-
-#chosenPokeSprite img {
-  width: 10em;  /* Adjust the width to make the icons smaller */
-  height: 10em; /* Adjust the height to make the icons smaller */
-}
-
-#chosenPokeType1 img {
-  width: 5em;  /* Adjust the width to make the icons smaller */
-  height: 5em; /* Adjust the height to make the icons smaller */
-}
-
-#chosenPokeType2 img {
-  width: 5em;  /* Adjust the width to make the icons smaller */
-  height: 5em; /* Adjust the height to make the icons smaller */
-}
-
-.selectedType img{
-  width: 6em;  /* Adjust the width to make the icons smaller */
-  height: 6em; /* Adjust the height to make the icons smaller */
-}
-
-.grid-container-suggestedMons {
-  display: flex;
-  justify-content: center;
-  align-items: center;
-}
-
-.grid-container-suggestedMons > * {
-  flex: 1;
-}
-
-.suggested-mon-img {
-  width: 10em;  /* Adjust the width to make the icons smaller */
-  height: 10em; /* Adjust the height to make the icons smaller */
+.tera-type-item:hover {
+  transform: translateY(-3px);
+  box-shadow: var(--box-shadow);
 }
 
 .teraTypeIconImg {
-  width: 3em;  /* Adjust the width to make the icons smaller */
-  height: 3em; /* Adjust the height to make the icons smaller */
+  width: 40px;
+  height: 40px;
+  margin-top: 0.5rem;
+}
+
+/* Results Section */
+.container-resultsField {
+  background-color: var(--card-background);
+  border-radius: var(--border-radius);
+  box-shadow: var(--box-shadow);
+  padding: 1.5rem;
+  margin-bottom: 2rem;
+  display: flex;
+  align-items: center;
+  gap: 2rem;
+  justify-content: center;
+}
+
+.ChosenPokemon, .ChosenTeraType {
+  text-align: center;
+  padding: 1rem;
+  background-color: #f8f9fa;
+  border-radius: var(--border-radius);
+  flex: 3;
+  max-width: 400px;
+}
+
+.selectedMon {
+  margin-bottom: 0.5rem;
+  display: inline-block;
+}
+
+.selectedMon img {
+  width: 80px;
+  height: 80px;
+  margin: 0.5rem 0;
+}
+
+.selectedMon h4 {
+  margin: 0.5rem 0;
+  font-size: 0.9rem;
+}
+
+.selectedType img {
+  width: 60px;
+  height: 60px;
+}
+
+.chosenPokeType-name {
+  margin: 0.25rem 0;
+  font-size: 0.9rem;
+}
+
+/* Best Counters Table */
+.calculated-odds {
+  background-color: var(--card-background);
+  border-radius: var(--border-radius);
+  box-shadow: var(--box-shadow);
+  padding: 2rem;
+  overflow-x: auto;
+}
+
+.calculated-odds table {
+  width: 100%;
+  border-collapse: collapse;
+  margin-top: 1rem;
+}
+
+.calculated-odds th {
+  background-color: var(--primary-color);
+  color: white;
+  padding: 1rem;
+  text-align: left;
+}
+
+.calculated-odds td {
+  padding: 1rem;
+  border-bottom: 1px solid #e0e0e0;
 }
 
 .best-mon-containers {
-  background-color: #f8f8f8;
-  padding: 1em;
-  margin: 1em;
+  transition: var(--transition);
 }
 
-.best-mon-containers > * {
-  padding: 1em;
+.best-mon-containers:hover {
+  background-color: #f8f9fa;
+}
+
+.suggested-mon-img {
+  width: 80px;
+  vertical-align: middle;
+  margin-left: 1rem;
+}
+
+.best-mon-containers td {
+  font-weight: bold;
+}
+
+/* Type Icons in Results */
+.type-icon-container {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.5rem;
+  background-color: #f0f2f5;
+  padding: 0.5rem;
+  border-radius: 4px;
+  margin: 0.25rem;
+}
+
+/* Scrollbar Styling */
+::-webkit-scrollbar {
+  width: 8px;
+}
+
+::-webkit-scrollbar-track {
+  background: #f1f1f1;
+  border-radius: 4px;
+}
+
+::-webkit-scrollbar-thumb {
+  background: var(--secondary-color);
+  border-radius: 4px;
+}
+
+::-webkit-scrollbar-thumb:hover {
+  background: var(--primary-color);
+}
+
+/* Blacklist Section */
+.blacklist-container {
+  margin-top: 1rem;
+  padding: 1rem;
+  background-color: var(--card-background);
+  border-radius: var(--border-radius);
+  box-shadow: var(--box-shadow);
+}
+
+.blacklist-container h3 {
+  margin-top: 0;
+  margin-bottom: 1rem;
+  color: var(--text-color);
+}
+
+.blacklisted-pokemon {
+  margin-top: 2rem;
+}
+
+.blacklisted-pokemon h4 {
+  margin: 0.5rem 0;
+  color: var(--text-color);
+}
+
+.blacklisted-pokemon .pokemon-search-input {
+  margin: 1rem 0;
+  width: 90%;
+}
+
+.PokemonList.blacklisted {
+  display: flex;
+  align-items: center;
+  gap: 0.5rem;
+  background-color: #fff5f5;
+  border: 1px solid #fed7d7;
+  padding: 0.5rem 1rem;
+  margin-bottom: 0.5rem;
+  transition: var(--transition);
+}
+
+.PokemonList.blacklisted:hover {
+  background-color: #fff0f0;
+  border-color: #feb2b2;
+  transform: translateX(5px);
+}
+
+.blacklisted-pokemon-sprite {
+  width: 30px;
+  height: 30px;
+  object-fit: contain;
+}
+
+.remove-icon {
+  margin-left: auto;
+  color: #e53e3e;
+  font-size: 1.2rem;
+  cursor: pointer;
+  padding: 0 0.5rem;
+}
+
+.remove-icon:hover {
+  color: #c53030;
+}
+
+/* Blacklist Special Buttons */
+.blacklist-special-buttons {
+  display: flex;
+  gap: 0.5rem;
+  margin-bottom: 1rem;
+  flex-wrap: wrap;
+}
+
+.blacklist-button {
+  padding: 0.5rem 1rem;
+  border: none;
+  border-radius: var(--border-radius);
+  background-color: var(--secondary-color);
+  color: white;
+  cursor: pointer;
+  transition: var(--transition);
+  font-size: 0.9rem;
+  flex: 1;
+  min-width: 150px;
+}
+
+.blacklist-button:hover {
+  background-color: var(--primary-color);
+  transform: translateY(-2px);
+}
+
+/* Search Results */
+.search-results {
+  margin-top: 0.5rem;
+  max-height: 200px;
+  overflow-y: auto;
+  border: 1px solid #e0e0e0;
+  border-radius: var(--border-radius);
+  background-color: white;
+}
+
+.search-results .PokemonList {
+  margin: 0;
+  border-bottom: 1px solid #e0e0e0;
+}
+
+.search-results .PokemonList:last-child {
+  border-bottom: none;
 }
